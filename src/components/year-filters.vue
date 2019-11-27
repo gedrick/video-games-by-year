@@ -1,9 +1,9 @@
 <template>
-  <div class="year-filter" v-if="availableYears">
+  <div class="filter" v-if="availableYears">
     <div
       v-for="year in availableYears"
       :key="year"
-      class="year"
+      class="pill year"
     >
       <input type="checkbox" :checked="yearIsSelected(year)" />
       <span @click="toggleYear(year)" :class="{selected: yearIsSelected(year)}">{{ year }}</span>
@@ -28,26 +28,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.year-filter {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-
-  input {
-    position: absolute;
-    left: -9999px;
-  }
-
+.filter {
   span {
-    cursor: pointer;
-    padding: 5px;
-    margin: 3px;
-    color: #fff;
-    font-weight: bold;
-    border-radius: 3px;
     background-color: rgba(red, 0.5);
-    transition-property: background-color, border;
-    transition-duration: 0.5s;
     border: 1px solid transparent;
 
     &:hover {

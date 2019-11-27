@@ -8,6 +8,7 @@ import { default as games2018 } from "../data/2018.js";
 
 const state = {
   games: {},
+  systems: [],
   filteredGames: []
 };
 
@@ -16,39 +17,49 @@ const getters = {
   availableYears: state => {
     return Object.keys(state.games).map(year => Number(year));
   },
-  availableConsoles: state => {
-    let consoles = [];
-    for (let year in state.games) {
-      state.games[year].forEach(game => {
-        game.systems.forEach(system => {
-          if (!consoles.includes(system)) {
-            consoles.push(system);
-          }
-        })
-      })
-    }
-    return consoles;
-  }
-};
-
-const actions = {
-  fetchGames({ commit }) {
-    const games = {
-      2012: games2012,
-      2013: games2013,
-      2014: games2014,
-      2015: games2015,
-      2016: games2016,
-      2017: games2017,
-      2018: games2018
-    }
-    commit('addGames', games);
-  }
+  availableSystems: state => state.systems
 };
 
 const mutations = {
   addGames(state, games) {
     state.games = games;
+  },
+  addSystems(state, systems) {
+    state.systems = systems;
+  }
+};
+
+const actions = {
+  fetchGames({ commit }) {
+    return new Promise(resolve => {
+      const games = {
+        2012: games2012,
+        2013: games2013,
+        2014: games2014,
+        2015: games2015,
+        2016: games2016,
+        2017: games2017,
+        2018: games2018
+      }
+      commit('addGames', games);
+      resolve();
+    });
+  },
+  fetchSystems({ commit, state }) {
+    return new Promise(resolve => {
+      let systems = [];
+      for (let year in state.games) {
+        state.games[year].forEach(game => {
+          game.systems.forEach(system => {
+            if (!systems.includes(system) && system) {
+              systems.push(system);
+            }
+          })
+        })
+      }
+      commit('addSystems', systems);
+      resolve();
+    });
   }
 };
 

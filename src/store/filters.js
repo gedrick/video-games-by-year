@@ -1,15 +1,15 @@
 import Vue from 'vue';
 
 const state = {
-  year: [],
-  month: [],
-  genre: []
+  years: [],
+  months: [],
+  systems: []
 };
 
 const getters = {
-  years: state => state.year,
-  months: state => state.month,
-  genres: state => state.genre
+  years: state => state.years,
+  months: state => state.months,
+  systems: state => state.systems
 };
 
 const actions = {
@@ -21,10 +21,10 @@ const actions = {
 
 const mutations = {
   toggleYear(state, year) {
-    if (!state.year.includes(year)) {
-      state.year.push(year);
+    if (!state.years.includes(year)) {
+      state.years.push(year);
     } else {
-      state.year = state.year.filter(currentYear => currentYear !== year);
+      state.years = state.years.filter(currentYear => currentYear !== year);
     }
   },
   // toggleMonth(state, month) {
@@ -36,15 +36,13 @@ const mutations = {
   //   }
   //   Vue.set(state, month, months);
   // },
-  // toggleGenre(state, genre) {
-  //   const genres = state.genre;
-  //   if (!genres.includes(genre)) {
-  //     genres.push(genre);
-  //   } else {
-  //     genres = genres.filter(currentGenre => currentGenre !== genre);
-  //   }
-  //   Vue.set(state, genre, genres);
-  // },
+  toggleSystem(state, system) {
+    if (!state.systems.includes(system)) {
+      state.systems.push(system);
+    } else {
+      state.systems = state.systems.filter(currentSystem => currentSystem !== system);
+    }
+  },
 };
 
 export default {

@@ -5925,7 +5925,8 @@ export default [
       "PS3",
       "PS4",
       "Wii",
-      "WiiU X360",
+      "WiiU",
+      "X360",
       "XBO"
     ]
   },
