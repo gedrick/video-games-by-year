@@ -28,11 +28,11 @@ export default {
   mounted() {
     this.$store.dispatch('initialize');
     this.$store.dispatch('fetchGames');
-    this.$store.dispatch('fetchSystems');
   },
   computed: {
-    ...mapGetters('games', ['games']),
+    ...mapGetters(['games', 'selectedYears']),
     filteredGames() {
+      const gamesInSelectedYears = this.games;
       return [];
     }
   }

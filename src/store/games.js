@@ -6,6 +6,8 @@ import { default as games2016 } from "../data/2016.js";
 import { default as games2017 } from "../data/2017.js";
 import { default as games2018 } from "../data/2018.js";
 
+import { mapSystem } from '../helpers';
+
 const state = {
   games: {},
   systems: [],
@@ -41,31 +43,46 @@ const actions = {
         2017: games2017,
         2018: games2018
       }
-      commit('addGames', games);
-      resolve();
-    });
-  },
-  fetchSystems({ commit, state }) {
-    return new Promise(resolve => {
-      let systems = [];
-      for (let year in state.games) {
-        state.games[year].forEach(game => {
-          game.systems.forEach(system => {
-            if (!systems.includes(system) && system) {
-              systems.push(system);
+      const systems = [];
+      for (let year in games) {
+        games[year].forEach(game => {
+          game.systems = game.systems.map(system => {
+            let mapping = mapSystem(system);
+            // let newSystems = [];
+            if (system && !systems.includes(mapping)) {
+              systems.push(mapping);
             }
+
+            return mapping;
           })
         })
       }
+      commit('addGames', games);
       commit('addSystems', systems);
       resolve();
     });
-  }
+  },
+  // fetchSystems({ commit, state }) {
+  //   return new Promise(resolve => {
+  //     let systems = [];
+  //     for (let year in state.games) {
+  //       state.games[year].forEach(game => {
+  //         game.systems.forEach(system => {
+  //           if (!systems.includes(system) && system) {
+  //             systems.push(system);
+  //           }
+  //         })
+  //       })
+  //     }
+  //     commit('addSystems', systems);
+  //     resolve();
+  //   });
+  // }
 };
 
 export default {
   state,
   getters,
   actions,
-  mutations,
+  mutations
 };

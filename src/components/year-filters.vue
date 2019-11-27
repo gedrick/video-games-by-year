@@ -16,12 +16,12 @@ import { mapGetters, mapMutations } from 'vuex';
 
 export default {
   computed: {
-    ...mapGetters(['years', 'availableYears'])
+    ...mapGetters(['selectedYears', 'availableYears'])
   },
   methods: {
     ...mapMutations(['toggleYear']),
     yearIsSelected(year) {
-      return this.years.includes(year);
+      return this.selectedYears.includes(year);
     }
   }
 };
@@ -30,7 +30,7 @@ export default {
 <style lang="scss" scoped>
 .filter {
   span {
-    background-color: rgba(red, 0.5);
+    background-color: rgba(#D2FBA3, 0.5);
     border: 1px solid transparent;
 
     &:hover {
@@ -38,7 +38,7 @@ export default {
     }
 
     &.selected {
-      background-color: rgba(red, 1);
+      background-color: rgba(#D2FBA3, 1);
       border: 1px solid transparent;
     }
   }

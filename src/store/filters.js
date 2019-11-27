@@ -7,9 +7,9 @@ const state = {
 };
 
 const getters = {
-  years: state => state.years,
+  selectedYears: state => state.years,
   months: state => state.months,
-  systems: state => state.systems
+  selectedSystems: state => state.systems
 };
 
 const actions = {
