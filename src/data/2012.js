@@ -171,7 +171,7 @@ export default [
     "title": "Oil Rush",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -1022,7 +1022,7 @@ export default [
     "title": "Wakfu",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -1114,7 +1114,7 @@ export default [
     "title": "Mass Effect Infiltrator",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1567,7 +1567,7 @@ export default [
     "day": 27,
     "title": "Temple Run",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1659,7 +1659,7 @@ export default [
     "day": 31,
     "title": "Trine 2",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2948,7 +2948,7 @@ export default [
     "day": 25,
     "title": "Asphalt 7: Heat",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3061,7 +3061,7 @@ export default [
     "day": 27,
     "title": "Final Fantasy III",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3070,7 +3070,7 @@ export default [
     "day": 28,
     "title": "The Amazing Spider-Man",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -3098,7 +3098,7 @@ export default [
     "day": 3,
     "title": "Feed Me Oil",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3220,7 +3220,7 @@ export default [
     "day": 12,
     "title": "Amazing Alex",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -3367,7 +3367,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3836,7 +3836,7 @@ export default [
     "title": "Final Fantasy Dimensions",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3854,7 +3854,7 @@ export default [
     "day": 3,
     "title": "",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4004,7 +4004,7 @@ export default [
     "day": 13,
     "title": "Prince of Persia Classic",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4043,7 +4043,7 @@ export default [
     "title": "FTL: Faster Than Light",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -4131,7 +4131,7 @@ export default [
     "title": "Demons' Score",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4160,7 +4160,7 @@ export default [
     "title": "Rayman Jungle Run",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4179,7 +4179,7 @@ export default [
     "day": 22,
     "title": "Pocket Planes",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4375,7 +4375,7 @@ export default [
     "title": "Bad Piggies",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "Win",
       "Mac"
     ]
@@ -4680,7 +4680,7 @@ export default [
     "day": 10,
     "title": "Chaos Rings",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5192,7 +5192,7 @@ export default [
       "PS3",
       "PSVita",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5330,7 +5330,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5485,7 +5485,7 @@ export default [
       "Win",
       "Mac",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6159,7 +6159,7 @@ export default [
     "day": 21,
     "title": "Rage of the Gladiator",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -6319,7 +6319,7 @@ export default [
     "title": "Jet Set Radio HD",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6449,7 +6449,7 @@ export default [
     "title": "Modern Combat 4: Zero Hour",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6486,7 +6486,7 @@ export default [
     "title": "The Snowman and the Snowdog",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6559,7 +6559,7 @@ export default [
     "day": 12,
     "title": "Grand Theft Auto: Vice City 10 Year Anniversary Edition",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6604,7 +6604,7 @@ export default [
     "day": 14,
     "title": "Candy Crush Saga",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6613,7 +6613,7 @@ export default [
     "day": 14,
     "title": "Final Fantasy Airborne Brigade",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -6623,7 +6623,7 @@ export default [
     "day": 15,
     "title": "Yumby Toss",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6741,7 +6741,7 @@ export default [
     "day": 21,
     "title": "Sonic Jump",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {

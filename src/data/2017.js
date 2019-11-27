@@ -53,7 +53,7 @@ export default [
     "day": 12,
     "title": "My Talking Hank",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -167,7 +167,7 @@ export default [
     "title": "Pokémon Duel",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -208,7 +208,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -283,7 +283,7 @@ export default [
     "title": "Fire Emblem Heroes",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -367,7 +367,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -419,8 +419,8 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
-      "Droid",
+      "Linux",
+      "Android",
       "iOS"
     ]
   },
@@ -432,8 +432,8 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
-      "Droid",
+      "Linux",
+      "Android",
       "iOS"
     ]
   },
@@ -475,7 +475,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -562,7 +562,7 @@ export default [
     "day": 3,
     "title": "1-2-Switch",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -571,7 +571,7 @@ export default [
     "day": 3,
     "title": "Human Resource Machine",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -580,7 +580,7 @@ export default [
     "day": 3,
     "title": "I Am Setsuna",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -589,7 +589,7 @@ export default [
     "day": 3,
     "title": "Just Dance 2017",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -598,7 +598,7 @@ export default [
     "day": 3,
     "title": "Little Inferno",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -607,7 +607,7 @@ export default [
     "day": 3,
     "title": "Skylanders: Imaginators",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -616,7 +616,7 @@ export default [
     "day": 3,
     "title": "Snipperclips",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -625,7 +625,7 @@ export default [
     "day": 3,
     "title": "Super Bomberman R",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -634,7 +634,7 @@ export default [
     "day": 3,
     "title": "The Binding of Isaac: Afterbirth+",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -643,7 +643,7 @@ export default [
     "day": 3,
     "title": "The Legend of Zelda: Breath of the Wild",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "WiiU"
     ]
   },
@@ -653,7 +653,7 @@ export default [
     "day": 3,
     "title": "World of Goo",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -774,7 +774,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -836,7 +836,7 @@ export default [
     "day": 22,
     "title": "Super Mario Run",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -875,7 +875,7 @@ export default [
     "title": "Has-Been Heroes",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -935,7 +935,7 @@ export default [
     "title": "Snake Pass",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -951,7 +951,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1000,7 +1000,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "XBO"
     ]
   },
@@ -1020,7 +1020,7 @@ export default [
     "title": "Lego City Undercover",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -1191,7 +1191,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1227,7 +1227,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1286,7 +1286,7 @@ export default [
     "day": 18,
     "title": "Wonder Boy: The Dragon's Trap",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -1347,7 +1347,7 @@ export default [
     "day": 25,
     "title": "Puyo Puyo Tetris",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4"
     ]
   },
@@ -1383,7 +1383,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1449,7 +1449,7 @@ export default [
     "day": 28,
     "title": "Mario Kart 8 Deluxe",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -1536,7 +1536,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -1604,7 +1604,7 @@ export default [
     "title": "NBA Playgrounds",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -1663,7 +1663,7 @@ export default [
     "day": 11,
     "title": "Minecraft",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -1683,7 +1683,7 @@ export default [
     "title": "To the Moon",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1826,7 +1826,7 @@ export default [
     "day": 18,
     "title": "Thumper",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -1837,7 +1837,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1904,7 +1904,7 @@ export default [
     "day": 23,
     "title": "Disgaea 5 Complete",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -1943,7 +1943,7 @@ export default [
     "title": "Harvest Moon: Lil' Farmers",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1962,7 +1962,7 @@ export default [
     "title": "Constructor HD",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -2024,7 +2024,7 @@ export default [
     "day": 26,
     "title": "Ultra Street Fighter II: The Final Challengers",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2033,7 +2033,7 @@ export default [
     "day": 30,
     "title": "Astro Duel Deluxe",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2098,7 +2098,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2145,7 +2145,7 @@ export default [
     "day": 1,
     "title": "Seiken Densetsu Collection[A]",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2238,7 +2238,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2274,7 +2274,7 @@ export default [
     "day": 8,
     "title": "Shantae: Half-Genie Hero",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2292,7 +2292,7 @@ export default [
     "day": 13,
     "title": "Cars 3: Driven to Win",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "PS3",
       "XBO",
@@ -2317,7 +2317,7 @@ export default [
     "day": 16,
     "title": "Arms",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2367,7 +2367,7 @@ export default [
     "day": 22,
     "title": "Oceanhorn: Monster of Uncharted Seas",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2618,7 +2618,7 @@ export default [
     "day": 21,
     "title": "Splatoon 2",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2677,7 +2677,7 @@ export default [
     "day": 27,
     "title": "Overcooked",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2762,7 +2762,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "XBO"
     ]
   },
@@ -2774,7 +2774,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2843,7 +2843,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2922,7 +2922,7 @@ export default [
     "day": 15,
     "title": "Sonic Mania",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -2944,7 +2944,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -2955,7 +2955,7 @@ export default [
     "day": 15,
     "title": "Troll and I",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -2988,7 +2988,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3006,7 +3006,7 @@ export default [
     "day": 22,
     "title": "Minecraft: Story Mode",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3109,7 +3109,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -3129,7 +3129,7 @@ export default [
     "day": 29,
     "title": "Mario + Rabbids Kingdom Battle",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3292,7 +3292,7 @@ export default [
     "day": 5,
     "title": "Lego Worlds",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3301,7 +3301,7 @@ export default [
     "day": 5,
     "title": "R.B.I. Baseball 17",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3391,7 +3391,7 @@ export default [
     "day": 12,
     "title": "Rayman Legends Definitive Edition",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3461,7 +3461,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3589,7 +3589,8 @@ export default [
     "title": "NBA 2K18",
     "systems": [
       "Win",
-      "NS PS3",
+      "NS",
+      "PS3",
       "PS4",
       "X360",
       "XBO"
@@ -3611,7 +3612,7 @@ export default [
     "day": 21,
     "title": "SteamWorld Dig 2",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3641,7 +3642,7 @@ export default [
     "day": 22,
     "title": "Dragon Ball Xenoverse 2",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3659,7 +3660,7 @@ export default [
     "day": 22,
     "title": "Pokkén Tournament DX",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3681,7 +3682,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3691,7 +3692,7 @@ export default [
     "title": "The Lego Ninjago Movie Video Game",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -3802,7 +3803,7 @@ export default [
     "day": 26,
     "title": "Sine Mora EX",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3821,7 +3822,7 @@ export default [
     "day": 28,
     "title": "Butcher",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3830,7 +3831,7 @@ export default [
     "day": 28,
     "title": "Deemo",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3848,7 +3849,7 @@ export default [
     "day": 28,
     "title": "Golf Story",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3886,7 +3887,7 @@ export default [
     "day": 28,
     "title": "Picross S",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3906,7 +3907,7 @@ export default [
     "title": "FIFA 18",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS3",
       "PS4",
       "360",
@@ -3928,7 +3929,7 @@ export default [
     "day": 29,
     "title": "One Piece: Unlimited World Red Deluxe Edition",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -3957,7 +3958,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4015,7 +4016,7 @@ export default [
     "day": 5,
     "title": "Axiom Verge",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4044,7 +4045,7 @@ export default [
     "day": 5,
     "title": "Stardew Valley",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4071,7 +4072,7 @@ export default [
     "day": 6,
     "title": "Oxenfree",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4080,7 +4081,7 @@ export default [
     "day": 10,
     "title": "88 Heroes: 98 Heroes Edition",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4112,7 +4113,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4142,7 +4143,7 @@ export default [
     "day": 10,
     "title": "Tiny Barbarian DX",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4151,7 +4152,7 @@ export default [
     "day": 10,
     "title": "Touhou Kobuto V: Burst Battle[B]",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "PSVita"
     ]
@@ -4162,7 +4163,7 @@ export default [
     "day": 11,
     "title": "Unbox: Newbies Adventure",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4293,7 +4294,7 @@ export default [
     "title": "Spelunker Party!",
     "systems": [
       "Win",
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4313,7 +4314,7 @@ export default [
     "day": 20,
     "title": "Fire Emblem Warriors",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "3DS"
     ]
   },
@@ -4323,7 +4324,7 @@ export default [
     "day": 20,
     "title": "Syberia",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4354,7 +4355,7 @@ export default [
       "PS3",
       "XBO",
       "X360",
-      "NS",
+      "Nintendo Switch",
       "WiiU",
       "Wii"
     ]
@@ -4366,7 +4367,7 @@ export default [
     "title": "Nights of Azure 2: Bride of the New Moon",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4"
     ]
   },
@@ -4377,7 +4378,7 @@ export default [
     "title": "Observer",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4396,7 +4397,7 @@ export default [
     "title": "The Mummy Demastered",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -4407,7 +4408,7 @@ export default [
     "day": 24,
     "title": "This Is the Police",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4456,7 +4457,7 @@ export default [
     "day": 27,
     "title": "Super Mario Odyssey",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4495,7 +4496,7 @@ export default [
     "day": 31,
     "title": "Cartoon Network: Battle Crashers",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4513,7 +4514,7 @@ export default [
     "day": 31,
     "title": "Monopoly for Nintendo Switch",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4522,7 +4523,7 @@ export default [
     "day": 31,
     "title": "Monster Jam: Crush It!",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4585,7 +4586,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4596,7 +4597,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -4617,7 +4618,7 @@ export default [
     "title": "Sonic Forces",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -4647,7 +4648,7 @@ export default [
     "day": 10,
     "title": "Cat Quest",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4656,7 +4657,7 @@ export default [
     "day": 10,
     "title": "Doom",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4667,7 +4668,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4696,7 +4697,7 @@ export default [
     "day": 14,
     "title": "Batman: The Telltale Series",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4706,7 +4707,7 @@ export default [
     "title": "Ben 10",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -4736,7 +4737,7 @@ export default [
     "day": 14,
     "title": "Ittle Dew 2+",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4745,7 +4746,7 @@ export default [
     "day": 14,
     "title": "L.A. Noire",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -4757,7 +4758,7 @@ export default [
     "title": "Lego Marvel Super Heroes 2",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -4768,7 +4769,7 @@ export default [
     "day": 14,
     "title": "Rime",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4788,7 +4789,7 @@ export default [
     "day": 14,
     "title": "Rocket League",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4807,7 +4808,7 @@ export default [
     "day": 16,
     "title": "Antiquia Lost",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4818,7 +4819,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4827,7 +4828,7 @@ export default [
     "day": 16,
     "title": "Lumo",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4836,7 +4837,7 @@ export default [
     "day": 17,
     "title": "MXGP3: The Official Motocross Videogame",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4874,7 +4875,7 @@ export default [
     "day": 17,
     "title": "The Elder Scrolls V: Skyrim",
     "systems": [
-      "NS",
+      "Nintendo Switch",
       "PSVR"
     ]
   },
@@ -4895,7 +4896,7 @@ export default [
     "title": "Animal Crossing: Pocket Camp",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4904,7 +4905,7 @@ export default [
     "day": 21,
     "title": "Gear.Club Unlimited",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4922,7 +4923,7 @@ export default [
     "day": 21,
     "title": "Superbeat: Xonic",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4940,7 +4941,7 @@ export default [
     "day": 22,
     "title": "Tom Pool",
     "systems": [
-      "And",
+      "Android",
       "iOS"
     ]
   },
@@ -4950,7 +4951,7 @@ export default [
     "day": 23,
     "title": "Portal Knights",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4961,7 +4962,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -4972,7 +4973,7 @@ export default [
     "day": 28,
     "title": "Resident Evil: Revelations",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4981,7 +4982,7 @@ export default [
     "day": 28,
     "title": "Resident Evil: Revelations 2",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -4999,7 +5000,7 @@ export default [
     "day": 30,
     "title": "Syberia II",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5027,7 +5028,7 @@ export default [
     "day": 1,
     "title": "Xenoblade Chronicles 2",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5036,7 +5037,7 @@ export default [
     "day": 5,
     "title": "Caveman Warriors",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5055,7 +5056,7 @@ export default [
     "title": "Nine Parchments",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "XBO"
     ]
@@ -5076,7 +5077,7 @@ export default [
     "day": 6,
     "title": "WWE 2K18",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5190,7 +5191,7 @@ export default [
     "day": 12,
     "title": "Party Planet",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5199,7 +5200,7 @@ export default [
     "day": 12,
     "title": "Pinball FX 3",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5208,7 +5209,7 @@ export default [
     "day": 12,
     "title": "The End Is Nigh",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5217,7 +5218,7 @@ export default [
     "day": 14,
     "title": "Enter the Gungeon",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5228,7 +5229,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5246,7 +5247,7 @@ export default [
     "day": 14,
     "title": "Never Stop Sneakin'",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5255,7 +5256,7 @@ export default [
     "day": 14,
     "title": "Yooka-Laylee",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5274,7 +5275,7 @@ export default [
     "title": "Romancing SaGa 2[B]",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4",
       "PSVita",
       "XBO"
@@ -5286,7 +5287,7 @@ export default [
     "day": 20,
     "title": "Dragon Fang Z: The Rose & Dungeon of Time",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5334,7 +5335,7 @@ export default [
     "day": 21,
     "title": "Blossom Tales: The Sleeping King",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5343,7 +5344,7 @@ export default [
     "day": 21,
     "title": "Max: The Curse of Brotherhood",
     "systems": [
-      "NS"
+      "Nintendo Switch"
     ]
   },
   {
@@ -5353,7 +5354,7 @@ export default [
     "title": "Tiny Metal",
     "systems": [
       "Win",
-      "NS",
+      "Nintendo Switch",
       "PS4"
     ]
   },

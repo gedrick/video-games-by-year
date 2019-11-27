@@ -31,6 +31,7 @@ export default {
 .year-filter {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 
   input {
     position: absolute;
@@ -45,8 +46,17 @@ export default {
     font-weight: bold;
     border-radius: 3px;
     background-color: rgba(red, 0.5);
+    transition-property: background-color, border;
+    transition-duration: 0.5s;
+    border: 1px solid transparent;
+
+    &:hover {
+      border: 1px solid rgba(#000, 0.3);
+    }
+
     &.selected {
       background-color: rgba(red, 1);
+      border: 1px solid transparent;
     }
   }
 }

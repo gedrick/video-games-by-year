@@ -2,7 +2,7 @@
   <div class="game-list">
     <year-filters />
     <!-- <month-filter v-bind="monthFilter" /> -->
-    <!-- <genre-filter v-bind="genreFilter" /> -->
+    <!-- <console-filter v-bind="genreFilter" /> -->
     <div class="search-results">
       <game-pill
         v-for="(index, game) in filteredGames"

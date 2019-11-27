@@ -26,7 +26,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -100,7 +100,7 @@ export default [
     "title": "WWE Immortals",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -111,7 +111,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -217,7 +217,7 @@ export default [
     "title": "The Witcher: Battle Arena",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -247,7 +247,7 @@ export default [
       "Win",
       "PS4",
       "XBO",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -258,7 +258,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "PSVita"
     ]
@@ -289,7 +289,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "iOS"
     ]
   },
@@ -319,7 +319,7 @@ export default [
     "systems": [
       "Win",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -361,7 +361,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "PS3",
       "X360"
@@ -384,7 +384,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -474,7 +474,7 @@ export default [
     "title": "Game of Thrones: Episode 2 - The Lost Lords",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -581,7 +581,7 @@ export default [
     "day": 11,
     "title": "Limbo",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -674,7 +674,7 @@ export default [
     "day": 17,
     "title": "Hand of Fate",
     "systems": [
-      "Lin",
+      "Linux",
       "Win",
       "Mac",
       "PS4",
@@ -756,7 +756,7 @@ export default [
     "title": "Robot Roller-Derby Disco Dodgeball",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -786,7 +786,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -865,7 +865,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -916,7 +916,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -927,7 +927,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1137,7 +1137,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1160,7 +1160,7 @@ export default [
       "PSVita",
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1247,7 +1247,7 @@ export default [
     "day": 12,
     "title": "Dungeon Hunter 5",
     "systems": [
-      "Droid",
+      "Android",
       "iOS",
       "WP"
     ]
@@ -1300,7 +1300,7 @@ export default [
     "day": 17,
     "title": "BioShock Infinite",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1576,7 +1576,7 @@ export default [
     "title": "Game of Thrones: Episode 3 - The Sword in the Darkness",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1596,7 +1596,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1756,7 +1756,7 @@ export default [
     "title": "DuckTales Remastered",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1766,7 +1766,7 @@ export default [
     "title": "Steven Universe: Attack the Light!",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1777,7 +1777,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1845,7 +1845,7 @@ export default [
     "title": "Mortal Kombat X",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1929,7 +1929,7 @@ export default [
     "day": 10,
     "title": "Xenoblade Chronicles 3D",
     "systems": [
-      "N3DS"
+      "3DS"
     ]
   },
   {
@@ -1948,7 +1948,7 @@ export default [
     "title": "Age of Wonders III",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2096,7 +2096,7 @@ export default [
     "title": "EA Sports UFC",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2181,7 +2181,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2199,7 +2199,7 @@ export default [
     "day": 28,
     "title": "Broken Age Act 2",
     "systems": [
-      "Lin",
+      "Linux",
       "Mac",
       "Win"
     ]
@@ -2240,7 +2240,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2359,7 +2359,8 @@ export default [
     "day": 5,
     "title": "Grim Fandango: Remastered",
     "systems": [
-      "iOS. Droid"
+      "iOS",
+      "Android"
     ]
   },
   {
@@ -2473,7 +2474,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2538,7 +2539,7 @@ export default [
     "title": "Knights of Pen & Paper 2",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2622,7 +2623,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2633,7 +2634,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2643,7 +2644,7 @@ export default [
     "title": "Til Morning's Light",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2769,7 +2770,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2799,7 +2800,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2809,7 +2810,7 @@ export default [
     "title": "Chaos Rings III",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2846,7 +2847,7 @@ export default [
     "title": "Lara Croft: Relic Run",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "WP"
     ]
   },
@@ -2856,7 +2857,7 @@ export default [
     "day": 28,
     "title": "The Talos Principle",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2921,7 +2922,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "XBO"
     ]
   },
@@ -2978,7 +2979,7 @@ export default [
     "title": "Hitman: Sniper",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3218,7 +3219,7 @@ export default [
     "title": "Dragon Quest VI: Realms of Revelation",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3236,7 +3237,7 @@ export default [
     "day": 25,
     "title": "Geometry Wars 3: Dimensions",
     "systems": [
-      "Droid",
+      "Android",
       "Fire"
     ]
   },
@@ -3256,7 +3257,7 @@ export default [
     "title": "Sonic Runners",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3296,7 +3297,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3326,7 +3327,7 @@ export default [
     "title": "Ronin",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -3405,7 +3406,7 @@ export default [
     "day": 7,
     "title": "Rumble City",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3556,7 +3557,7 @@ export default [
     "title": "This War of Mine",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3576,7 +3577,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3645,7 +3646,7 @@ export default [
     "title": "Star Wars Knights of the Old Republic II: The Sith Lords",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3694,7 +3695,7 @@ export default [
     "title": "Game of Thrones: Episode 5 - A Nest of Vipers",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3704,7 +3705,7 @@ export default [
     "title": "The Binding of Isaac: Rebirth",
     "systems": [
       "XBO",
-      "N3DS",
+      "3DS",
       "WiiU"
     ]
   },
@@ -3725,7 +3726,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3867,7 +3868,7 @@ export default [
     "title": "Angry Birds 2",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4099,7 +4100,7 @@ export default [
     "day": 13,
     "title": "Fallout Shelter",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4109,7 +4110,7 @@ export default [
     "title": "Rebuild: Gangs of Deadsville",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4230,7 +4231,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "XBO"
     ]
   },
@@ -4259,7 +4260,7 @@ export default [
     "title": "Tales from the Borderlands: Episode 4 - Escape Plan Bravo",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4322,7 +4323,7 @@ export default [
     "day": 23,
     "title": "LandFort",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4333,7 +4334,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4457,7 +4458,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4504,7 +4505,7 @@ export default [
     "title": "Lara Croft Go",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "WP"
     ]
   },
@@ -4534,7 +4535,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4546,10 +4547,11 @@ export default [
       "Win",
       "PS4",
       "PS3",
-      "X360. XBO",
+      "X360",
+      "XBO",
       "WiiU",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4560,7 +4562,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -4591,7 +4593,7 @@ export default [
       "Win",
       "PS4",
       "XBO",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4625,7 +4627,7 @@ export default [
     "title": "Pokémon Shuffle",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4730,7 +4732,8 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin XBO"
+      "Linux",
+      "XBO"
     ]
   },
   {
@@ -4740,7 +4743,7 @@ export default [
     "title": "Star Wars: Uprising",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4751,7 +4754,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4888,7 +4891,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4898,7 +4901,8 @@ export default [
     "title": "Laserlife",
     "systems": [
       "Win",
-      "Mac PS4"
+      "Mac",
+      "PS4"
     ]
   },
   {
@@ -4909,7 +4913,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -4921,7 +4925,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4940,7 +4944,7 @@ export default [
     "title": "PewDiePie: Legend of the Brofist",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5073,7 +5077,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5083,7 +5087,7 @@ export default [
     "title": "Need for Speed: No Limits",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5123,7 +5127,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5205,7 +5209,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5283,7 +5287,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -5322,7 +5326,7 @@ export default [
     "title": "Minecraft: Story Mode: Episode 1 — The Order of the Stone",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5342,7 +5346,7 @@ export default [
     "systems": [
       "Win",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5353,7 +5357,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5482,7 +5486,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5586,7 +5590,7 @@ export default [
     "title": "Tales from the Borderlands: Episode 5 — The Vault of the Traveler",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5596,7 +5600,7 @@ export default [
     "title": "Talking Tom Jetski",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5682,7 +5686,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -5708,7 +5712,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5750,7 +5754,7 @@ export default [
     "title": "Alien: Isolation – The Collection",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5857,7 +5861,7 @@ export default [
       "PS4",
       "PSVita",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6002,7 +6006,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6134,7 +6138,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6274,7 +6278,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6293,7 +6297,7 @@ export default [
     "title": "Rayman Adventures",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6331,7 +6335,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "PSVita"
     ]
@@ -6442,7 +6446,7 @@ export default [
     "title": "Magic: The Gathering – Puzzle Quest",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6519,7 +6523,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6594,7 +6598,7 @@ export default [
     "day": 21,
     "title": "Saints Row IV",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6603,7 +6607,7 @@ export default [
     "day": 21,
     "title": "Saints Row: Gat out of Hell",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6628,7 +6632,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {

@@ -14,7 +14,7 @@ export default [
     "day": 3,
     "title": "Code of Princess",
     "systems": [
-      "3DS eShop"
+      "3DS"
     ]
   },
   {
@@ -44,7 +44,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -145,7 +145,7 @@ export default [
     "day": 19,
     "title": "Super Hexagon",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -219,7 +219,7 @@ export default [
     "day": 24,
     "title": "Temple Run 2",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -641,7 +641,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -680,7 +680,7 @@ export default [
       "WiiU",
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -716,7 +716,7 @@ export default [
     "day": 27,
     "title": "Super Hexagon",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -726,7 +726,7 @@ export default [
     "title": "Real Racing 3",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -744,7 +744,7 @@ export default [
     "day": 28,
     "title": "Toy Story: Smash It!",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -979,7 +979,7 @@ export default [
     "day": 14,
     "title": "Chaos Rings II",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1131,7 +1131,7 @@ export default [
     "day": 20,
     "title": "Shoot Many Robots",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1528,7 +1528,7 @@ export default [
     "day": 9,
     "title": "Worms 2: Armageddon",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1819,7 +1819,7 @@ export default [
     "day": 24,
     "title": "Fieldrunners 2",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1911,7 +1911,7 @@ export default [
     "title": "Stealth Bastard Deluxe",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2084,7 +2084,7 @@ export default [
     "day": 10,
     "title": "Carmageddon",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2150,7 +2150,7 @@ export default [
     "title": "Sonic the Hedgehog",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2390,7 +2390,7 @@ export default [
     "day": 3,
     "title": "Final Fantasy IV",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2495,7 +2495,7 @@ export default [
     "day": 10,
     "title": "Commander Keen in Keen Dreams",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2506,7 +2506,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2831,7 +2831,7 @@ export default [
     "day": 26,
     "title": "Batman: Arkham City Lockdown",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2878,7 +2878,7 @@ export default [
     "title": "Layton Brothers: Mystery Room",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2897,7 +2897,7 @@ export default [
     "day": 27,
     "title": "Might & Magic: Clash of Heroes",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2916,7 +2916,7 @@ export default [
     "title": "Samurai Shodown II",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3107,7 +3107,7 @@ export default [
     "day": 10,
     "title": "Crazy Taxi",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3244,7 +3244,7 @@ export default [
     "title": "Dota 2",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3369,7 +3369,7 @@ export default [
     "title": "Prince of Persia: The Shadow and The Flame",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3381,7 +3381,7 @@ export default [
       "Win",
       "Mac",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3400,7 +3400,7 @@ export default [
     "title": "TurtleStrike",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3428,7 +3428,7 @@ export default [
     "title": "Princess Battles",
     "systems": [
       "Win",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3520,7 +3520,7 @@ export default [
     "title": "Dropchord",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3720,7 +3720,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3800,7 +3800,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3933,7 +3933,7 @@ export default [
     "title": "Asphalt 8: Airborne",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3960,7 +3960,7 @@ export default [
     "day": 26,
     "title": "He-Man: The Most Powerful Game",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4248,7 +4248,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4340,7 +4340,7 @@ export default [
     "day": 13,
     "title": "Terraria",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4397,7 +4397,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "iOS"
     ]
   },
@@ -4463,7 +4463,7 @@ export default [
     "title": "Angry Birds Star Wars II",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "WP"
     ]
   },
@@ -4529,7 +4529,7 @@ export default [
     "title": "FIFA 14",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4645,7 +4645,7 @@ export default [
     "day": 25,
     "title": "Final Fantasy V",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4664,7 +4664,7 @@ export default [
     "title": "Shadowrun Returns",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4795,7 +4795,7 @@ export default [
     "title": "Transport Tycoon",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4872,7 +4872,7 @@ export default [
     "day": 10,
     "title": "Hero Academy",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4913,7 +4913,7 @@ export default [
     "title": "Fist of Awesome",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "Ouya"
     ]
   },
@@ -4943,7 +4943,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4953,7 +4953,7 @@ export default [
     "title": "Rogue Legacy",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5025,7 +5025,7 @@ export default [
     "day": 21,
     "title": "Monaco",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5162,7 +5162,7 @@ export default [
     "day": 23,
     "title": "Dead Trigger 2",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -5191,7 +5191,7 @@ export default [
     "day": 23,
     "title": "Plants vs. Zombies 2: It's About Time",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5414,7 +5414,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5518,7 +5518,7 @@ export default [
     "day": 5,
     "title": "Metro: Last Light",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5760,7 +5760,7 @@ export default [
     "title": "The King of Fighters '97",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5779,7 +5779,7 @@ export default [
     "title": "Football Manager 2014",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6168,7 +6168,7 @@ export default [
     "day": 21,
     "title": "Injustice: Gods Among Us",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6187,7 +6187,7 @@ export default [
     "title": "The Mysterious Cities of Gold: Secret Paths",
     "systems": [
       "3DS",
-      "Droid",
+      "Android",
       "iOS",
       "WiiU",
       "Win"
@@ -6442,7 +6442,7 @@ export default [
     "day": 26,
     "title": "Sonic Dash",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6543,7 +6543,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6580,7 +6580,7 @@ export default [
     "title": "Assassin's Creed: Pirates",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6590,7 +6590,7 @@ export default [
     "title": "Heroes of Dragon Age",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6657,7 +6657,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6667,7 +6667,7 @@ export default [
     "title": "Angry Birds Go!",
     "systems": [
       "iOS",
-      "Droid",
+      "Android",
       "WP"
     ]
   },
@@ -6686,7 +6686,7 @@ export default [
     "day": 11,
     "title": "Rust",
     "systems": [
-      "Lin",
+      "Linux",
       "Mac",
       "Win"
     ]
@@ -6743,7 +6743,7 @@ export default [
     "title": "Sonic the Hedgehog 2",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6828,7 +6828,7 @@ export default [
     "title": "Ridge Racer Slipstream",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6903,7 +6903,7 @@ export default [
     "title": "Ratchet & Clank: Before the Nexus",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6967,7 +6967,7 @@ export default [
     "day": 3,
     "title": "Grand Theft Auto: San Andreas Mobile",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6994,7 +6994,7 @@ export default [
     "day": 3,
     "title": "Mimpi",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -7012,7 +7012,7 @@ export default [
     "day": 3,
     "title": "The Cave",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {

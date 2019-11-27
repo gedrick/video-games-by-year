@@ -7,13 +7,27 @@ import { default as games2017 } from "../data/2017.js";
 import { default as games2018 } from "../data/2018.js";
 
 const state = {
-  games: {}
+  games: {},
+  filteredGames: []
 };
 
 const getters = {
   games: state => state.games,
   availableYears: state => {
     return Object.keys(state.games).map(year => Number(year));
+  },
+  availableConsoles: state => {
+    let consoles = [];
+    for (let year in state.games) {
+      state.games[year].forEach(game => {
+        game.systems.forEach(system => {
+          if (!consoles.includes(system)) {
+            consoles.push(system);
+          }
+        })
+      })
+    }
+    return consoles;
   }
 };
 

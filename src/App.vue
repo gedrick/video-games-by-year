@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <h1>Video Games By Year</h1>
     <GameList />
   </div>
 </template>

@@ -15,7 +15,7 @@ export default [
     "day": 2,
     "title": "My Talking Tom",
     "systems": [
-      "Android (operating system)"
+      "Android"
     ]
   },
   {
@@ -134,7 +134,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "iOS",
       "XBLA"
     ]
@@ -292,7 +292,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -360,7 +360,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -513,7 +513,7 @@ export default [
     "title": "Jazzpunk",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "Mac"
     ]
   },
@@ -598,7 +598,7 @@ export default [
     "day": 13,
     "title": "Adventure Time Card Wars",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -711,7 +711,7 @@ export default [
     "title": "Guacamelee! Gold Edition",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -800,7 +800,7 @@ export default [
     "title": "Disco Zoo",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1127,7 +1127,7 @@ export default [
     "day": 12,
     "title": "Threes",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1184,7 +1184,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS3",
       "PSVita"
     ]
@@ -1284,7 +1284,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1776,7 +1776,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1843,7 +1843,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2119,7 +2119,7 @@ export default [
     "title": "Metal Slug Defense",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2148,7 +2148,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2383,7 +2383,7 @@ export default [
     "title": "BattleBlock Theater",
     "systems": [
       "Win",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2533,7 +2533,7 @@ export default [
     "day": 22,
     "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2656,7 +2656,7 @@ export default [
     "day": 28,
     "title": "Dragon Quest VIII: Journey of the Cursed King",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -2675,7 +2675,7 @@ export default [
     "day": 28,
     "title": "Skulls of the Shogun",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2695,7 +2695,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2750,7 +2750,7 @@ export default [
     "title": "TowerFall Ascension",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2890,7 +2890,7 @@ export default [
     "day": 10,
     "title": "Civilization V",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2937,7 +2937,7 @@ export default [
     "day": 12,
     "title": "VVVVVV",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -3038,7 +3038,7 @@ export default [
     "day": 19,
     "title": "XCOM: Enemy Unknown",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3047,7 +3047,7 @@ export default [
     "day": 19,
     "title": "XCOM: Enemy Within",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3201,7 +3201,7 @@ export default [
     "title": "Goat Simulator",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3414,7 +3414,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3462,7 +3462,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3511,7 +3511,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3561,7 +3561,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3953,7 +3953,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4079,7 +4079,7 @@ export default [
     "day": 14,
     "title": "WWE SuperCard",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -4091,7 +4091,7 @@ export default [
     "systems": [
       "PS3",
       "PS4",
-      "PSVtia"
+      "PSVita"
     ]
   },
   {
@@ -4556,7 +4556,7 @@ export default [
     "day": 5,
     "title": "CounterSpy",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -4586,7 +4586,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4851,7 +4851,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4879,7 +4879,7 @@ export default [
     "title": "Tropico 5",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4890,7 +4890,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4949,9 +4949,11 @@ export default [
     "title": "Disney Infinity 2.0: Marvel Super Heroes",
     "systems": [
       "PS3",
-      "PS4. Win",
+      "PS4",
+      "Win",
       "WiiU",
-      "X360. XBO",
+      "X360",
+      "XBO",
       "iOS"
     ]
   },
@@ -5109,7 +5111,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "Ouya"
     ]
   },
@@ -5130,7 +5132,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5150,7 +5152,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5159,7 +5161,7 @@ export default [
     "day": 30,
     "title": "Borderlands 2",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5231,7 +5233,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "Ouya",
       "PSN",
       "PS4"
@@ -5449,7 +5451,7 @@ export default [
     "day": 9,
     "title": "Dragon Quest II",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -5498,7 +5500,7 @@ export default [
     "title": "Defense Grid 2",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5698,7 +5700,7 @@ export default [
     "day": 16,
     "title": "Sentinels of the Multiverse: The Video Game",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -5737,7 +5739,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -5779,7 +5781,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5928,7 +5930,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6046,7 +6048,7 @@ export default [
       "X360",
       "PS3",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6152,7 +6154,7 @@ export default [
     "title": "Costume Quest 2",
     "systems": [
       "Mac",
-      "Lin",
+      "Linux",
       "WiiU",
       "XBLA",
       "XBO"
@@ -6182,7 +6184,7 @@ export default [
     "day": 30,
     "title": "Secret of Mana",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6192,7 +6194,7 @@ export default [
     "title": "Transistor",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6328,7 +6330,7 @@ export default [
       "PSVita",
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6358,7 +6360,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6405,7 +6407,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6704,7 +6706,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6931,7 +6933,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6999,7 +7001,7 @@ export default [
       "PSN",
       "PS4",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7273,7 +7275,7 @@ export default [
     "day": 4,
     "title": "Dragon Quest III",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -7432,7 +7434,7 @@ export default [
     "day": 10,
     "title": "Marvel Contest of Champions",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -7500,7 +7502,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7536,7 +7538,7 @@ export default [
     "day": 12,
     "title": "Metro 2033 Redux",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7545,7 +7547,7 @@ export default [
     "day": 12,
     "title": "Metro: Last Light Redux",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7647,7 +7649,7 @@ export default [
     "day": 18,
     "title": "Civilization: Beyond Earth",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7719,7 +7721,7 @@ export default [
     "day": 23,
     "title": "Fieldrunners 2",
     "systems": [
-      "PSVitaa"
+      "PSVita"
     ]
   },
   {

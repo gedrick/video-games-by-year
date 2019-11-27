@@ -7,7 +7,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -113,7 +113,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -163,7 +163,7 @@ export default [
       "Win",
       "PS4",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -311,7 +311,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -427,7 +427,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -459,7 +459,7 @@ export default [
     "systems": [
       "Win",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -534,7 +534,7 @@ export default [
     "title": "Adventures of Mana",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -556,7 +556,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -611,7 +611,7 @@ export default [
     "title": "Final Fantasy IX",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -622,7 +622,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -681,7 +681,7 @@ export default [
     "day": 11,
     "title": "Grand Theft Auto: Liberty City Stories Mobile",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -807,7 +807,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -941,7 +941,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -979,7 +979,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -990,7 +990,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1000,7 +1000,7 @@ export default [
     "title": "Slashy Souls",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1375,7 +1375,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "PSVita"
     ]
@@ -1390,7 +1390,7 @@ export default [
       "Mac",
       "PS4",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1626,7 +1626,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -1716,7 +1716,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -1823,7 +1823,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -2002,7 +2002,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2108,7 +2108,7 @@ export default [
     "title": "Loud on Planet X",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2250,7 +2250,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2288,7 +2288,7 @@ export default [
     "day": 28,
     "title": "Angry Birds Action!",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -2367,7 +2367,7 @@ export default [
     "title": "Uncharted: Fortune Hunter",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -2378,7 +2378,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2717,7 +2717,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2760,7 +2760,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2822,7 +2822,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "PSVita"
     ]
@@ -2883,7 +2883,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -2915,7 +2915,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS3",
       "PS4",
       "Xbox 360",
@@ -2952,7 +2952,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3215,7 +3215,7 @@ export default [
     "title": "Pokémon Go",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3310,7 +3310,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3321,7 +3321,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3390,7 +3390,7 @@ export default [
     "day": 14,
     "title": "Gold Run",
     "systems": [
-      "Droid",
+      "Android",
       "iOS"
     ]
   },
@@ -3402,7 +3402,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3520,7 +3520,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3540,7 +3540,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3601,7 +3601,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3674,7 +3674,7 @@ export default [
     "title": "Stardew Valley",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3700,7 +3700,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3729,7 +3729,7 @@ export default [
     "title": "Mobius Final Fantasy[B]",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3817,7 +3817,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -3866,7 +3866,7 @@ export default [
     "systems": [
       "Win",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3963,7 +3963,7 @@ export default [
     "title": "Deus Ex Go",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -3974,7 +3974,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4159,7 +4159,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4355,7 +4355,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4374,7 +4374,7 @@ export default [
     "title": "Lumines: Puzzle & Music",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4405,7 +4405,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -4581,7 +4581,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4766,7 +4766,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -4933,7 +4933,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5028,7 +5028,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -5060,7 +5060,7 @@ export default [
       "Win",
       "Mac",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -5447,7 +5447,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5695,7 +5695,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -5795,7 +5795,7 @@ export default [
     "title": "Mad Max",
     "systems": [
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6231,7 +6231,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6345,7 +6345,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6384,7 +6384,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6406,7 +6406,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6506,7 +6506,7 @@ export default [
     "title": "Little Briar Rose",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6526,7 +6526,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6545,7 +6545,7 @@ export default [
     "title": "Killing Floor 2",
     "systems": [
       "Win",
-      "Lin",
+      "Linux",
       "PS4"
     ]
   },
@@ -6589,7 +6589,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -6617,7 +6617,7 @@ export default [
     "day": 22,
     "title": "Total War: Warhammer",
     "systems": [
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6722,7 +6722,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "PS4",
       "XBO"
     ]
@@ -6819,7 +6819,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -6977,7 +6977,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin"
+      "Linux"
     ]
   },
   {
@@ -7044,7 +7044,7 @@ export default [
     "systems": [
       "Win",
       "Mac",
-      "Lin",
+      "Linux",
       "XBO"
     ]
   },
@@ -7065,7 +7065,7 @@ export default [
     "title": "Bully: Anniversary Edition",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -7074,7 +7074,7 @@ export default [
     "day": 8,
     "title": "Apollo Justice: Ace Attorney",
     "systems": [
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -7120,7 +7120,7 @@ export default [
     "title": "Starly Girls: Episode Starsia[A]",
     "systems": [
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -7154,7 +7154,7 @@ export default [
       "X360",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
@@ -7322,7 +7322,7 @@ export default [
       "PS4",
       "XBO",
       "iOS",
-      "Droid"
+      "Android"
     ]
   },
   {
