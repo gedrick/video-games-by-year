@@ -29,8 +29,10 @@ export default {
 
 <style lang="scss" scoped>
 .filter {
+  width: 100%;
+
   span {
-    background-color: rgba(#D2FBA3, 0.5);
+    background-color: rgba(#297D29, 0.5);
     border: 1px solid transparent;
 
     &:hover {
@@ -38,7 +40,7 @@ export default {
     }
 
     &.selected {
-      background-color: rgba(#D2FBA3, 1);
+      background-color: rgba(#297D29, 1);
       border: 1px solid transparent;
     }
   }

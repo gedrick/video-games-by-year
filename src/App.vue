@@ -17,6 +17,12 @@ export default {
 </script>
 
 <style lang="scss">
+@import 'styles/variables.scss';
+
+html {
+  font-size: 100%;
+}
+
 body {
   background-color: #1a1a1a;
 }
@@ -27,12 +33,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: em(60);
 }
 
 h1, h2 {
   font-weight: bold;
   color: #fff;
+  font-size: em(48);
 }
 
 ul {
@@ -42,7 +49,7 @@ ul {
 
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 em(10);
 }
 
 a {

@@ -32,6 +32,8 @@ export default {
 
 <style lang="scss" scoped>
 .filter {
+  width: 100%;
+
   span {
     background-color: rgba(#E5B672, 0.5);
     border: 1px solid transparent;

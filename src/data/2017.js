@@ -1455,24 +1455,6 @@ export default [
   {
     "year": 2017,
     "month": 5,
-    "day": null,
-    "title": "",
-    "systems": [
-      ""
-    ]
-  },
-  {
-    "year": 2017,
-    "month": 5,
-    "day": 2,
-    "title": "",
-    "systems": [
-      ""
-    ]
-  },
-  {
-    "year": 2017,
-    "month": 5,
     "day": 2,
     "title": "GNOG",
     "systems": [

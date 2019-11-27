@@ -6483,15 +6483,6 @@ export default [
   },
   {
     "year": 2013,
-    "month": 11,
-    "day": 3,
-    "title": "3DS",
-    "systems": [
-      ""
-    ]
-  },
-  {
-    "year": 2013,
     "month": 12,
     "day": 3,
     "title": "The Bureau: XCOM Declassified",
@@ -6562,15 +6553,6 @@ export default [
     "title": "3D Altered Beast",
     "systems": [
       "3DS"
-    ]
-  },
-  {
-    "year": 2013,
-    "month": 12,
-    "day": 3,
-    "title": "3DS",
-    "systems": [
-      ""
     ]
   },
   {
@@ -6698,15 +6680,6 @@ export default [
     "title": "3D Ecco the Dolphin",
     "systems": [
       "3DS"
-    ]
-  },
-  {
-    "year": 2013,
-    "month": 12,
-    "day": 3,
-    "title": "3DS",
-    "systems": [
-      ""
     ]
   },
   {
@@ -6932,15 +6905,6 @@ export default [
     "title": "3D Shinobi III: Return of the Ninja Master",
     "systems": [
       "3DS"
-    ]
-  },
-  {
-    "year": 2013,
-    "month": 12,
-    "day": 3,
-    "title": "3DS",
-    "systems": [
-      ""
     ]
   },
   {

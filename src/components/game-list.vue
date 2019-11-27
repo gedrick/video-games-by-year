@@ -5,9 +5,9 @@
     <system-filters />
     <div class="search-results">
       <game-pill
-        v-for="(index, game) in filteredGames"
+        v-for="game in searchResults"
         :game="game"
-        :key="index"
+        :key="game.title"
       />
     </div>
   </div>
@@ -30,25 +30,39 @@ export default {
     this.$store.dispatch('fetchGames');
   },
   computed: {
-    ...mapGetters(['games', 'selectedYears']),
-    filteredGames() {
+    ...mapGetters(['games', 'selectedYears', 'selectedSystems']),
+    searchResults() {
       const gamesInSelectedYears = this.games;
-      return [];
+      const searchResults = [];
+
+      this.selectedYears.forEach(year => {
+        this.games[year].filter(game => {
+          this.selectedSystems.forEach(system => {
+            if (game.systems.includes(system)) {
+              searchResults.push(game);
+            }
+          })
+        });
+      })
+
+      return searchResults;
     }
   }
 };
 </script>
 
 <style lang="scss">
+@import '../styles/variables.scss';
+
 .filter {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
-  padding: 10px;
 
   .pill {
-    margin: 8px 0;
+    margin: em(18) 0;
   }
 
   input {
@@ -58,24 +72,48 @@ export default {
 
   span {
     cursor: pointer;
-    padding: 5px;
-    margin: 3px;
+    padding: em(5);
+    margin: em(5);
     color: #fff;
     font-weight: bold;
-    border-radius: 3px;
+    border-radius: em(6);
     background-color: rgba(red, 0.5);
     transition-property: background-color, border;
     transition-duration: 0.5s;
-    border: 1px solid transparent;
+    border: em(1) solid transparent;
 
     &:hover {
-      border: 1px solid rgba(#000, 0.3);
+      border: em(1) solid rgba(#000, 0.3);
     }
 
     &.selected {
       background-color: rgba(red, 1);
-      border: 1px solid transparent;
+      border: em(1) solid transparent;
+    }
+
+    font-size: em(48);
+  }
+
+  @media screen and (min-device-width: 600px) {
+    span {
+      font-size: em(24);
+    }
+
+    .pill {
+      margin: em(12) 0;
     }
   }
+
+  @media screen and (min-device-width: 1024px) {
+    span {
+      font-size: em(16);
+    }
+  }
+}
+
+.search-results {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 </style>
