@@ -22,6 +22,7 @@
     "not ie <= 8"
   ],
   "devDependencies": {
+    "uglifyjs-webpack-plugin": "v1.0.0-beta.1",
     "@babel/plugin-transform-runtime": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
     "babel-core": "^7.0.0-0",
