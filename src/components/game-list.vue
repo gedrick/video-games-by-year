@@ -61,19 +61,26 @@ export default {
   align-items: center;
   flex-wrap: wrap;
 
-  .pill {
-    margin: em(18) 0;
-  }
-
   input {
     position: absolute;
     left: -9999px;
   }
 
+  .pill {
+    margin: em(12) em(5) em(12) em(5);
+
+    @media screen and (min-device-width: 600px) {
+      // margin: em(8);
+    }
+
+    @media screen and (min-device-width: 1024px) {
+      // margin: em(8);
+    }
+  }
+
   span {
     cursor: pointer;
     padding: em(5);
-    margin: em(5);
     color: #fff;
     font-weight: bold;
     border-radius: em(6);
@@ -89,24 +96,6 @@ export default {
     &.selected {
       background-color: rgba(red, 1);
       border: em(1) solid transparent;
-    }
-
-    font-size: em(48);
-  }
-
-  @media screen and (min-device-width: 600px) {
-    span {
-      font-size: em(24);
-    }
-
-    .pill {
-      margin: em(12) 0;
-    }
-  }
-
-  @media screen and (min-device-width: 1024px) {
-    span {
-      font-size: em(16);
     }
   }
 }

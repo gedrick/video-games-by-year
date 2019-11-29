@@ -28,6 +28,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@import '../styles/variables.scss';
+
 .filter {
   width: 100%;
 
@@ -42,6 +44,16 @@ export default {
     &.selected {
       background-color: rgba(#297D29, 1);
       border: 1px solid transparent;
+    }
+
+    font-size: em(20);
+
+    @media screen and (min-device-width: 600px) {
+      font-size: em(24);
+    }
+
+    @media screen and (min-device-width: 1024px) {
+      font-size: em(30);
     }
   }
 }

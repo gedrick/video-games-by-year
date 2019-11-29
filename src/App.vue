@@ -39,7 +39,7 @@ body {
 h1, h2 {
   font-weight: bold;
   color: #fff;
-  font-size: em(48);
+  font-size: em(24);
 }
 
 ul {
