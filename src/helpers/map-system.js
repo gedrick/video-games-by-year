@@ -6,8 +6,10 @@ export default function mapSystem(system) {
       return 'Xbox 360';
     case 'MD':
       return 'Sega MegaDrive';
+    case 'N3DS':
     case '3DS':
     case '3DSVC':
+    case '3DS eShop':
       return 'Nintendo 3DS';
     case 'Amazon Fire':
     case 'Amazon Fire TV':
@@ -16,6 +18,7 @@ export default function mapSystem(system) {
       return 'Fire TV';
     case 'Android':
     case 'Droid':
+    case 'Android (operating system)':
     case 'And':
       return 'Android';
     case 'Mac':
@@ -42,6 +45,7 @@ export default function mapSystem(system) {
     case 'PS4':
       return 'Playstation 4';
     case 'PSVita':
+    case 'Vita':
       return 'Playstation Vita';
     case 'XBO':
       return 'Xbox One';
@@ -68,7 +72,7 @@ export default function mapSystem(system) {
       return 'Nintendo WiiU';
     case 'Wii':
     case 'WiiWare':
-      return 'Wii';
+      return 'Nintendo Wii';
     case 'XBLA':
       return 'Xbox Live Arcade';
     case 'WP':
