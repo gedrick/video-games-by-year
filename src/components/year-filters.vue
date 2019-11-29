@@ -35,15 +35,15 @@ export default {
 
   span {
     background-color: rgba(#297D29, 0.2);
-    border: 1px solid transparent;
+    border: em(1) solid transparent;
 
     &:hover {
-      border: 1px solid rgba(#000, 0.5);
+      border: em(1) solid rgba(#000, 0.5);
     }
 
     &.selected {
       background-color: rgba(#297D29, 1);
-      border: 1px solid transparent;
+      border: em(1) solid transparent;
     }
 
     font-size: em(20);
