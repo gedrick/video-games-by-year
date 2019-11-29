@@ -1,13 +1,23 @@
 <template>
   <div class="game-pill">
     <div class="container">
-      <div class="date">{{ game.year }}</div>
-      <div class="title">{{ game.title }}</div>
+      <div class="date">
+        <span class="daymonth">{{ game.month }}/{{ game.day }}</span>
+        <span class="year">{{ game.year }}</span>
+      </div>
+      <div class="title">
+        <a v-if="game.url" target="_blank" :href="`https://en.wikipedia.org${game.url}`">
+          {{ game.title }}
+        </a>
+        <div v-if="!game.url">{{ game.title }}</div>
+        <span>{{ consoles }}</span>
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import moment from 'moment';
 export default {
   props: {
     game: {
@@ -15,6 +25,12 @@ export default {
       default: null
     },
   },
+  computed: {
+    consoles() {
+      const consoleSet = new Set(this.game.systems);
+      return Array.from(consoleSet).join(', ');
+    }
+  }
 }
 </script>
 
@@ -31,7 +47,7 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
-
+  grid-template-columns: 15% auto;
   flex: 100%;
 
   @media screen and (min-device-width: 600px) {
@@ -41,24 +57,55 @@ export default {
   @media screen and (min-device-width: 1024px) {
     flex: calc(33% - #{em(15)});
   }
+
   @media screen and (min-device-width: 1280px) {
     flex: calc(25% - #{em(15)});
   }
 
   .container {
+    padding: em(5);
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    grid-template-columns: 15% auto;
+    flex-grow: 1;
   }
 
   .date {
-    align-self: center;
-    font-size: em(32);
-    padding-right: em(20);
+    padding-right: em(15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    .daymonth {
+      font-size: em(12);
+    }
+
+    .year {
+      font-size: em(14);
+    }
   }
 
   .title {
-    font-size: em(32);
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    a {
+      color: #fff;
+      display: inline-block;
+      line-height: em(18);
+      padding-bottom: em(3);
+    }
+
+    span {
+      font-size: em(10);
+      display: inline-block;
+      line-height: em(16);
+    }
+
+    font-size: em(16);
   }
 }
 </style>
