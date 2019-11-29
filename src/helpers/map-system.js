@@ -15,6 +15,9 @@ export default function mapSystem(system) {
     case 'FireOS':
       return 'Fire TV';
     case 'Android':
+    case 'Droid':
+    case 'And':
+      return 'Android';
     case 'Mac':
     case 'MacOS':
       return 'Mac OS';

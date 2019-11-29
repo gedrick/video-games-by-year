@@ -27,15 +27,6 @@ const mutations = {
       state.years = state.years.filter(currentYear => currentYear !== year);
     }
   },
-  // toggleMonth(state, month) {
-  //   const months = state.month;
-  //   if (!months.includes(month)) {
-  //     months.push(month);
-  //   } else {
-  //     months = months.filter(currentMonth => currentMonth !== month);
-  //   }
-  //   Vue.set(state, month, months);
-  // },
   toggleSystem(state, system) {
     if (!state.systems.includes(system)) {
       state.systems.push(system);

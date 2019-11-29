@@ -88,23 +88,7 @@ const actions = {
       commit('addSystems', systems);
       resolve();
     });
-  },
-  // fetchSystems({ commit, state }) {
-  //   return new Promise(resolve => {
-  //     let systems = [];
-  //     for (let year in state.games) {
-  //       state.games[year].forEach(game => {
-  //         game.systems.forEach(system => {
-  //           if (!systems.includes(system) && system) {
-  //             systems.push(system);
-  //           }
-  //         })
-  //       })
-  //     }
-  //     commit('addSystems', systems);
-  //     resolve();
-  //   });
-  // }
+  }
 };
 
 export default {
