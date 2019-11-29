@@ -19,7 +19,22 @@ const getters = {
   availableYears: state => {
     return Object.keys(state.games).map(year => Number(year));
   },
-  availableSystems: state => state.systems
+  availableSystems: (state, getters) => {
+    let systems = [];
+    if (getters.selectedYears.length) {
+      getters.selectedYears.forEach(year => {
+        state.games[year].forEach(game => {
+          game.systems.forEach(system => {
+            if (!systems.includes(system)) {
+              systems.push(system);
+            }
+          })
+        })
+      })
+    }
+
+    return systems;
+  }
 };
 
 const mutations = {
@@ -48,7 +63,6 @@ const actions = {
         games[year].forEach(game => {
           game.systems = game.systems.map(system => {
             let mapping = mapSystem(system);
-            // let newSystems = [];
             if (system && !systems.includes(mapping)) {
               systems.push(mapping);
             }
