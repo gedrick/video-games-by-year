@@ -37,11 +37,11 @@ export default {
   width: 100%;
 
   span {
-    background-color: rgba(#E5B672, 0.5);
+    background-color: rgba(#E5B672, 0.2);
     border: 1px solid transparent;
 
     &:hover {
-      border: 1px solid rgba(#000, 0.3);
+      border: 1px solid rgba(#000, 0.5);
     }
 
     &.selected {
