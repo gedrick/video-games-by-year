@@ -30,23 +30,7 @@ export default {
     this.$store.dispatch('fetchGames');
   },
   computed: {
-    ...mapGetters(['games', 'selectedYears', 'selectedSystems']),
-    searchResults() {
-      const gamesInSelectedYears = this.games;
-      const searchResults = [];
-
-      this.selectedYears.forEach(year => {
-        this.games[year].filter(game => {
-          this.selectedSystems.forEach(system => {
-            if (game.systems.includes(system)) {
-              searchResults.push(game);
-            }
-          })
-        });
-      })
-
-      return searchResults;
-    }
+    ...mapGetters(['searchResults'])
   }
 };
 </script>

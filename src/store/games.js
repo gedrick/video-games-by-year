@@ -21,19 +21,32 @@ const getters = {
   },
   availableSystems: (state, getters) => {
     let systems = [];
-    if (getters.selectedYears.length) {
-      getters.selectedYears.forEach(year => {
-        state.games[year].forEach(game => {
-          game.systems.forEach(system => {
-            if (!systems.includes(system)) {
-              systems.push(system);
-            }
-          })
+    getters.selectedYears.forEach(year => {
+      state.games[year].forEach(game => {
+        game.systems.forEach(system => {
+          if (!systems.includes(system)) {
+            systems.push(system);
+          }
         })
       })
-    }
+    });
 
     return systems;
+  },
+  searchResults: (state, getters) => {
+    const searchResults = [];
+
+      getters.selectedYears.forEach(year => {
+        state.games[year].filter(game => {
+          getters.selectedSystems.forEach(system => {
+            if (game.systems.includes(system)) {
+              searchResults.push(game);
+            }
+          })
+        });
+      })
+
+      return searchResults;
   }
 };
 
