@@ -39,7 +39,7 @@ const getters = {
       getters.selectedYears.forEach(year => {
         state.games[year].filter(game => {
           getters.selectedSystems.forEach(system => {
-            if (game.systems.includes(system)) {
+            if (game.systems.includes(system) && !searchResults.includes(game)) {
               searchResults.push(game);
             }
           })
