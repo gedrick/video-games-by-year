@@ -51,11 +51,11 @@ export default {
 
     font-size: em(20);
 
-    @media screen and (min-device-width: 600px) {
+    @media screen and (min-width: 600px) {
       font-size: em(20);
     }
 
-    @media screen and (min-device-width: 1024px) {
+    @media screen and (min-width: 1024px) {
       font-size: em(24);
     }
   }

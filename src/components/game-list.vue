@@ -53,11 +53,11 @@ export default {
   .pill {
     margin: em(12) em(5) em(12) em(5);
 
-    @media screen and (min-device-width: 600px) {
+    @media screen and (min-width: 600px) {
       // margin: em(8);
     }
 
-    @media screen and (min-device-width: 1024px) {
+    @media screen and (min-width: 1024px) {
       // margin: em(8);
     }
   }

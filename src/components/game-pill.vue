@@ -50,15 +50,15 @@ export default {
   grid-template-columns: 15% auto;
   flex: 100%;
 
-  @media screen and (min-device-width: 600px) {
+  @media screen and (min-width: 600px) {
     flex: calc(50% - #{em(15)});
   }
 
-  @media screen and (min-device-width: 1024px) {
+  @media screen and (min-width: 1024px) {
     flex: calc(33% - #{em(15)});
   }
 
-  @media screen and (min-device-width: 1280px) {
+  @media screen and (min-width: 1280px) {
     flex: calc(25% - #{em(15)});
   }
 
