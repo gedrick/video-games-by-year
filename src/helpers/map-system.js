@@ -23,6 +23,7 @@ export default function mapSystem(system) {
       return 'Android';
     case 'Mac':
     case 'MacOS':
+    case 'OS X':
       return 'Mac OS';
     case 'DC':
       return 'Sega Dreamcast';
@@ -80,6 +81,15 @@ export default function mapSystem(system) {
       return 'Windows Phone';
     case 'Stadia':
       return 'Google Stadia';
+    case 'BlackBerry Tablet OS':
+    case 'Blackberry 10':
+      return 'Blackberry';
+    case 'iPod':
+      return 'Apple iPod';
+    case 'GBA':
+      return 'Nintendo Gameboy Advance';
+    case 'GCN':
+      return 'Nintendo Gamecube';
     default:
       return system;
   }
