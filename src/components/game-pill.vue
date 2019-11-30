@@ -2,7 +2,7 @@
   <div class="game-pill">
     <div class="container">
       <div class="date">
-        <span class="daymonth">{{ game.month }}/{{ game.day }}</span>
+        <span class="daymonth">{{ month }}&nbsp;{{ game.day }}</span>
         <span class="year">{{ game.year }}</span>
       </div>
       <div class="title">
@@ -29,6 +29,9 @@ export default {
     consoles() {
       const consoleSet = new Set(this.game.systems);
       return Array.from(consoleSet).join(', ');
+    },
+    month() {
+      return moment().month(this.game.month).format('MMM');
     }
   }
 }

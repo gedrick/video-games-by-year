@@ -1,11 +1,4 @@
-import { default as games2012 } from "../data/2012.js";
-import { default as games2013 } from "../data/2013.js";
-import { default as games2014 } from "../data/2014.js";
-import { default as games2015 } from "../data/2015.js";
-import { default as games2016 } from "../data/2016.js";
-import { default as games2017 } from "../data/2017.js";
-import { default as games2018 } from "../data/2018.js";
-
+import gameData from '../data/gamedata.js';
 import { mapSystem } from '../helpers';
 
 const state = {
@@ -35,18 +28,17 @@ const getters = {
   },
   searchResults: (state, getters) => {
     const searchResults = [];
+    getters.selectedYears.forEach(year => {
+      state.games[year].filter(game => {
+        getters.selectedSystems.forEach(system => {
+          if (game.systems.includes(system) && !searchResults.includes(game)) {
+            searchResults.push(game);
+          }
+        })
+      });
+    })
 
-      getters.selectedYears.forEach(year => {
-        state.games[year].filter(game => {
-          getters.selectedSystems.forEach(system => {
-            if (game.systems.includes(system) && !searchResults.includes(game)) {
-              searchResults.push(game);
-            }
-          })
-        });
-      })
-
-      return searchResults;
+    return searchResults;
   }
 };
 
@@ -62,15 +54,7 @@ const mutations = {
 const actions = {
   fetchGames({ commit }) {
     return new Promise(resolve => {
-      const games = {
-        2012: games2012,
-        2013: games2013,
-        2014: games2014,
-        2015: games2015,
-        2016: games2016,
-        2017: games2017,
-        2018: games2018
-      }
+      const games = gameData;
       const systems = [];
       for (let year in games) {
         games[year].forEach(game => {

@@ -26,7 +26,7 @@ export default {
     GamePill
   },
   mounted() {
-    this.$store.dispatch('initialize');
+    this.$store.dispatch('initializeFilters');
     this.$store.dispatch('fetchGames');
   },
   computed: {
@@ -52,14 +52,6 @@ export default {
 
   .pill {
     margin: em(12) em(5) em(12) em(5);
-
-    @media screen and (min-width: 600px) {
-      // margin: em(8);
-    }
-
-    @media screen and (min-width: 1024px) {
-      // margin: em(8);
-    }
   }
 
   span {

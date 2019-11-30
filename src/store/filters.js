@@ -13,8 +13,8 @@ const getters = {
 };
 
 const actions = {
-  initialize({commit}) {
-    const year = new Date().getUTCFullYear() - 1;
+  initializeFilters({commit}) {
+    const year = new Date().getUTCFullYear();
     commit('toggleYear', year);
   }
 };

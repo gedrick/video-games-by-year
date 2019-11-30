@@ -77,6 +77,8 @@ export default function mapSystem(system) {
       return 'Xbox Live Arcade';
     case 'WP':
       return 'Windows Phone';
+    case 'Stadia':
+      return 'Google Stadia';
     default:
       return system;
   }
