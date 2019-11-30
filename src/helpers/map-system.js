@@ -34,6 +34,7 @@ export default function mapSystem(system) {
       return 'Apple iOS';
     case 'DSiWare':
     case 'NDS':
+    case 'DS':
       return 'Nintendo DS';
     case 'NS':
     case 'Nintendo Switch':
