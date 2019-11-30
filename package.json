@@ -1,8 +1,8 @@
 {
-  "name": "video-game-release-timeline",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
-  "author": "Chris <g3ddylee@gmail.com>",
+  "name": "video-games-by-year",
+  "description": "An archive of all video games released, filtered by year and console",
+  "version": "1.0.1",
+  "author": "Geddy <g3ddylee@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
