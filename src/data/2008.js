@@ -4652,7 +4652,8 @@ export default [
       "PS3",
       "Wii",
       "Win",
-      "Xbox X360"
+      "Xbox",
+      "X360"
     ]
   },
   {
