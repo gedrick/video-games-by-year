@@ -31,7 +31,7 @@ export default {
       return Array.from(consoleSet).join(', ');
     },
     month() {
-      return moment().month(this.game.month).format('MMM');
+      return moment().month(this.game.month - 1).format('MMM');
     }
   }
 }

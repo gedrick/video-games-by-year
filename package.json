@@ -1,7 +1,7 @@
 {
   "name": "video-games-by-year",
   "description": "An archive of all video games released, filtered by year and console",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Geddy <g3ddylee@gmail.com>",
   "license": "MIT",
   "private": true,
