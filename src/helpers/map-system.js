@@ -3,14 +3,14 @@ export default function mapSystem(system) {
     case '360':
     case 'X360':
     case 'Xbox 360':
-      return 'Xbox 360';
+      return 'XB360';
     case 'MD':
-      return 'Sega MegaDrive';
+      return 'MegaDrive';
     case 'N3DS':
     case '3DS':
     case '3DSVC':
     case '3DS eShop':
-      return 'Nintendo 3DS';
+      return '3DS';
     case 'Amazon Fire':
     case 'Amazon Fire TV':
     case 'Fire':
@@ -26,44 +26,44 @@ export default function mapSystem(system) {
     case 'OS X':
       return 'Mac OS';
     case 'DC':
-      return 'Sega Dreamcast';
+      return 'Dreamcast';
     case 'Lin':
     case 'Linux':
       return 'Linux';
     case 'iOS':
     case 'Apple Watch':
-      return 'Apple iOS';
+      return 'iOS';
     case 'DSiWare':
     case 'NDS':
     case 'DS':
-      return 'Nintendo DS';
+      return 'DS';
     case 'NS':
     case 'Nintendo Switch':
-      return 'Nintendo Switch';
+      return 'Switch';
     case 'PS2':
-      return 'Playstation 2';
+      return 'PS2';
     case 'PS3':
-      return 'Playstation 3';
+      return 'PS3';
     case 'PS4':
-      return 'Playstation 4';
+      return 'PS4';
     case 'PSVita':
     case 'Vita':
-      return 'Playstation Vita';
+      return 'PSVita';
     case 'XBO':
       return 'Xbox One';
     case 'PSVR':
     case 'PlayStation VR':
-      return 'PlayStation VR';
+      return 'PSVR';
     case 'Oculus Rift':
       case 'Rift':
     case 'HTC Vive':
       return 'VR';
     case 'PSP':
-      return 'Playstation Portable';
+      return 'PSP';
     case 'PSN':
-      return 'Playstation Network';
+      return 'PSN';
     case 'SNES':
-      return 'Super Nintendo';
+      return 'SNES';
     case 'Steam':
     case 'Win':
     case 'Win 10':
@@ -71,25 +71,25 @@ export default function mapSystem(system) {
     case 'Wii U':
     case 'WiiU':
     case 'WiiUVC':
-      return 'Nintendo WiiU';
+      return 'WiiU';
     case 'Wii':
     case 'WiiWare':
-      return 'Nintendo Wii';
+      return 'Wii';
     case 'XBLA':
       return 'Xbox Live Arcade';
     case 'WP':
       return 'Windows Phone';
     case 'Stadia':
-      return 'Google Stadia';
+      return 'Stadia';
     case 'BlackBerry Tablet OS':
     case 'Blackberry 10':
       return 'Blackberry';
     case 'iPod':
       return 'Apple iPod';
     case 'GBA':
-      return 'Nintendo Gameboy Advance';
+      return 'GBA';
     case 'GCN':
-      return 'Nintendo Gamecube';
+      return 'Gamecube';
     default:
       return system;
   }

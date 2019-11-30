@@ -1,6 +1,6 @@
 export default [
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/FlatOut_2",
     "day": 1,
@@ -10,7 +10,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Metal_Slug_3",
     "day": 2,
@@ -20,7 +20,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Rune_Factory_2:_A_Fantasy_Harvest_Moon",
     "day": 3,
@@ -30,7 +30,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Brain_Challenge",
     "day": 8,
@@ -40,7 +40,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Harvey_Birdman:_Attorney_at_Law_(video_game)",
     "day": 8,
@@ -52,7 +52,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Jackass:_The_Game",
     "day": 8,
@@ -62,7 +62,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Kingdom_Under_Fire:_Circle_of_Doom",
     "day": 8,
@@ -72,7 +72,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Sonic_Riders:_Zero_Gravity",
     "day": 8,
@@ -83,7 +83,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Omega_Five",
     "day": 9,
@@ -93,7 +93,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/CSI:_Hard_Evidence",
     "day": 15,
@@ -103,7 +103,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Nanostray_2",
     "day": 15,
@@ -113,7 +113,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Nitrobike",
     "day": 15,
@@ -123,7 +123,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Samurai_Warriors:_Katana",
     "day": 15,
@@ -133,7 +133,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Rail_Simulator",
     "day": 16,
@@ -143,7 +143,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Mario_%26_Sonic_at_the_Olympic_Games",
     "day": 17,
@@ -153,7 +153,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Tori-Emaki",
     "day": 17,
@@ -163,7 +163,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Advance_Wars:_Days_of_Ruin",
     "day": 21,
@@ -173,7 +173,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Burnout_Paradise",
     "day": 22,
@@ -184,7 +184,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/No_More_Heroes_(video_game)",
     "day": 22,
@@ -194,7 +194,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Pirates_of_the_Burning_Sea",
     "day": 22,
@@ -204,7 +204,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/PixelJunk_Monsters",
     "day": 24,
@@ -214,7 +214,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/The_Sims_Castaway_Stories",
     "day": 29,
@@ -225,7 +225,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Rez#Rez_HD",
     "day": 30,
@@ -235,7 +235,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Disgaea_3:_Absence_of_Justice",
     "day": 31,
@@ -245,7 +245,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/Super_Smash_Bros._Brawl",
     "day": 31,
@@ -255,7 +255,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "January",
     "url": "/wiki/We_Ski",
     "day": 31,
@@ -265,7 +265,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Sins_of_a_Solar_Empire",
     "day": 4,
@@ -275,7 +275,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Zoo_Tycoon_2_DS",
     "day": 4,
@@ -285,7 +285,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Assassin%27s_Creed:_Alta%C3%AFr%27s_Chronicles",
     "day": 5,
@@ -295,7 +295,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Culdcept_Saga",
     "day": 5,
@@ -305,7 +305,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Devil_May_Cry_4",
     "day": 5,
@@ -316,7 +316,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Turok_(2008_video_game)",
     "day": 5,
@@ -327,7 +327,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Go!_Puzzle",
     "day": 7,
@@ -338,7 +338,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/L_the_Prologue_to_Death_Note_-Rasen_no_Wana-",
     "day": 7,
@@ -348,7 +348,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/The_Club_(video_game)",
     "day": 7,
@@ -360,7 +360,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Agatha_Christie:_And_Then_There_Were_None",
     "day": 8,
@@ -370,7 +370,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Conflict:_Denied_Ops",
     "day": 12,
@@ -382,7 +382,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Dark_Messiah_of_Might_and_Magic",
     "day": 12,
@@ -392,7 +392,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Innocent_Life:_A_Futuristic_Harvest_Moon",
     "day": 12,
@@ -402,7 +402,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Jumper:_Griffin%27s_Story_(video_game)",
     "day": 12,
@@ -414,7 +414,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Lost_Odyssey",
     "day": 12,
@@ -424,7 +424,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Penumbra:_Black_Plague",
     "day": 12,
@@ -435,7 +435,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Wipeout_Pulse",
     "day": 12,
@@ -445,7 +445,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Dream_Chronicles_2:_The_Eternal_Maze",
     "day": 14,
@@ -455,7 +455,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/MX_vs._ATV:_Untamed",
     "day": 18,
@@ -465,7 +465,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Need_for_Speed:_ProStreet",
     "day": 18,
@@ -475,7 +475,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Dragon_Quest_Swords:_The_Masked_Queen_and_the_Tower_of_Mirrors",
     "day": 19,
@@ -485,7 +485,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Dungeon_Explorer:_Warriors_of_Ancient_Arts",
     "day": 19,
@@ -496,7 +496,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Dynasty_Warriors_6",
     "day": 19,
@@ -507,7 +507,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Pimp_My_Ride",
     "day": 19,
@@ -517,7 +517,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/The_History_Channel:_Battle_for_the_Pacific",
     "day": 19,
@@ -527,7 +527,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/N%2B",
     "day": 20,
@@ -537,7 +537,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Lost_Planet:_Extreme_Condition",
     "day": 21,
@@ -547,7 +547,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Space_Invaders_Extreme",
     "day": 21,
@@ -558,7 +558,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Barnyard_Blast:_Swine_of_the_Night",
     "day": 22,
@@ -568,7 +568,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Destroy_All_Humans!_Big_Willy_Unleashed",
     "day": 25,
@@ -578,7 +578,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Frontlines:_Fuel_of_War",
     "day": 25,
@@ -589,7 +589,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Bubble_Bobble_Double_Shot",
     "day": 26,
@@ -599,7 +599,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Lost:_Via_Domus",
     "day": 26,
@@ -611,7 +611,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Naruto:_Ninja_Destiny",
     "day": 26,
@@ -621,7 +621,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Pinball_Hall_of_Fame:_The_Williams_Collection",
     "day": 26,
@@ -633,7 +633,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Turning_Point:_Fall_of_Liberty",
     "day": 26,
@@ -645,7 +645,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Universe_at_War:_Earth_Assault",
     "day": 26,
@@ -655,7 +655,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Blokus_Portable:_Steambot_Championship",
     "day": 27,
@@ -665,7 +665,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/Triggerheart_Exelica",
     "day": 27,
@@ -675,7 +675,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/The_Idolmaster_Live_For_You!",
     "day": 28,
@@ -685,7 +685,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "February",
     "url": "/wiki/The_Sims_2:_FreeTime",
     "day": 28,
@@ -695,7 +695,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Trials_2:_Second_Edition",
     "day": 1,
@@ -705,7 +705,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Bully_(video_game)",
     "day": 3,
@@ -716,7 +716,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Major_League_Baseball_2K8",
     "day": 3,
@@ -730,7 +730,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Anno_1701:_Dawn_of_Discovery",
     "day": 4,
@@ -740,7 +740,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Army_of_Two",
     "day": 4,
@@ -751,7 +751,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Eco_Creatures:_Save_the_Forest",
     "day": 4,
@@ -761,7 +761,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/God_of_War:_Chains_of_Olympus",
     "day": 4,
@@ -771,7 +771,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/MLB_08:_The_Show",
     "day": 4,
@@ -783,7 +783,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Mystery_Dungeon:_Shiren_the_Wanderer",
     "day": 4,
@@ -793,7 +793,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Ninja_Reflex",
     "day": 4,
@@ -803,7 +803,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Silent_Hill:_Origins",
     "day": 4,
@@ -813,7 +813,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Harvest:_Massive_Encounter",
     "day": 5,
@@ -824,7 +824,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Rocketmen:_Axis_of_Evil",
     "day": 5,
@@ -834,7 +834,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Warhammer_40,000:_Dawn_of_War:_Soulstorm",
     "day": 5,
@@ -844,7 +844,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Flow_(video_game)",
     "day": 6,
@@ -854,7 +854,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Yakuza:_Kenzan!",
     "day": 6,
@@ -864,7 +864,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Rocketmen:_Axis_of_Evil",
     "day": 6,
@@ -874,7 +874,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Super_Smash_Bros._Brawl",
     "day": 9,
@@ -884,7 +884,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Worms:_A_Space_Oddity",
     "day": 10,
@@ -894,7 +894,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Buzz!:_The_Hollywood_Quiz",
     "day": 11,
@@ -904,7 +904,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Condemned_2:_Bloodshot",
     "day": 11,
@@ -914,7 +914,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/George_of_the_Jungle_and_the_Search_for_the_Secret",
     "day": 11,
@@ -926,7 +926,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Insecticide_(video_game)",
     "day": 11,
@@ -937,7 +937,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Ratchet_%26_Clank:_Size_Matters",
     "day": 11,
@@ -947,7 +947,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/The_House_of_the_Dead_2_%26_3_Return",
     "day": 11,
@@ -957,7 +957,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Wild_Arms_XF",
     "day": 11,
@@ -967,7 +967,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Bliss_Island",
     "day": 12,
@@ -977,7 +977,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Condemned_2:_Bloodshot",
     "day": 18,
@@ -987,7 +987,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Enemy_Territory:_Quake_Wars",
     "day": 18,
@@ -997,7 +997,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Everybody%27s_Golf_5",
     "day": 18,
@@ -1007,7 +1007,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Pro_Evolution_Soccer_2008",
     "day": 18,
@@ -1017,7 +1017,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Sega_Superstars_Tennis",
     "day": 18,
@@ -1033,7 +1033,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Target:_Terror",
     "day": 18,
@@ -1043,7 +1043,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Tom_Clancy%27s_Rainbow_Six:_Vegas_2",
     "day": 18,
@@ -1055,7 +1055,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Deca_Sports",
     "day": 19,
@@ -1065,7 +1065,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/SimCity_DS_2",
     "day": 19,
@@ -1075,7 +1075,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Pok%C3%A9mon_Ranger:_Shadows_of_Almia",
     "day": 20,
@@ -1085,7 +1085,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Command_%26_Conquer_3:_Kane%27s_Wrath",
     "day": 24,
@@ -1096,7 +1096,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Crisis_Core:_Final_Fantasy_VII",
     "day": 24,
@@ -1106,7 +1106,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/M%26M%27s_Kart_Racing",
     "day": 24,
@@ -1116,7 +1116,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Avatar:_The_Last_Airbender_-_The_Burning_Earth",
     "day": 25,
@@ -1126,7 +1126,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/ObsCure_II",
     "day": 25,
@@ -1136,7 +1136,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Opoona",
     "day": 25,
@@ -1146,7 +1146,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Viking:_Battle_for_Asgard",
     "day": 25,
@@ -1157,7 +1157,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/GoPets:_Vacation_Island",
     "day": 26,
@@ -1167,7 +1167,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Dark_Sector",
     "day": 28,
@@ -1178,7 +1178,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "March",
     "url": "/wiki/Ninja_Gaiden_Dragon_Sword",
     "day": 28,
@@ -1188,7 +1188,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Brothers_in_Arms:_Road_to_Hill_30",
     "day": 1,
@@ -1198,7 +1198,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Mr._Driller_Online",
     "day": 2,
@@ -1208,7 +1208,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Star_Ocean:_Second_Evolution",
     "day": 2,
@@ -1218,7 +1218,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/FlatOut:_Head_On",
     "day": 4,
@@ -1228,7 +1228,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Assassin%27s_Creed_(video_game)",
     "day": 8,
@@ -1238,7 +1238,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Baroque_(video_game)",
     "day": 8,
@@ -1248,7 +1248,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Supreme_Commander_(game)",
     "day": 8,
@@ -1258,7 +1258,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Ikaruga",
     "day": 9,
@@ -1268,7 +1268,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Arcana_Heart#Arcana_Heart",
     "day": 10,
@@ -1278,7 +1278,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Mario_Kart_Wii",
     "day": 10,
@@ -1288,7 +1288,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/%C5%8Ckami",
     "day": 15,
@@ -1298,7 +1298,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Rondo_of_Swords",
     "day": 15,
@@ -1308,7 +1308,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Teenage_Zombies:_Invasion_of_the_Alien_Brain_Thingys!",
     "day": 15,
@@ -1318,7 +1318,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness",
     "day": 20,
@@ -1328,7 +1328,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Metal_Arms:_Glitch_in_the_System",
     "day": 21,
@@ -1338,7 +1338,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/High_School_Musical_2:_Work_This_Out!",
     "day": 22,
@@ -1348,7 +1348,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Persona_3_FES",
     "day": 22,
@@ -1358,7 +1358,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/The_World_Ends_with_You",
     "day": 22,
@@ -1368,7 +1368,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Turok_(2008_video_game)",
     "day": 22,
@@ -1378,7 +1378,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Valkyria_Chronicles",
     "day": 24,
@@ -1388,7 +1388,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/King%27s_Bounty:_The_Legend",
     "day": 25,
@@ -1398,7 +1398,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/w/index.php?title=Johnny_Test:_Rise_of_the_Tests&action=edit&redlink=1",
     "day": 27,
@@ -1410,7 +1410,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Grand_Theft_Auto_IV",
     "day": 29,
@@ -1421,7 +1421,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Let%27s_Yoga",
     "day": 29,
@@ -1431,7 +1431,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "April",
     "url": "/wiki/Galactic_Civilizations_II:_Twilight_of_the_Arnor",
     "day": 30,
@@ -1441,7 +1441,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Echochrome",
     "day": 1,
@@ -1452,7 +1452,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Iron_Man_(video_game)",
     "day": 2,
@@ -1471,7 +1471,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Chameleon:_To_Dye_For!",
     "day": 5,
@@ -1481,7 +1481,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Crosswords_DS",
     "day": 5,
@@ -1491,7 +1491,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/The_Destiny_of_Zorro",
     "day": 5,
@@ -1501,7 +1501,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Boom_Blox",
     "day": 6,
@@ -1512,7 +1512,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/w/index.php?title=El_Tigre:_Revenge_of_El_Oso&action=edit&redlink=1",
     "day": 6,
@@ -1527,7 +1527,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Speed_Racer_(2008_video_game)",
     "day": 6,
@@ -1538,7 +1538,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/LostWinds",
     "day": 12,
@@ -1548,7 +1548,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Castle_of_Shikigami_III",
     "day": 13,
@@ -1558,7 +1558,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Drone_Tactics",
     "day": 13,
@@ -1568,7 +1568,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game)",
     "day": 13,
@@ -1587,7 +1587,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/George_of_the_Jungle_and_the_Search_for_the_Secret",
     "day": 13,
@@ -1598,7 +1598,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Dark_Mist",
     "day": 15,
@@ -1608,7 +1608,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Luminous_Arc_2:_Will",
     "day": 15,
@@ -1618,7 +1618,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Monster_Madness:_Grave_Danger",
     "day": 17,
@@ -1628,7 +1628,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Critter_Round-Up",
     "day": 19,
@@ -1638,7 +1638,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Age_of_Conan:_Hyborian_Adventures",
     "day": 20,
@@ -1648,7 +1648,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/SingStar_(PlayStation_3)",
     "day": 20,
@@ -1658,7 +1658,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Penny_Arcade_Adventures:_On_the_Rain-Slick_Precipice_of_Darkness",
     "day": 21,
@@ -1671,7 +1671,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Wii_Fit",
     "day": 21,
@@ -1681,7 +1681,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Haze_(video_game)",
     "day": 23,
@@ -1691,7 +1691,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Cross_Edge",
     "day": 26,
@@ -1701,7 +1701,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Dr._Mario_Online_Rx",
     "day": 26,
@@ -1711,7 +1711,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Death_Jr._II:_Root_of_Evil",
     "day": 27,
@@ -1721,7 +1721,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Emergency_Heroes",
     "day": 27,
@@ -1731,7 +1731,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Enemy_Territory:_Quake_Wars",
     "day": 27,
@@ -1742,7 +1742,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Super_Dodgeball_Brawlers",
     "day": 27,
@@ -1752,7 +1752,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Mass_Effect_(video_game)",
     "day": 28,
@@ -1762,7 +1762,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Commando:_Steel_Disaster",
     "day": 30,
@@ -1772,7 +1772,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "May",
     "url": "/wiki/Race_Driver:_Grid",
     "day": 30,
@@ -1784,7 +1784,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Chaos_Wars",
     "day": 3,
@@ -1794,7 +1794,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Everybody%27s_Golf_Portable_2",
     "day": 3,
@@ -1804,7 +1804,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Kung_Fu_Panda_(video_game)",
     "day": 3,
@@ -1822,7 +1822,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Lego_Indiana_Jones:_The_Original_Adventures",
     "day": 3,
@@ -1841,7 +1841,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Ninja_Gaiden_II_(2008_video_game)",
     "day": 3,
@@ -1851,7 +1851,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Robert_Ludlum%27s_The_Bourne_Conspiracy",
     "day": 3,
@@ -1862,7 +1862,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Summon_Night:_Twin_Age",
     "day": 3,
@@ -1872,7 +1872,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Roogoo",
     "day": 4,
@@ -1882,7 +1882,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Dragon_Ball_Z:_Burst_Limit",
     "day": 5,
@@ -1893,7 +1893,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/w/index.php?title=Nickelodeon_Kart&action=edit&redlink=1",
     "day": 5,
@@ -1910,7 +1910,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Fushigi_no_Dungeon_-_Furai_no_Shiren_3:_Karakuri_Yashiki_no_Nemuri_Hime",
     "day": 5,
@@ -1920,7 +1920,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/The_Incredible_Hulk_(2008_video_game)",
     "day": 5,
@@ -1937,7 +1937,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/My_Pok%C3%A9mon_Ranch",
     "day": 9,
@@ -1947,7 +1947,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Blast_Works:_Build,_Trade,_Destroy",
     "day": 10,
@@ -1957,7 +1957,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Don_King_Presents:_Prizefighter",
     "day": 10,
@@ -1967,7 +1967,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Dragon_Ball_Z:_Burst_Limit",
     "day": 10,
@@ -1978,7 +1978,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/NASCAR_09",
     "day": 10,
@@ -1990,7 +1990,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/w/index.php?title=Total_Drama_(video_game)&action=edit&redlink=1",
     "day": 10,
@@ -2005,7 +2005,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/The_Incredible_Hulk_(2008_video_game)",
     "day": 10,
@@ -2015,7 +2015,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Frogger_2_(Xbox_Live_Arcade)",
     "day": 11,
@@ -2025,7 +2025,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Jake_Hunter",
     "day": 11,
@@ -2035,7 +2035,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Metal_Gear_Solid_4:_Guns_of_the_Patriots",
     "day": 12,
@@ -2045,7 +2045,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Civilization_Revolution",
     "day": 13,
@@ -2056,7 +2056,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Etrian_Odyssey_II:_Heroes_of_Lagaard",
     "day": 13,
@@ -2066,7 +2066,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Deadliest_Catch:_Alaskan_Storm",
     "day": 17,
@@ -2076,7 +2076,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/w/index.php?title=Di-Gata_Defenders:_Legend_of_the_Seth&action=edit&redlink=1",
     "day": 17,
@@ -2090,7 +2090,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Secret_Agent_Clank",
     "day": 17,
@@ -2100,7 +2100,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Supreme_Ruler_2020",
     "day": 17,
@@ -2110,7 +2110,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Wacky_Races:_Crash_and_Dash",
     "day": 17,
@@ -2121,7 +2121,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Elements_of_Destruction",
     "day": 18,
@@ -2131,7 +2131,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Fishdom",
     "day": 18,
@@ -2141,7 +2141,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Fatal_Inertia#Fatal_Inertia_EX",
     "day": 19,
@@ -2151,7 +2151,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Mario_Super_Sluggers",
     "day": 19,
@@ -2162,7 +2162,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Alone_in_the_Dark_(2008_video_game)",
     "day": 20,
@@ -2175,7 +2175,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Code_Lyoko:_Fall_of_X.A.N.A.",
     "day": 20,
@@ -2185,7 +2185,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Top_Spin_3",
     "day": 20,
@@ -2197,7 +2197,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Guitar_Hero:_On_Tour",
     "day": 22,
@@ -2207,7 +2207,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Rock_Band_(video_game)",
     "day": 22,
@@ -2220,7 +2220,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Battlefield:_Bad_Company",
     "day": 23,
@@ -2231,7 +2231,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Gyrostarr",
     "day": 23,
@@ -2241,7 +2241,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Top_Spin_3",
     "day": 23,
@@ -2251,7 +2251,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/WALL-E_(video_game)",
     "day": 24,
@@ -2270,7 +2270,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Big_Beach_Sports",
     "day": 24,
@@ -2280,7 +2280,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Hellboy:_The_Science_of_Evil",
     "day": 24,
@@ -2292,7 +2292,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Mega_Man_Star_Force_2",
     "day": 24,
@@ -2302,7 +2302,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Happy_Tree_Friends:_False_Alarm",
     "day": 25,
@@ -2313,7 +2313,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Disgaea:_Hour_of_Darkness#DS_port",
     "day": 26,
@@ -2323,7 +2323,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Tales_of_Symphonia:_Dawn_of_the_New_World",
     "day": 26,
@@ -2333,7 +2333,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Guitar_Hero:_Aerosmith",
     "day": 29,
@@ -2348,7 +2348,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Journey_to_the_Center_of_the_Earth_(Nintendo_DS)",
     "day": 30,
@@ -2358,7 +2358,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "June",
     "url": "/wiki/Magnetica",
     "day": 30,
@@ -2368,7 +2368,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Elements_of_Destruction",
     "day": 1,
@@ -2378,7 +2378,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Trauma_Center:_Under_the_Knife_2",
     "day": 1,
@@ -2388,7 +2388,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Soul_Bubbles",
     "day": 1,
@@ -2398,7 +2398,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/1_vs._100_(2008_video_game)",
     "day": 3,
@@ -2408,7 +2408,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Initial_D_Extreme_Stage",
     "day": 3,
@@ -2418,7 +2418,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Nanashi_no_Game",
     "day": 3,
@@ -2428,7 +2428,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Unreal_Tournament_3",
     "day": 3,
@@ -2438,7 +2438,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Song_Summoner:_The_Unsung_Heroes",
     "day": 7,
@@ -2448,7 +2448,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/SPOGS_Racing",
     "day": 7,
@@ -2458,7 +2458,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Zen_Pinball",
     "day": 7,
@@ -2468,7 +2468,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Beijing_2008_(video_game)",
     "day": 8,
@@ -2479,7 +2479,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Civilization_Revolution",
     "day": 8,
@@ -2489,7 +2489,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Devil_May_Cry_4",
     "day": 8,
@@ -2499,7 +2499,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Final_Fantasy_Fables:_Chocobo%27s_Dungeon",
     "day": 8,
@@ -2510,7 +2510,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Critter_Crunch",
     "day": 10,
@@ -2520,7 +2520,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Resident_Evil_Zero",
     "day": 10,
@@ -2530,7 +2530,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Persona_4",
     "day": 10,
@@ -2540,7 +2540,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Dynasty_Warriors_6",
     "day": 11,
@@ -2550,7 +2550,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Major_League_Eating:_The_Game",
     "day": 14,
@@ -2560,7 +2560,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Mister_Slime",
     "day": 15,
@@ -2570,7 +2570,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/NCAA_Football_09",
     "day": 15,
@@ -2584,7 +2584,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Space_Chimps_(video_game)",
     "day": 15,
@@ -2598,7 +2598,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/We_Love_Golf!",
     "day": 15,
@@ -2608,7 +2608,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Double_D_Dodgeball",
     "day": 16,
@@ -2618,7 +2618,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Dragon_Quest_V:_Hand_of_the_Heavenly_Bride",
     "day": 17,
@@ -2628,7 +2628,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Elefunk",
     "day": 17,
@@ -2638,7 +2638,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Rayman_(video_game)",
     "day": 17,
@@ -2648,7 +2648,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Tears_to_Tiara:_Kakan_no_Daichi",
     "day": 17,
@@ -2658,7 +2658,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/New_International_Track_%26_Field",
     "day": 22,
@@ -2668,7 +2668,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor_(video_game)",
     "day": 22,
@@ -2680,7 +2680,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/1942:_Joint_Strike",
     "day": 23,
@@ -2690,7 +2690,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Go!_Go!_Break_Steady",
     "day": 23,
@@ -2700,7 +2700,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/1942:_Joint_Strike",
     "day": 24,
@@ -2710,7 +2710,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Guitar_Hero_III:_Legends_of_Rock",
     "day": 24,
@@ -2720,7 +2720,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Siren:_Blood_Curse",
     "day": 24,
@@ -2730,7 +2730,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Wario_Land:_The_Shake_Dimension",
     "day": 24,
@@ -2740,7 +2740,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Pong_Toss!_Frat_Party_Games",
     "day": 28,
@@ -2750,7 +2750,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/MLB_Power_Pros_2008",
     "day": 29,
@@ -2761,7 +2761,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Soulcalibur_IV",
     "day": 29,
@@ -2772,7 +2772,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Spectral_Force_3:_Innocent_Rage",
     "day": 29,
@@ -2782,7 +2782,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Geometry_Wars:_Retro_Evolved_2",
     "day": 30,
@@ -2792,7 +2792,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Fatal_Frame_IV",
     "day": 31,
@@ -2802,7 +2802,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Phantasy_Star_Portable",
     "day": 31,
@@ -2812,7 +2812,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "July",
     "url": "/wiki/Rhythm_Heaven",
     "day": 31,
@@ -2822,7 +2822,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Race_Driver:_Grid_(Nintendo_DS)",
     "day": 1,
@@ -2832,7 +2832,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Reset_Generation",
     "day": 4,
@@ -2842,7 +2842,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Wild_West_Guns",
     "day": 4,
@@ -2852,7 +2852,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/w/index.php?title=Dance_Dance_Revolution:_Nickelodeon_Party_3&action=edit&redlink=1",
     "day": 5,
@@ -2862,7 +2862,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Braid_(video_game)",
     "day": 6,
@@ -2872,7 +2872,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Fire_Emblem:_Shadow_Dragon",
     "day": 7,
@@ -2882,7 +2882,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Hannah_Montana:_Spotlight_World_Tour",
     "day": 7,
@@ -2892,7 +2892,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Tales_of_Vesperia",
     "day": 7,
@@ -2902,7 +2902,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/w/index.php?title=Asdfgame&action=edit&redlink=1",
     "day": 12,
@@ -2917,7 +2917,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Bangai-O_Spirits",
     "day": 12,
@@ -2927,7 +2927,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Space_Siege",
     "day": 12,
@@ -2937,7 +2937,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Bionic_Commando_Rearmed",
     "day": 13,
@@ -2947,7 +2947,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Madden_NFL_09",
     "day": 13,
@@ -2965,7 +2965,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Bionic_Commando_Rearmed",
     "day": 14,
@@ -2976,7 +2976,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/The_Cheetah_Girls:_Passport_to_Stardom",
     "day": 19,
@@ -2986,7 +2986,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Deadliest_Catch:_Alaskan_Storm",
     "day": 19,
@@ -2996,7 +2996,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Too_Human",
     "day": 19,
@@ -3006,7 +3006,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Ratchet_%26_Clank_Future:_Quest_for_Booty",
     "day": 21,
@@ -3016,7 +3016,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Sigma_Harmonics",
     "day": 21,
@@ -3026,7 +3026,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Inazuma_Eleven",
     "day": 22,
@@ -3036,7 +3036,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Helix_(video_game)",
     "day": 25,
@@ -3046,7 +3046,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/MLB_Power_Pros_2008",
     "day": 25,
@@ -3056,7 +3056,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Digimon_World_Championship",
     "day": 26,
@@ -3066,7 +3066,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/FlatOut:_Ultimate_Carnage",
     "day": 26,
@@ -3076,7 +3076,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/From_the_Abyss",
     "day": 26,
@@ -3086,7 +3086,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/My_Chinese_Coach",
     "day": 26,
@@ -3096,7 +3096,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/N%2B",
     "day": 26,
@@ -3107,7 +3107,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/The_Quest_Trio",
     "day": 26,
@@ -3117,7 +3117,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/The_Sims_2:_Apartment_Life",
     "day": 26,
@@ -3127,7 +3127,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/The_Sims_2:_Apartment_Pets",
     "day": 26,
@@ -3137,7 +3137,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Tiger_Woods_PGA_Tour_09",
     "day": 26,
@@ -3154,7 +3154,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Afrika_(video_game)",
     "day": 28,
@@ -3164,7 +3164,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Asphalt_4:_Elite_Racing",
     "day": 28,
@@ -3174,7 +3174,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Captain_Rainbow",
     "day": 28,
@@ -3184,7 +3184,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/The_Last_Guy",
     "day": 28,
@@ -3194,7 +3194,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Spy_Fox_in_%22Dry_Cereal%22",
     "day": 29,
@@ -3204,7 +3204,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "August",
     "url": "/wiki/Mercenaries_2:_World_in_Flames",
     "day": 31,
@@ -3217,7 +3217,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Infinite_Undiscovery",
     "day": 2,
@@ -3227,11 +3227,11 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
-    "url": "/wiki/Rapala_Fishing_Frenzy_2009",
+    "url": "/wiki/Rapala_Fishing_Frenzy_2008",
     "day": 2,
-    "title": "Rapala Fishing Frenzy 2009",
+    "title": "Rapala Fishing Frenzy 2008",
     "systems": [
       "PS3",
       "Wii",
@@ -3239,7 +3239,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Vampire_Rain",
     "day": 2,
@@ -3249,7 +3249,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Viva_Pi%C3%B1ata:_Trouble_in_Paradise",
     "day": 2,
@@ -3259,7 +3259,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Shred_Nebula",
     "day": 3,
@@ -3269,7 +3269,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Blue_Dragon_Plus",
     "day": 4,
@@ -3279,7 +3279,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/FaceBreaker",
     "day": 5,
@@ -3290,7 +3290,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/S.T.A.L.K.E.R.:_Clear_Sky",
     "day": 5,
@@ -3300,7 +3300,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Spore_(2008_video_game)",
     "day": 5,
@@ -3312,7 +3312,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Viva_Pi%C3%B1ata:_Pocket_Paradise",
     "day": 5,
@@ -3322,7 +3322,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Air_Traffic_Chaos",
     "day": 8,
@@ -3332,7 +3332,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Lock%27s_Quest",
     "day": 8,
@@ -3342,7 +3342,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/NHL_2K9",
     "day": 8,
@@ -3355,7 +3355,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Hell%27s_Kitchen",
     "day": 9,
@@ -3368,7 +3368,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/w/index.php?title=The_Fairly_OddParents:_Rules_of_Engagement&action=edit&redlink=1",
     "day": 9,
@@ -3383,7 +3383,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/NHL_09",
     "day": 9,
@@ -3395,7 +3395,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/TNA_Impact!_(video_game)",
     "day": 9,
@@ -3408,7 +3408,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Yakuza_2",
     "day": 9,
@@ -3418,7 +3418,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Zoids_Assault",
     "day": 9,
@@ -3428,7 +3428,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/One_Piece:_Unlimited_Cruise",
     "day": 11,
@@ -3438,7 +3438,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Crysis_Warhead",
     "day": 12,
@@ -3448,7 +3448,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Pok%C3%A9mon_Platinum",
     "day": 13,
@@ -3458,7 +3458,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/w/index.php?title=6teen:_Dude_of_the_Living_Dead&action=edit&redlink=1",
     "day": 14,
@@ -3474,7 +3474,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Rock_Band_2",
     "day": 14,
@@ -3484,7 +3484,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Drawn_to_Life:_SpongeBob_SquarePants_Edition",
     "day": 15,
@@ -3494,7 +3494,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Armored_Core:_For_Answer",
     "day": 16,
@@ -3505,7 +3505,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Battle_Fantasia",
     "day": 16,
@@ -3515,7 +3515,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/w/index.php?title=Criminal_Minds:_Hard_Conspiracy&action=edit&redlink=1",
     "day": 16,
@@ -3527,7 +3527,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Crysis_Warhead",
     "day": 16,
@@ -3537,7 +3537,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Dance_Dance_Revolution_Hottest_Party_2",
     "day": 16,
@@ -3547,7 +3547,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Dance_Dance_Revolution_X",
     "day": 16,
@@ -3557,7 +3557,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Speed_Racer:_The_Videogame",
     "day": 16,
@@ -3567,7 +3567,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Star_Wars:_The_Force_Unleashed_(video_game)",
     "day": 16,
@@ -3581,7 +3581,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/The_Witcher:_Enhanced_Edition",
     "day": 16,
@@ -3591,7 +3591,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Pure_(video_game)",
     "day": 16,
@@ -3603,7 +3603,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Dragon_Ball:_Origins",
     "day": 18,
@@ -3613,7 +3613,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Eternal_Sonata",
     "day": 18,
@@ -3623,7 +3623,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Warhammer_Online:_Age_of_Reckoning",
     "day": 18,
@@ -3633,7 +3633,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Igor_(film)",
     "day": 19,
@@ -3645,7 +3645,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Sid_Meier%27s_Civilization_IV:_Colonization",
     "day": 22,
@@ -3655,7 +3655,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/De_Blob",
     "day": 22,
@@ -3667,7 +3667,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Di-Gata_Defenders",
     "day": 22,
@@ -3681,7 +3681,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Kirby_Super_Star_Ultra",
     "day": 22,
@@ -3691,7 +3691,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Mega_Man_9",
     "day": 22,
@@ -3701,7 +3701,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/SimCity_Creator",
     "day": 22,
@@ -3711,7 +3711,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/SouthPeak_Games#Titles",
     "day": 23,
@@ -3721,7 +3721,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Brothers_in_Arms:_Double_Time",
     "day": 23,
@@ -3731,7 +3731,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Brothers_in_Arms:_Hell%27s_Highway",
     "day": 23,
@@ -3742,7 +3742,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Buzz!:_Master_Quiz",
     "day": 23,
@@ -3752,7 +3752,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Dinosaur_King_(video_game)",
     "day": 23,
@@ -3765,7 +3765,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Hi_Hamtaro!_Little_Hamsters_Big_Adventure",
     "day": 23,
@@ -3775,7 +3775,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Lego_Batman:_The_Video_Game",
     "day": 23,
@@ -3791,7 +3791,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Microsoft_Tinker",
     "day": 23,
@@ -3801,7 +3801,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Shaun_the_Sheep_(video_game)",
     "day": 23,
@@ -3812,7 +3812,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/w/index.php?title=Thrillville:_Episodes_by_LucasArts&action=edit&redlink=1",
     "day": 23,
@@ -3831,7 +3831,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Time_Hollow",
     "day": 23,
@@ -3841,7 +3841,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/w/index.php?title=Dragon_Ball_Z:_Trilogy&action=edit&redlink=1",
     "day": 24,
@@ -3851,7 +3851,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Duke_Nukem_3D",
     "day": 24,
@@ -3861,7 +3861,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Aquanaut%27s_Holiday:_Hidden_Memories",
     "day": 25,
@@ -3871,7 +3871,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Cross_Edge",
     "day": 25,
@@ -3881,7 +3881,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Disaster:_Day_of_Crisis",
     "day": 25,
@@ -3891,7 +3891,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Geon_(video_game)",
     "day": 25,
@@ -3901,7 +3901,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Mega_Man_9",
     "day": 25,
@@ -3911,7 +3911,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Sands_of_Destruction",
     "day": 25,
@@ -3921,7 +3921,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Wipeout_HD",
     "day": 25,
@@ -3931,7 +3931,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/World_Destruction:_Michibikareshi_Ishi",
     "day": 25,
@@ -3941,7 +3941,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Silent_Hill:_Homecoming",
     "day": 30,
@@ -3953,7 +3953,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Sonic_Chronicles:_The_Dark_Brotherhood",
     "day": 30,
@@ -3963,7 +3963,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Tornado_(2008_video_game)",
     "day": 30,
@@ -3973,7 +3973,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "September",
     "url": "/wiki/Unsolved_Crimes",
     "day": 30,
@@ -3983,7 +3983,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Mega_Man_9",
     "day": 1,
@@ -3993,7 +3993,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Dynasty_Warriors_6",
     "day": 2,
@@ -4003,7 +4003,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Ikki_Tousen:_Eloquent_Fist",
     "day": 2,
@@ -4013,7 +4013,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Work_Time_Fun",
     "day": 2,
@@ -4023,7 +4023,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Fieldrunners",
     "day": 5,
@@ -4033,7 +4033,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Bleach:_Dark_Souls",
     "day": 7,
@@ -4043,7 +4043,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Brothers_in_Arms:_Hell%27s_Highway",
     "day": 7,
@@ -4053,7 +4053,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Crash:_Mind_over_Mutant",
     "day": 7,
@@ -4066,7 +4066,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Fracture_(video_game)",
     "day": 7,
@@ -4077,7 +4077,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Guilty_Gear_2:_Overture",
     "day": 7,
@@ -4087,7 +4087,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/NBA_Live_09",
     "day": 7,
@@ -4101,7 +4101,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/NBA_2K9",
     "day": 7,
@@ -4114,7 +4114,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Spectrobes:_Beyond_the_Portals",
     "day": 7,
@@ -4124,7 +4124,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/MLB_Stickball",
     "day": 8,
@@ -4134,7 +4134,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/The_Legend_of_Kage_2",
     "day": 8,
@@ -4144,7 +4144,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Linger_in_Shadows",
     "day": 9,
@@ -4154,7 +4154,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Macross_Ace_Frontier",
     "day": 9,
@@ -4164,7 +4164,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Supersonic_Acrobatic_Rocket-Powered_Battle-Cars",
     "day": 9,
@@ -4174,7 +4174,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Avatar:_The_Last_Airbender_-_Into_the_Inferno",
     "day": 13,
@@ -4186,7 +4186,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Blitz:_The_League_II",
     "day": 13,
@@ -4197,7 +4197,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Cubello",
     "day": 13,
@@ -4207,7 +4207,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Prey_the_Stars",
     "day": 13,
@@ -4217,7 +4217,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Tak:_Mojo_Mistake",
     "day": 13,
@@ -4227,7 +4227,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/World_of_Goo",
     "day": 13,
@@ -4238,7 +4238,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Dead_Space_(video_game)",
     "day": 14,
@@ -4249,7 +4249,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/FIFA_09",
     "day": 14,
@@ -4266,7 +4266,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Rock_Revolution",
     "day": 14,
@@ -4279,7 +4279,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Saints_Row_2",
     "day": 14,
@@ -4290,7 +4290,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/SOCOM:_U.S._Navy_SEALs_Confrontation",
     "day": 14,
@@ -4300,7 +4300,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Golden_Axe:_Beast_Rider",
     "day": 14,
@@ -4311,7 +4311,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Boogie_Superstar",
     "day": 14,
@@ -4321,7 +4321,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Age_of_Booty",
     "day": 15,
@@ -4331,7 +4331,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Culdcept_DS",
     "day": 16,
@@ -4341,7 +4341,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Wii_Music",
     "day": 16,
@@ -4351,7 +4351,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/X3:_Terran_Conflict",
     "day": 16,
@@ -4361,7 +4361,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Rock_Band_2",
     "day": 19,
@@ -4371,7 +4371,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Back_at_the_Barnyard:_Slop_Bucket_Games",
     "day": 20,
@@ -4381,7 +4381,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Celebrity_Sports_Showdown",
     "day": 20,
@@ -4391,7 +4391,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Midnight_Club:_Los_Angeles",
     "day": 20,
@@ -4403,7 +4403,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/NHL_09",
     "day": 20,
@@ -4413,7 +4413,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Dead_Space_(video_game)",
     "day": 20,
@@ -4423,7 +4423,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/SpongeBob_SquarePants_featuring_Nicktoons:_Globs_of_Doom",
     "day": 20,
@@ -4435,7 +4435,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/The_Naked_Brothers_Band_(video_game)",
     "day": 20,
@@ -4448,7 +4448,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Bully_(video_game)",
     "day": 21,
@@ -4458,7 +4458,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/BioShock",
     "day": 21,
@@ -4468,7 +4468,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Castlevania:_Order_of_Ecclesia",
     "day": 21,
@@ -4478,7 +4478,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Crash:_Mind_over_Mutant",
     "day": 21,
@@ -4488,7 +4488,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Dance_Dance_Revolution_Universe_3",
     "day": 21,
@@ -4498,7 +4498,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Disney_Think_Fast",
     "day": 21,
@@ -4508,7 +4508,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Far_Cry_2",
     "day": 21,
@@ -4520,7 +4520,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Fable_II",
     "day": 21,
@@ -4530,17 +4530,17 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
-    "url": "/wiki/Jillian_Michaels%27_Fitness_Ultimatum_2009",
+    "url": "/wiki/Jillian_Michaels%27_Fitness_Ultimatum_2008",
     "day": 21,
-    "title": "Jillian Michaels' Fitness Ultimatum 2009",
+    "title": "Jillian Michaels' Fitness Ultimatum 2008",
     "systems": [
       "Wii"
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Little_Red_Riding_Hood%27s_Zombie_BBQ",
     "day": 21,
@@ -4550,7 +4550,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Naruto:_Clash_of_Ninja_Revolution_2",
     "day": 21,
@@ -4560,7 +4560,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Spider-Man:_Web_of_Shadows",
     "day": 21,
@@ -4576,7 +4576,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/The_Legend_of_Spyro:_Dawn_of_the_Dragon",
     "day": 21,
@@ -4590,7 +4590,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Transformers_Animated:_The_Game",
     "day": 21,
@@ -4600,7 +4600,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/NBA_2K9",
     "day": 21,
@@ -4610,7 +4610,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/What%27s_Cooking%3F_with_Jamie_Oliver",
     "day": 21,
@@ -4620,7 +4620,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Prince_of_Persia_(1989_video_game)#Remake_and_modifications",
     "day": 23,
@@ -4630,7 +4630,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Casper%27s_Scare_School_(video_game)",
     "day": 26,
@@ -4640,7 +4640,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Guitar_Hero_World_Tour",
     "day": 26,
@@ -4656,7 +4656,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/MySims_Kingdom",
     "day": 27,
@@ -4667,7 +4667,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Ben_10:_Alien_Force_(video_game)",
     "day": 28,
@@ -4680,7 +4680,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Command_%26_Conquer:_Red_Alert_3",
     "day": 28,
@@ -4690,7 +4690,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Dora_the_Explorer",
     "day": 28,
@@ -4702,7 +4702,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Fallout_3",
     "day": 28,
@@ -4714,7 +4714,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Go,_Diego,_Go!",
     "day": 28,
@@ -4726,7 +4726,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Goosebumps_HorrorLand_Video_Game",
     "day": 28,
@@ -4738,7 +4738,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/LittleBigPlanet",
     "day": 28,
@@ -4748,7 +4748,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/MotorStorm:_Pacific_Rift",
     "day": 28,
@@ -4758,7 +4758,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/MySims",
     "day": 28,
@@ -4768,7 +4768,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Ninjatown",
     "day": 28,
@@ -4778,7 +4778,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Penny_Arcade_Adventures:_On_the_Rain-Slick_Precipice_of_Darkness",
     "day": 29,
@@ -4791,7 +4791,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Away:_Shuffle_Dungeon",
     "day": 30,
@@ -4801,7 +4801,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/wiki/Valkyrie_Profile:_Covenant_of_the_Plume",
     "day": 30,
@@ -4811,7 +4811,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "October",
     "url": "/w/index.php?title=Master_of_the_Monster_Lair&action=edit&redlink=1",
     "day": 31,
@@ -4821,7 +4821,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Alien_Crush_Returns",
     "day": 3,
@@ -4831,7 +4831,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Ben_10:_Alien_Force_(video_game)",
     "day": 4,
@@ -4842,7 +4842,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/w/index.php?title=Bones_(video_game)&action=edit&redlink=1",
     "day": 4,
@@ -4855,7 +4855,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Crash:_Mind_over_Mutant",
     "day": 4,
@@ -4865,7 +4865,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Dragon_Ball_Z:_Infinite_World",
     "day": 4,
@@ -4875,7 +4875,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Dragon_Ball:_Origins",
     "day": 4,
@@ -4885,7 +4885,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/w/index.php?title=Grossology:_Stinks_of_Destruction&action=edit&redlink=1",
     "day": 4,
@@ -4900,7 +4900,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/KORG_DS-10",
     "day": 4,
@@ -4910,7 +4910,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Legendary_(video_game)",
     "day": 4,
@@ -4922,7 +4922,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Madagascar:_Escape_2_Africa_(video_game)",
     "day": 4,
@@ -4937,7 +4937,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Naruto:_Ultimate_Ninja_Storm",
     "day": 4,
@@ -4947,7 +4947,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Tom_Clancy%27s_EndWar",
     "day": 4,
@@ -4960,7 +4960,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Resistance_2",
     "day": 4,
@@ -4970,7 +4970,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Namco_Museum_Virtual_Arcade",
     "day": 4,
@@ -4980,7 +4980,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Exit_(video_game)",
     "day": 5,
@@ -4990,7 +4990,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Kung_Fu_Panda:_Legendary_Warriors",
     "day": 5,
@@ -5001,7 +5001,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Gears_of_War_2",
     "day": 7,
@@ -5011,7 +5011,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Men_of_War_(video_game)",
     "day": 7,
@@ -5021,7 +5021,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Sacred_2_Fallen_Angel",
     "day": 7,
@@ -5031,7 +5031,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Pok%C3%A9mon_Ranger:_Shadows_of_Almia",
     "day": 10,
@@ -5041,7 +5041,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Banjo-Kazooie:_Nuts_%26_Bolts",
     "day": 11,
@@ -5051,7 +5051,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Call_of_Duty:_World_at_War",
     "day": 11,
@@ -5066,7 +5066,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Command_%26_Conquer:_Red_Alert_3",
     "day": 11,
@@ -5076,7 +5076,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Eternal_Poison",
     "day": 11,
@@ -5086,7 +5086,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/FaceBreaker",
     "day": 11,
@@ -5096,7 +5096,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Guinness_World_Records:_The_Videogame",
     "day": 11,
@@ -5107,7 +5107,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Mirror%27s_Edge",
     "day": 11,
@@ -5118,7 +5118,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Rock_Band_(video_game)",
     "day": 11,
@@ -5134,7 +5134,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Star_Wars:_The_Clone_Wars_-_Lightsaber_Duels",
     "day": 11,
@@ -5144,7 +5144,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Star_Wars:_The_Clone_Wars_-_Jedi_Alliance",
     "day": 11,
@@ -5154,7 +5154,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Tecmo_Bowl:_Kickoff",
     "day": 11,
@@ -5164,11 +5164,11 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
-    "url": "/wiki/WWE_SmackDown_vs._Raw_2009",
+    "url": "/wiki/WWE_SmackDown_vs._Raw_2008",
     "day": 11,
-    "title": "WWE SmackDown vs. Raw 2009",
+    "title": "WWE SmackDown vs. Raw 2008",
     "systems": [
       "Mobile",
       "NDS",
@@ -5180,11 +5180,11 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
-    "url": "/wiki/Pro_Evolution_Soccer_2009",
+    "url": "/wiki/Pro_Evolution_Soccer_2008",
     "day": 12,
-    "title": "Pro Evolution Soccer 2009",
+    "title": "Pro Evolution Soccer 2008",
     "systems": [
       "PS2",
       "PS3",
@@ -5195,7 +5195,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/The_Naked_Brothers_Band_(video_game)",
     "day": 12,
@@ -5207,7 +5207,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King",
     "day": 13,
@@ -5218,11 +5218,11 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
-    "url": "/wiki/Football_Manager_2009",
+    "url": "/wiki/Football_Manager_2008",
     "day": 14,
-    "title": "Football Manager 2009",
+    "title": "Football Manager 2008",
     "systems": [
       "Win",
       "Mac",
@@ -5230,7 +5230,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Animal_Crossing:_City_Folk",
     "day": 16,
@@ -5240,7 +5240,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Mortal_Kombat_vs._DC_Universe",
     "day": 16,
@@ -5251,7 +5251,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Shaun_White_Snowboarding",
     "day": 16,
@@ -5264,7 +5264,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Guitar_Hero_On_Tour:_Decades",
     "day": 17,
@@ -5274,7 +5274,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Robocalypse",
     "day": 17,
@@ -5284,7 +5284,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Skate_It",
     "day": 17,
@@ -5295,7 +5295,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Alone_in_the_Dark_(2008_video_game)",
     "day": 18,
@@ -5305,7 +5305,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Avatar:_The_Last_Airbender_-_Into_the_Inferno",
     "day": 18,
@@ -5316,7 +5316,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Bolt_(video_game)",
     "day": 18,
@@ -5331,7 +5331,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Cooking_Mama:_World_Kitchen",
     "day": 18,
@@ -5341,7 +5341,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Cradle_of_Rome",
     "day": 18,
@@ -5351,7 +5351,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Ultimate_Band",
     "day": 18,
@@ -5362,7 +5362,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Castlevania_Judgment",
     "day": 18,
@@ -5372,7 +5372,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Iron_Chef_America:_Supreme_Cuisine",
     "day": 18,
@@ -5382,7 +5382,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Left_4_Dead",
     "day": 18,
@@ -5393,7 +5393,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Need_for_Speed:_Undercover",
     "day": 18,
@@ -5409,7 +5409,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Sonic_Unleashed",
     "day": 18,
@@ -5422,7 +5422,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/SpongeBob_SquarePants_featuring_Nicktoons:_Globs_of_Doom",
     "day": 18,
@@ -5434,7 +5434,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Tomb_Raider:_Underworld",
     "day": 18,
@@ -5449,7 +5449,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Tony_Hawk%27s_Motion",
     "day": 18,
@@ -5459,7 +5459,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Rayman_Raving_Rabbids_TV_Party",
     "day": 18,
@@ -5472,7 +5472,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Naruto:_The_Broken_Bond",
     "day": 18,
@@ -5482,7 +5482,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/CSI:_NY_(video_game)",
     "day": 18,
@@ -5492,7 +5492,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/You%27re_in_the_Movies",
     "day": 18,
@@ -5502,7 +5502,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Weapon_of_Choice_(video_game)",
     "day": 19,
@@ -5512,7 +5512,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Gallop_%26_Ride",
     "day": 20,
@@ -5522,7 +5522,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/The_Last_Remnant",
     "day": 20,
@@ -5532,7 +5532,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/LocoRoco_2",
     "day": 21,
@@ -5542,7 +5542,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Beyond_Protocol_(video_game)",
     "day": 21,
@@ -5552,7 +5552,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Brothers_in_Arms:_Hour_of_Heroes",
     "day": 23,
@@ -5562,7 +5562,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Chrono_Trigger",
     "day": 25,
@@ -5572,7 +5572,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Club_Penguin:_Elite_Penguin_Force",
     "day": 25,
@@ -5582,7 +5582,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Iron_Chef_America:_Supreme_Cuisine",
     "day": 25,
@@ -5592,7 +5592,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Neopets_Puzzle_Adventure",
     "day": 25,
@@ -5602,7 +5602,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Winter_Sports_2:_The_Next_Challenge",
     "day": 25,
@@ -5615,7 +5615,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Patapon_2",
     "day": 27,
@@ -5625,7 +5625,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/wiki/Rune_Factory_Frontier",
     "day": 27,
@@ -5635,7 +5635,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "November",
     "url": "/w/index.php?title=Geometry_Dance&action=edit&redlink=1",
     "day": 30,
@@ -5645,7 +5645,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Destroy_All_Humans!_Path_of_the_Furon",
     "day": 1,
@@ -5655,7 +5655,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Space_Invaders_Get_Even",
     "day": 1,
@@ -5665,7 +5665,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Prince_of_Persia:_The_Fallen_King",
     "day": 2,
@@ -5675,7 +5675,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Mushroom_Men",
     "day": 2,
@@ -5685,7 +5685,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Mushroom_Men",
     "day": 2,
@@ -5695,7 +5695,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Grand_Theft_Auto_IV",
     "day": 2,
@@ -5705,7 +5705,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Prince_of_Persia_(2008_video_game)",
     "day": 2,
@@ -5716,7 +5716,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Kingdom_Hearts_Re:Chain_of_Memories",
     "day": 2,
@@ -5726,7 +5726,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Safecracker:_The_Ultimate_Puzzle_Adventure",
     "day": 2,
@@ -5736,7 +5736,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Everyday_Shooter",
     "day": 4,
@@ -5746,7 +5746,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Rygar:_The_Battle_of_Argus",
     "day": 4,
@@ -5756,7 +5756,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/S%C3%B6ldner-X:_Himmelsst%C3%BCrmer",
     "day": 4,
@@ -5766,7 +5766,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/X3:_Reunion",
     "day": 5,
@@ -5776,7 +5776,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Prey_(2006_video_game)",
     "day": 7,
@@ -5786,7 +5786,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Defense_Grid:_The_Awakening",
     "day": 8,
@@ -5796,7 +5796,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Hockey_Allstar_Shootout",
     "day": 8,
@@ -5806,7 +5806,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Prince_of_Persia_(2008_video_game)",
     "day": 9,
@@ -5816,7 +5816,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Meteos",
     "day": 10,
@@ -5826,7 +5826,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/PowerUp_Forever",
     "day": 10,
@@ -5836,7 +5836,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Elebits:_The_Adventures_of_Kai_and_Zero",
     "day": 11,
@@ -5846,7 +5846,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/PowerUp_Forever",
     "day": 11,
@@ -5856,7 +5856,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/I_Love_Katamari",
     "day": 14,
@@ -5866,7 +5866,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Big_Kahuna_Party",
     "day": 15,
@@ -5876,7 +5876,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Dash_of_Destruction",
     "day": 17,
@@ -5886,7 +5886,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Rise_of_the_Argonauts",
     "day": 18,
@@ -5898,7 +5898,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Dissidia:_Final_Fantasy",
     "day": 18,
@@ -5908,7 +5908,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Dynasty_Warriors:_Gundam_2",
     "day": 18,
@@ -5920,7 +5920,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Suikoden_Tierkreis",
     "day": 18,
@@ -5930,7 +5930,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Tales_of_Hearts",
     "day": 18,
@@ -5940,7 +5940,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Crystal_Defenders",
     "day": 23,
@@ -5950,7 +5950,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/Lumines#Lumines_Supernova",
     "day": 23,
@@ -5960,7 +5960,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/White_Knight_Chronicles",
     "day": 25,
@@ -5970,7 +5970,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/RIZ-ZOAWD",
     "day": 25,
@@ -5980,7 +5980,7 @@ export default [
     ]
   },
   {
-    "year": 2009,
+    "year": 2008,
     "month": "December",
     "url": "/wiki/MaBoShi:_The_Three_Shape_Arcade",
     "day": 29,
