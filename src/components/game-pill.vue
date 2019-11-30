@@ -31,7 +31,11 @@ export default {
       return Array.from(consoleSet).join(', ');
     },
     month() {
-      return moment().month(this.game.month - 1).format('MMM');
+      if (Number.isInteger(this.game.month)) {
+        return moment().month(this.game.month - 1).format('MMM');
+      } else {
+        return moment().month(this.game.month).format('MMM');
+      }
     }
   }
 }
