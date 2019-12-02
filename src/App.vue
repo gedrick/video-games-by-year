@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>Video Games By Year</h1>
+    <a href="https://github.com/gedrick/video-games-by-year" target="_blank">github</a>
     <GameList />
   </div>
 </template>
@@ -36,10 +37,15 @@ body {
   margin-top: em(60);
 }
 
-h1, h2 {
+h1 {
   font-weight: bold;
   color: #fff;
   font-size: em(24);
+  margin: 0;
+}
+
+a:hover {
+  color: #fff;
 }
 
 ul {

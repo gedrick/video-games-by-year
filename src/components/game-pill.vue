@@ -80,8 +80,8 @@ export default {
     padding-right: em(15);
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    justify-content: space-around;
 
     .daymonth {
       font-size: em(12);
