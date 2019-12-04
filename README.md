@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Video Games By Year
 
-You can use the [editor on GitHub](https://github.com/gedrick/video-games-by-year/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is this?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an archive of video game releases across all systems and consoles. It's filterable by year and by console. You can multi-select both.
 
-### Markdown
+### But why?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I needed a quick way to glance through video game releases on a per-system basis. I couldn't find exactly what I needed, so I whipped this up over the span of a few nights to deliver exactly what I needed.
 
-```markdown
-Syntax highlighted code block
+I also wanted it to work beautifully and quickly on mobile devices, so it scales down nicely to 320w on my trusty iPhone SE. I am happy with this fact.
 
-# Header 1
-## Header 2
-### Header 3
+### Challenges
 
-- Bulleted
-- List
+The toughest part is gathering the data, which is/was scraped from Wikipedia pages using a rough script that abuses jQuery to the extreme.
 
-1. Numbered
-2. List
+It runs through tables, pulls out months/days/years/titles/consoles/urls, and dumps it into an object, which is then saved into the project. Since nothing ever changes in past releases, and I wanted it to work quickly, this worked to my specifications.
 
-**Bold** and _Italic_ and `Code` text
+### Why's it only go back to 2007?
 
-[Link](url) and ![Image](src)
-```
+You'll notice that the years only goes back to 2007. This is due to the ever-changing table structure on the `XXXX year in gaming` articles on Wikipedia. 2006 back to ~1995 use a different table structure, and before 1995 the table structure is abandoned entirely, relying on long-winded sentences to describe each release.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In other words, "I'll get to it eventually!"
 
-### Jekyll Themes
+### How's it hosted?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gedrick/video-games-by-year/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Github Pages, baby! Free to use and does the trick just fine, as there is no server component. Everything's bundled into one big ol' JS file.
 
-### Support or Contact
+## Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to help out with some more data, check out the data structure, crack open `scrape-wiki.js`, and modify it till your heart's content. Then, either open a PR with the JSON object or paste it into an issue, whichever's easier.
+
+If you found a bug, also feel free to kick up an issue.
