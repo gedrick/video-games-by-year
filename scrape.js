@@ -12,18 +12,23 @@ const mapping = {
     index: 1,
     callbackFn: str => str.trim()
   },
+  publisher: {
+    index: 2,
+    callbackFn: str => str.trim()
+  },
   year: {
     index: 4,
     callbackFn: str => {
-      if (str && str.includes(',')) {
+      if (str.includes(',')) {
         const year = str.split(',')[1];
         return parseInt(year.trim());
-      } else if (str.trim() === 'Unreleased') {
-        return null;
+      } else if (str.includes(' ')) {
+        return parseInt(str.split(' ')[1]);
       }
 
       return null;
-    }
+    },
+    failFn: str => str.trim() === 'Unreleased'
   },
   month: {
     index: 4,
@@ -54,7 +59,7 @@ function processResults(body) {
       rowCells = $(tableRow).find('td');
 
       const props = Object.keys(mapping);
-
+      let shortCircuited = false;
       nextResult = {};
 
       props.forEach(propName => {
@@ -64,6 +69,14 @@ function processResults(body) {
         if (Number.isInteger(currentProperty)) {
           finalValue = $(rowCells[currentProperty]).text();
         } else {
+          if (currentProperty.failFn && typeof currentProperty.failFn === 'function') {
+            if (currentProperty.failFn($(rowCells[currentProperty.index]).text())) {
+              console.log('it fail');
+              shortCircuited = true;
+            }
+          }
+
+
           // Otherwise, run the callback on the index.
           if (currentProperty.callbackFn && typeof currentProperty.callbackFn === 'function') {
             finalValue = currentProperty.callbackFn($(rowCells[currentProperty.index]).text());
@@ -75,7 +88,9 @@ function processResults(body) {
         nextResult[propName] = finalValue;
       });
 
-      results.push(nextResult);
+      if (!shortCircuited) {
+        results.push(nextResult);
+      }
     })
 
     console.log(results);
