@@ -14,7 +14,16 @@ const mapping = {
   },
   year: {
     index: 4,
-    callbackFn: getYear
+    callbackFn: str => {
+      if (str && str.includes(',')) {
+        const year = str.split(',')[1];
+        return parseInt(year.trim());
+      } else if (str.trim() === 'Unreleased') {
+        return null;
+      }
+
+      return null;
+    }
   },
   month: {
     index: 4,
@@ -27,17 +36,6 @@ const mapping = {
       }
     }
   }
-}
-
-function getYear(string) {
-  if (string && string.includes(',')) {
-    const year = string.split(',')[1];
-    return parseInt(year.trim());
-  } else if (string.trim() === 'Unreleased') {
-    return null;
-  }
-
-  return null;
 }
 
 function processResults(body) {
