@@ -6,18 +6,18 @@
     <div class="search-results">
       <game-pill
         v-for="game in searchResults"
-        :game="game"
         :key="`${game.year}-${game.month}-${game.day}-${game.title}`"
+        :game="game"
       />
     </div>
   </div>
 </template>
 
 <script>
-import YearFilters from "./year-filters.vue";
-import SystemFilters from "./system-filters.vue";
-import GamePill from "./game-pill.vue";
-import { mapGetters, mapActions } from 'vuex';
+import YearFilters from './year-filters.vue';
+import SystemFilters from './system-filters.vue';
+import GamePill from './game-pill.vue';
+import { mapGetters } from 'vuex';
 
 export default {
   components: {
