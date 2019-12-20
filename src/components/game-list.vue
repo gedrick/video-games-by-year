@@ -25,12 +25,12 @@ export default {
     SystemFilters,
     GamePill
   },
+  computed: {
+    ...mapGetters(['searchResults'])
+  },
   mounted() {
     this.$store.dispatch('initializeFilters');
     this.$store.dispatch('fetchGames');
-  },
-  computed: {
-    ...mapGetters(['searchResults'])
   }
 };
 </script>
