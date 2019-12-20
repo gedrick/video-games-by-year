@@ -1,71 +1,7 @@
 const req = require('request');
 const cheerio = require('cheerio');
-const filters = require('./filters');
-const url =
-  'https://en.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games';
 
-const tablesToGrab = [0];
-const mapping = {
-  title: {
-    index: 0,
-    callbackFn: filters.TrimText
-  },
-  developer: {
-    index: 1,
-    callbackFn: filters.TrimText
-  },
-  publisher: {
-    index: 2,
-    callbackFn: filters.TrimText
-  },
-  year: {
-    index: 4,
-    callbackFn: ($, obj) => {
-      const str = $(obj).text();
-      if (str.includes(',')) {
-        const year = str.split(',')[1];
-        return parseInt(year.trim());
-      } else if (str.includes(' ')) {
-        return parseInt(str.split(' ')[1]);
-      }
-
-      return null;
-    },
-    failFn: ($, obj) => {
-      return (
-        $(obj)
-          .text()
-          .trim() === 'Unreleased'
-      );
-    }
-  },
-  month: {
-    index: 4,
-    callbackFn: ($, obj) => {
-      const str = $(obj).text();
-      if (str.includes(',')) {
-        const dayMonth = str.split(',')[0];
-        return dayMonth.split(' ')[0];
-      } else {
-        return null;
-      }
-    }
-  },
-  day: {
-    index: 4,
-    callbackFn: ($, obj) => {
-      const str = $(obj).text();
-      if (str.includes(',')) {
-        const dayMonth = str.split(',')[0];
-        return parseInt(dayMonth.split(' ')[1].trim());
-      } else {
-        return null;
-      }
-    }
-  }
-};
-
-function processResults(body) {
+function processResults(tableIndexes, mapping, body) {
   const $ = cheerio.load(body);
   const tables = $('.sortable');
 
@@ -75,7 +11,7 @@ function processResults(body) {
   let currentProperty;
   let finalValue;
 
-  tablesToGrab.forEach(tableIndex => {
+  tableIndexes.forEach(tableIndex => {
     // Loop over each row in the table.
     $(tables[tableIndex])
       .find('tbody tr')
@@ -126,11 +62,31 @@ function processResults(body) {
           results.push(nextResult);
         }
       });
+  });
 
-    console.log(results);
+  return results;
+}
+
+function scrape(config) {
+  const url = `https://en.wikipedia.org/wiki/${config.page}`;
+  return new Promise((resolve, reject) => {
+    req.get({ url }, (err, resp, body) => {
+      if (resp.statusCode === 404) {
+        reject(`Error: wiki page \`${config.page}\` does not exist!`);
+      } else if (err) {
+        reject(`Error with Wikipedia request: ${err}`);
+      } else {
+        const results = processResults(
+          config.tableIndexes,
+          config.mapping,
+          body
+        );
+        resolve(results);
+      }
+    });
   });
 }
 
-req.get({ url }, (err, resp, body) => {
-  processResults(body);
-});
+module.exports = {
+  scrape
+};
