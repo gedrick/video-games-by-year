@@ -67,6 +67,44 @@ function processResults(tableIndexes, mapping, body) {
   return results;
 }
 
+function findTables(body) {
+  const $ = cheerio.load(body);
+  const tables = [];
+
+  $('.wikitable').each((index, table) => {
+    const $table = $(table);
+
+    const tableId = $table.attr('id');
+    const closestHeader = $table
+      .prevAll('h2')
+      .first()
+      .text();
+    const firstRows = $table.find('tr').slice(0, 3);
+
+    tables.push({
+      tableId,
+      closestHeader,
+      firstRows
+    });
+  });
+
+  displayResults(tables);
+}
+
+function displayResults(tables) {
+  console.log(`++++++ ${tables.length} TABLES FOUND ++++++`);
+
+  tables.forEach((table, index) => {
+    console.log(`Table ${index} ID: ${table.tableId}`);
+    if (table.closestHeader) {
+      console.log(`\tClosest header: ${table.closestHeader}`);
+    }
+    // if (table.firstRows.length) {
+    //   console.log(table.firstRows);
+    // }
+  });
+}
+
 function scrape(config) {
   const url = `https://en.wikipedia.org/wiki/${config.page}`;
   return new Promise((resolve, reject) => {
@@ -87,6 +125,20 @@ function scrape(config) {
   });
 }
 
+function checkTables(page) {
+  const url = `https://en.wikipedia.org/wiki/${page}`;
+  req.get({ url }, (err, resp, body) => {
+    if (resp.statusCode === 404) {
+      console.error(`Error: wiki page \`${page}\` does not exist!`);
+    } else if (err) {
+      console.error(`Error with Wikipedia request: ${err}`);
+    } else {
+      findTables(body);
+    }
+  });
+}
+
 module.exports = {
-  scrape
+  scrape,
+  checkTables
 };

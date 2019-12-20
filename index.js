@@ -7,11 +7,14 @@ const config = {
   mapping,
   tableIndexes
 };
-scrape
-  .scrape(config)
-  .then(results => {
-    console.log('got scrape results:', results);
-  })
-  .catch(err => {
-    console.log(err);
-  });
+
+// scrape
+//   .scrape(config)
+//   .then(results => {
+//     console.log('got scrape results:', results);
+//   })
+//   .catch(err => {
+//     console.log(err);
+//   });
+
+scrape.checkTables(wikiPage);
