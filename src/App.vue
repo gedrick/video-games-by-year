@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <h1>Video Games By Year</h1>
-    <a href="https://github.com/gedrick/video-games-by-year" target="_blank">github</a>
     <GameList />
+    <a href="https://github.com/gedrick/video-games-by-year" target="_blank">github</a>
   </div>
 </template>
 

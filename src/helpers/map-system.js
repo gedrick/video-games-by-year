@@ -58,7 +58,7 @@ export default function mapSystem(system) {
     case 'PLAYSTATION VR':
       return 'PSVR';
     case 'OCULUS RIFT':
-      case 'Rift':
+    case 'RIFT':
     case 'HTC VIVE':
       return 'VR';
     case 'PSP':
