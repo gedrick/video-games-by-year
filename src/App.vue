@@ -2,7 +2,10 @@
   <div id="app">
     <h1>Video Games By Year</h1>
     <GameList />
-    <a href="https://github.com/gedrick/video-games-by-year" target="_blank">github</a>
+    <div class="footer">
+      <a href="https://nostalgiatrigger.com">gaming blog</a>&nbsp;-
+      <a href="https://github.com/gedrick/video-games-by-year">github</a>
+    </div>
   </div>
 </template>
 
@@ -10,11 +13,11 @@
 import GameList from './components/game-list.vue';
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
     GameList
-  },
-}
+  }
+};
 </script>
 
 <style lang="scss">
@@ -60,5 +63,16 @@ li {
 
 a {
   color: #42b983;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 8px 0;
+  background-color: #1a1a1a;
+  text-align: center;
+  color: #ffffff;
 }
 </style>
