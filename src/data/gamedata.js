@@ -11,6 +11,7 @@ import { default as games2016 } from '../data/2016.js';
 import { default as games2017 } from '../data/2017.js';
 import { default as games2018 } from '../data/2018.js';
 import { default as games2019 } from '../data/2019.js';
+import { default as games2020 } from '../data/2020.js';
 
 export default {
   2007: games2007,
@@ -25,5 +26,6 @@ export default {
   2016: games2016,
   2017: games2017,
   2018: games2018,
-  2019: games2019
+  2019: games2019,
+  2020: games2020
 };

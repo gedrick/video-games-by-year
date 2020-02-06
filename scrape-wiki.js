@@ -47,7 +47,7 @@ console.clear();
         });
 
       // Process rows.
-      let currentYear = 2019;
+      let currentYear = 2020;
       let currentDay;
       let newGame, gameTitle, gameUrl, gameSystems, gameSystemUrl;
       $(table)
