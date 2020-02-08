@@ -1,4 +1,4 @@
-export default [
+[
   {
     "title": "3 Ninjas Kick Back",
     "month": "June",
@@ -7166,4 +7166,4 @@ export default [
       "SNES"
     ]
   }
-];
+]
