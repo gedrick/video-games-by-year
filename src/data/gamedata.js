@@ -1,17 +1,17 @@
-import { default as games2007 } from '../data/2007.js';
-import { default as games2008 } from '../data/2008.js';
-import { default as games2009 } from '../data/2009.js';
-import { default as games2010 } from '../data/2010.js';
-import { default as games2011 } from '../data/2011.js';
-import { default as games2012 } from '../data/2012.js';
-import { default as games2013 } from '../data/2013.js';
-import { default as games2014 } from '../data/2014.js';
-import { default as games2015 } from '../data/2015.js';
-import { default as games2016 } from '../data/2016.js';
-import { default as games2017 } from '../data/2017.js';
-import { default as games2018 } from '../data/2018.js';
-import { default as games2019 } from '../data/2019.js';
-import { default as games2020 } from '../data/2020.js';
+import * as games2007 from '../data/2007.json';
+import * as games2008 from '../data/2008.json';
+import * as games2009 from '../data/2009.json';
+import * as games2010 from '../data/2010.json';
+import * as games2011 from '../data/2011.json';
+import * as games2012 from '../data/2012.json';
+import * as games2013 from '../data/2013.json';
+import * as games2014 from '../data/2014.json';
+import * as games2015 from '../data/2015.json';
+import * as games2016 from '../data/2016.json';
+import * as games2017 from '../data/2017.json';
+import * as games2018 from '../data/2018.json';
+import * as games2019 from '../data/2019.json';
+import * as games2020 from '../data/2020.json';
 
 export default {
   2007: games2007,
