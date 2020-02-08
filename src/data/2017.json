@@ -4707,17 +4707,6 @@
   {
     "year": 2017,
     "month": 9,
-    "url": "/wiki/Star_Fox_2",
-    "day": 29,
-    "title": "Star Fox 2",
-    "systems": [
-      "SNES"
-    ],
-    "systemUrl": "/wiki/Super_Nintendo_Entertainment_System"
-  },
-  {
-    "year": 2017,
-    "month": 9,
     "url": "/wiki/Yo-kai_Watch_2",
     "day": 29,
     "title": "Yo-Kai Watch 2: Psychic Specters[B]",
@@ -6429,5 +6418,15 @@
       "3DS"
     ],
     "systemUrl": "/wiki/Nintendo_3DS"
+  },
+  {
+    "year": 2017,
+    "month": 9,
+    "day": 29,
+    "title": "Star Fox 2",
+    "systems": [
+      "SNES"
+    ],
+    "url": "/wiki/Star_Fox_2"
   }
 ]
