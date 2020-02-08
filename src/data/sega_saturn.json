@@ -1,1962 +1,2452 @@
 [
   {
     "title": "3D Baseball",
-    "url": "/wiki/3D_Baseball",
-    "developer": "Crystal Dynamics",
     "year": 1996,
     "month": 12,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/3D_Baseball",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Albert Odyssey: Legend of Eldean",
-    "url": "/wiki/Albert_Odyssey:_Legend_of_Eldean",
-    "developer": "Sunsoft",
     "year": 1997,
     "month": 7,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Albert_Odyssey:_Legend_of_Eldean",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Alien Trilogy",
-    "url": "/wiki/Alien_Trilogy",
-    "developer": "Probe Entertainment",
     "year": 1996,
     "month": 8,
-    "day": 13
+    "day": 13,
+    "url": "/wiki/Alien_Trilogy",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "All-Star 1997 Featuring Frank Thomas",
-    "url": "/wiki/All-Star_Baseball#1997",
-    "developer": "Iguana Entertainment UK",
     "year": 1997,
     "month": 5,
-    "day": 29
+    "day": 29,
+    "url": "/wiki/All-Star_Baseball#1997",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Alone in the Dark: One-Eyed Jack's Revenge",
-    "url": "/wiki/Alone_in_the_Dark_2",
-    "developer": "Infogrames",
     "year": 1996,
     "month": "July",
-    "day": null
+    "day": null,
+    "url": "/wiki/Alone_in_the_Dark_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Amok",
-    "url": "/wiki/Amok_(video_game)",
-    "developer": "Lemon",
     "year": 1997,
     "month": 1,
-    "day": 17
+    "day": 17,
+    "url": "/wiki/Amok_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Andretti Racing",
-    "url": "/wiki/Andretti_Racing",
-    "developer": "High Score Entertainment",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Andretti_Racing",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Area 51",
-    "url": "/wiki/Area_51_(arcade_game)",
-    "developer": "Tantalus Interactive",
     "year": 1996,
     "month": 11,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Area_51_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Astal",
-    "url": "/wiki/Astal",
-    "developer": "Sega AM7",
     "year": 1995,
     "month": 9,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Astal",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Baku Baku Animal",
-    "url": "/wiki/Baku_Baku_Animal",
-    "developer": "Sega",
     "year": 1996,
     "month": 6,
-    "day": 19
+    "day": 19,
+    "url": "/wiki/Baku_Baku_Animal",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bases Loaded '96: Double Header",
-    "url": "/wiki/Bases_Loaded_%2796:_Double_Header",
-    "developer": "Jaleco",
     "year": 1995,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": "/wiki/Bases_Loaded_%2796:_Double_Header",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Batman Forever: The Arcade Game",
-    "url": "/wiki/Batman_Forever:_The_Arcade_Game",
-    "developer": "Iguana Entertainment",
     "year": 1996,
     "month": 11,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/Batman_Forever:_The_Arcade_Game",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Battle Arena Toshinden Remix",
-    "url": "/wiki/Battle_Arena_Toshinden",
-    "developer": "Takara",
     "year": 1996,
     "month": 3,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Battle_Arena_Toshinden",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Battle Arena Toshinden Ultimate Revenge Attack",
-    "url": "/wiki/Battle_Arena_Toshinden_2",
-    "developer": "Takara",
     "year": 1996,
     "month": 11,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Battle_Arena_Toshinden_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Battle Monsters",
-    "url": "/wiki/Battle_Monsters",
-    "developer": "Scarab",
     "year": 1996,
     "month": 9,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Battle_Monsters",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Battle Stations",
-    "url": "/wiki/Battle_Stations_(1997_video_game)",
-    "developer": "Electronic Arts",
     "year": 1997,
     "month": 5,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/Battle_Stations_(1997_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "BattleSport",
-    "url": "/wiki/BattleSport",
-    "developer": "Unexpected Developments",
     "year": 1997,
     "month": 1,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/BattleSport",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Black Dawn",
-    "url": "/wiki/Black_Dawn_(video_game)",
-    "developer": "Point of View",
     "year": 1996,
     "month": 1,
-    "day": 6
+    "day": 6,
+    "url": "/wiki/Black_Dawn_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Black Fire",
-    "url": "/wiki/Black_Fire_(game)",
-    "developer": "Sega",
     "year": 1995,
     "month": 12,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Black_Fire_(game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Blam! Machinehead",
-    "url": "/wiki/Blam!_Machinehead",
-    "developer": "Core Design",
     "year": 1996,
     "month": 11,
-    "day": 25
+    "day": 25,
+    "url": "/wiki/Blam!_Machinehead",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Blast Chamber",
-    "url": "/wiki/Blast_Chamber",
-    "developer": "Attention to Detail",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Blast_Chamber",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Blazing Dragons",
-    "url": "/wiki/Blazing_Dragons_(video_game)",
-    "developer": "Crystal Dynamics",
     "year": 1996,
     "month": 6,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Blazing_Dragons_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bottom of the 9th",
-    "url": "/wiki/Bottom_of_the_9th",
-    "developer": "Konami",
     "year": 1996,
     "month": 10,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Bottom_of_the_9th",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Brain Dead 13",
-    "url": "/wiki/Brain_Dead_13",
-    "developer": "ReadySoft",
     "year": 1996,
     "month": 9,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Brain_Dead_13",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Break Point Tennis",
-    "url": null,
-    "developer": "Smart Dog Games",
     "year": 1996,
     "month": 11,
-    "day": 21
+    "day": 21,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bubble Bobble featuring Rainbow Islands",
-    "url": "/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2",
-    "developer": "Probe Entertainment",
     "year": 1996,
     "month": 9,
-    "day": 3
+    "day": 3,
+    "url": "/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bug!",
-    "url": "/wiki/Bug!",
-    "developer": "Realtime Associates",
     "year": 1995,
     "month": "August",
-    "day": null
+    "day": null,
+    "url": "/wiki/Bug!",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bug Too!",
-    "url": "/wiki/Bug_Too!",
-    "developer": "Realtime Associates",
     "year": 1996,
     "month": 12,
-    "day": 6
+    "day": 6,
+    "url": "/wiki/Bug_Too!",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Burning Rangers",
-    "url": "/wiki/Burning_Rangers",
-    "developer": "Sonic Team",
     "year": 1998,
     "month": 3,
-    "day": 15
+    "day": 15,
+    "url": "/wiki/Burning_Rangers",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bust-a-Move 2: Arcade Edition",
-    "url": "/wiki/Puzzle_Bobble_2",
-    "developer": "Taito Corporation",
     "year": 1996,
     "month": 9,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Puzzle_Bobble_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Bust-a-Move 3",
-    "url": "/wiki/Puzzle_Bobble_3",
-    "developer": "TaitoNJK Techno",
     "year": 1997,
     "month": 12,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Puzzle_Bobble_3",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Casper",
-    "url": "/wiki/Casper_(video_game)",
-    "developer": "Funcom",
     "year": 1996,
     "month": 9,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Casper_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Center Ring Boxing",
-    "url": null,
-    "developer": "Victor Interactive Software",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Christmas Nights",
-    "url": "/wiki/Nights_into_Dreams...",
-    "developer": "Sonic Team",
     "year": 1996,
     "month": 12,
-    "day": 12
+    "day": 12,
+    "url": "/wiki/Nights_into_Dreams...",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Clockwork Knight",
-    "url": "/wiki/Clockwork_Knight",
-    "developer": "AM7",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Clockwork_Knight",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Clockwork Knight 2",
-    "url": "/wiki/Clockwork_Knight_2",
-    "developer": "Sega",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Clockwork_Knight_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "College Slam",
-    "url": "/wiki/College_Slam",
-    "developer": "Iguana Entertainment",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/College_Slam",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Command & Conquer",
-    "url": "/wiki/Command_%26_Conquer",
-    "developer": "Westwood Studios",
     "year": 1996,
     "month": 12,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Command_%26_Conquer",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Congo The Movie: The Lost City of Zinj",
-    "url": "/wiki/Congo_The_Movie:_The_Lost_City_of_Zinj",
-    "developer": "Jumpin' Jack Software",
     "year": 1996,
     "month": "April",
-    "day": null
+    "day": null,
+    "url": "/wiki/Congo_The_Movie:_The_Lost_City_of_Zinj",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Contra: Legacy of War",
-    "url": "/wiki/Contra:_Legacy_of_War",
-    "developer": "Appaloosa Interactive",
     "year": 1997,
     "month": 5,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/Contra:_Legacy_of_War",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Corpse Killer: Graveyard Edition",
-    "url": "/wiki/Corpse_Killer",
-    "developer": "Digital Pictures",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Corpse_Killer",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Courier Crisis",
-    "url": "/wiki/Courier_Crisis",
-    "developer": "New Level Software",
     "year": 1997,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Courier_Crisis",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Creature Shock: Special Edition",
-    "url": "/wiki/Creature_Shock",
-    "developer": "Interactive Studios",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Creature_Shock",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "CrimeWave",
-    "url": "/wiki/CrimeWave",
-    "developer": "Eidos Interactive",
     "year": 1997,
     "month": 3,
-    "day": 10
+    "day": 10,
+    "url": "/wiki/CrimeWave",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Criticom",
-    "url": "/wiki/Criticom",
-    "developer": "Kronos Digital Entertainment",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Criticom",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Croc: Legend of the Gobbos",
-    "url": "/wiki/Croc:_Legend_of_the_Gobbos",
-    "developer": "Argonaut Games",
     "year": 1997,
     "month": 11,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Croc:_Legend_of_the_Gobbos",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The Crow: City of Angels",
-    "url": "/wiki/The_Crow:_City_of_Angels_(video_game)",
-    "developer": "Gray Matter",
     "year": 1997,
     "month": 3,
-    "day": 12
+    "day": 12,
+    "url": "/wiki/The_Crow:_City_of_Angels_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Crusader: No Remorse",
-    "url": "/wiki/Crusader:_No_Remorse",
-    "developer": "Realtime Associates",
     "year": 1996,
     "month": 12,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Crusader:_No_Remorse",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Crypt Killer",
-    "url": "/wiki/Crypt_Killer",
-    "developer": "KCET",
     "year": 1997,
     "month": 4,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Crypt_Killer",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Cyber Speedway",
-    "url": "/wiki/Cyber_Speedway",
-    "developer": "NexTech",
     "year": 1995,
     "month": "September",
-    "day": null
+    "day": null,
+    "url": "/wiki/Cyber_Speedway",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Cyberia",
-    "url": "/wiki/Cyberia_(video_game)",
-    "developer": "Xatrix",
     "year": 1996,
     "month": "January",
-    "day": null
+    "day": null,
+    "url": "/wiki/Cyberia_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "D",
-    "url": "/wiki/D_(video_game)",
-    "developer": "WARP",
     "year": 1996,
     "month": 3,
-    "day": 5
+    "day": 5,
+    "url": "/wiki/D_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Darius Gaiden",
-    "url": "/wiki/Darius_Gaiden",
-    "developer": "Aisystem Tokyo",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Darius_Gaiden",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Dark Legend",
-    "url": "/wiki/Outlaws_Of_The_Lost_Dynasty",
-    "developer": "Data East",
     "year": 1995,
     "month": 10,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Outlaws_Of_The_Lost_Dynasty",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Dark Savior",
-    "url": "/wiki/Dark_Savior",
-    "developer": "SIMS",
     "year": 1996,
     "month": 12,
-    "day": 12
+    "day": 12,
+    "url": "/wiki/Dark_Savior",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Darklight Conflict",
-    "url": "/wiki/Darklight_Conflict",
-    "developer": "Rage Software",
     "year": 1997,
     "month": 7,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Darklight_Conflict",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Daytona USA",
-    "url": "/wiki/Daytona_USA_(arcade_game)",
-    "developer": "Sega AM2",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Daytona_USA_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Daytona USA: Championship Circuit Edition",
-    "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
-    "developer": "Sega AM2",
     "year": 1996,
     "month": 11,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Daytona USA CCE NetLink Edition",
-    "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
-    "developer": "Sega AM-2",
     "year": 1997,
     "month": "October",
-    "day": null
+    "day": null,
+    "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "DecAthlete",
-    "url": "/wiki/DecAthlete_(video_game)",
-    "developer": "Sega",
     "year": 1996,
     "month": 7,
-    "day": 17
+    "day": 17,
+    "url": "/wiki/DecAthlete_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Defcon 5",
-    "url": "/wiki/Defcon_5_(1995_video_game)",
-    "developer": "Millennium Interactive",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Defcon_5_(1995_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Die Hard Arcade",
-    "url": "/wiki/Die_Hard_Arcade",
-    "developer": "Sega AM1",
     "year": 1997,
     "month": 3,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Die_Hard_Arcade",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Die Hard Trilogy",
-    "url": "/wiki/Die_Hard_Trilogy",
-    "developer": "Probe Entertainment",
     "year": 1997,
     "month": 1,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/Die_Hard_Trilogy",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Digital Pinball: Last Gladiators",
-    "url": "/wiki/Digital_Pinball:_Last_Gladiators",
-    "developer": "KAZe",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Digital_Pinball:_Last_Gladiators",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Doom",
-    "url": "/wiki/Doom_(1993_video_game)",
-    "developer": "id Software",
     "year": 1997,
     "month": 3,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/Doom_(1993_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Double Switch",
-    "url": "/wiki/Double_Switch_(video_game)",
-    "developer": "Digital Pictures",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Double_Switch_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Dragon Force",
-    "url": "/wiki/Dragon_Force",
-    "developer": "J-ForceSega",
     "year": 1996,
     "month": 12,
-    "day": 12
+    "day": 12,
+    "url": "/wiki/Dragon_Force",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "DragonHeart: Fire & Steel",
-    "url": "/wiki/DragonHeart:_Fire_%26_Steel",
-    "developer": "Funcom",
     "year": 1996,
     "month": 12,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/DragonHeart:_Fire_%26_Steel",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Duke Nukem 3D",
-    "url": "/wiki/Duke_Nukem_3D",
-    "developer": "Lobotomy Software",
     "year": 1997,
     "month": "August",
-    "day": null
+    "day": null,
+    "url": "/wiki/Duke_Nukem_3D",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Earthworm Jim 2",
-    "url": "/wiki/Earthworm_Jim_2",
-    "developer": "Screaming Pink",
     "year": 1996,
     "month": "January",
-    "day": null
+    "day": null,
+    "url": "/wiki/Earthworm_Jim_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Enemy Zero",
-    "url": "/wiki/Enemy_Zero",
-    "developer": "WARP",
     "year": 1997,
     "month": 11,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Enemy_Zero",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "F1 Challenge",
-    "url": "/wiki/F1_Challenge",
-    "developer": "Bell Corporation",
     "year": 1995,
     "month": 11,
-    "day": 9
+    "day": 9,
+    "url": "/wiki/F1_Challenge",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "FIFA: Road to World Cup 98",
-    "url": "/wiki/FIFA:_Road_to_World_Cup_98",
-    "developer": "Climax Group",
     "year": 1997,
     "month": 12,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/FIFA:_Road_to_World_Cup_98",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "FIFA Soccer '96",
-    "url": "/wiki/FIFA_Soccer_%2796",
-    "developer": "Probe Entertainment",
     "year": 1995,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": "/wiki/FIFA_Soccer_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "FIFA Soccer '97",
-    "url": "/wiki/FIFA_Soccer_%2797",
-    "developer": "EA Canada",
     "year": 1997,
     "month": 3,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/FIFA_Soccer_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Fighters Megamix",
-    "url": "/wiki/Fighters_Megamix",
-    "developer": "Sega",
     "year": 1997,
     "month": 5,
-    "day": 13
+    "day": 13,
+    "url": "/wiki/Fighters_Megamix",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Fighting Vipers",
-    "url": "/wiki/Fighting_Vipers",
-    "developer": "Sega AM2",
     "year": 1996,
     "month": 10,
-    "day": 29
+    "day": 29,
+    "url": "/wiki/Fighting_Vipers",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Frank Thomas' Big Hurt Baseball",
-    "url": "/wiki/Frank_Thomas%27_Big_Hurt_Baseball",
-    "developer": "Iguana Entertainment",
     "year": 1996,
     "month": 6,
-    "day": 7
+    "day": 7,
+    "url": "/wiki/Frank_Thomas%27_Big_Hurt_Baseball",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Galactic Attack",
-    "url": "/wiki/RayForce",
-    "developer": "Taito Corporation",
     "year": 1995,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": "/wiki/RayForce",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Galaxy Fight",
-    "url": "/wiki/Galaxy_Fight",
-    "developer": "Santaclaus",
     "year": 1996,
     "month": 7,
-    "day": 3
+    "day": 3,
+    "url": "/wiki/Galaxy_Fight",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Gex",
-    "url": "/wiki/Gex_(video_game)",
-    "developer": "Beam Software",
     "year": 1995,
     "month": 12,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Gex_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Ghen War",
-    "url": "/wiki/Ghen_War",
-    "developer": "Jumpin' Jack Software",
     "year": 1995,
     "month": "September",
-    "day": null
+    "day": null,
+    "url": "/wiki/Ghen_War",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Golden Axe: The Duel",
-    "url": "/wiki/Golden_Axe:_The_Duel",
-    "developer": "Sega",
     "year": 1996,
     "month": 6,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Golden_Axe:_The_Duel",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Grand Slam",
-    "url": "/wiki/Grand_Slam_(video_game)",
-    "developer": "Burst Studios",
     "year": 1997,
     "month": "May",
-    "day": null
+    "day": null,
+    "url": "/wiki/Grand_Slam_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Grid Runner",
-    "url": "/wiki/Grid_Runner",
-    "developer": "Radical Entertainment",
     "year": 1996,
     "month": 11,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Grid_Runner",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Guardian Heroes",
-    "url": "/wiki/Guardian_Heroes",
-    "developer": "Treasure",
     "year": 1996,
     "month": 4,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Guardian_Heroes",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Gungriffon",
-    "url": "/wiki/Gungriffon",
-    "developer": "GameArts",
     "year": 1996,
     "month": 6,
-    "day": 19
+    "day": 19,
+    "url": "/wiki/Gungriffon",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Hang-On GP",
-    "url": "/wiki/Hang-On_GP",
-    "developer": "Genki",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Hang-On_GP",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Hardcore 4X4",
-    "url": "/wiki/Hardcore_4X4",
-    "developer": "Gremlin Interactive",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Hardcore_4X4",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Heir of Zendor: The Legend and the Land",
-    "url": "/wiki/Gotha_II",
-    "developer": "Micronet",
     "year": 1996,
     "month": 12,
-    "day": 12
+    "day": 12,
+    "url": "/wiki/Gotha_II",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Herc's Adventures",
-    "url": "/wiki/Herc%27s_Adventures",
-    "developer": "LucasArts",
     "year": 1996,
     "month": 7,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Herc%27s_Adventures",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Hexen",
-    "url": "/wiki/Hexen:_Beyond_Heretic",
-    "developer": "Atod AB",
     "year": 1997,
     "month": 3,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Hexen:_Beyond_Heretic",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Hi-Octane",
-    "url": "/wiki/Hi-Octane",
-    "developer": "Bullfrog Productions",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Hi-Octane",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "High Velocity: Mountain Racing Challenge",
-    "url": null,
-    "developer": "Cave",
     "year": 1997,
     "month": "May",
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Highway 2000",
-    "url": null,
-    "developer": "Genki",
     "year": 1996,
     "month": 11,
-    "day": 21
+    "day": 21,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The Horde",
-    "url": "/wiki/The_Horde_(video_game)",
-    "developer": "Silicon Knights",
     "year": 1997,
     "month": 6,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/The_Horde_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The House of the Dead",
-    "url": "/wiki/The_House_of_the_Dead_(video_game)",
-    "developer": "Tantalus Interactive",
     "year": 1998,
     "month": 5,
-    "day": 5
+    "day": 5,
+    "url": "/wiki/The_House_of_the_Dead_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Hyper 3-D Pinball",
-    "url": "/wiki/Hyper_3-D_Pinball",
-    "developer": "NMS Software",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Hyper_3-D_Pinball",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Impact Racing",
-    "url": null,
-    "developer": "Funcom",
     "year": 1996,
     "month": 9,
-    "day": 3
+    "day": 3,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "In the Hunt",
-    "url": "/wiki/In_the_Hunt",
-    "developer": "SIMS",
     "year": 1996,
     "month": "March",
-    "day": null
+    "day": null,
+    "url": "/wiki/In_the_Hunt",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The Incredible Hulk: The Pantheon Saga",
-    "url": "/wiki/The_Incredible_Hulk:_The_Pantheon_Saga",
-    "developer": "Attention to Detail",
     "year": 1997,
     "month": 1,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/The_Incredible_Hulk:_The_Pantheon_Saga",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Independence Day",
-    "url": "/wiki/Independence_Day_(video_game)",
-    "developer": "Radical Entertainment",
     "year": 1997,
     "month": 3,
-    "day": 15
+    "day": 15,
+    "url": "/wiki/Independence_Day_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Iron Man and X-O Manowar in Heavy Metal",
-    "url": "/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal",
-    "developer": "Realsports/Realtime Associates",
     "year": 1996,
     "month": 11,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Iron Storm: World Advanced Strategy",
-    "url": "/wiki/Iron_Storm_(Sega_Saturn)",
-    "developer": "SystemSoft Alpha",
     "year": 1996,
     "month": 5,
-    "day": 8
+    "day": 8,
+    "url": "/wiki/Iron_Storm_(Sega_Saturn)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Johnny Bazookatone",
-    "url": "/wiki/Johnny_Bazookatone",
-    "developer": "Arc Developments",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Johnny_Bazookatone",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Last Bronx",
-    "url": "/wiki/Last_Bronx",
-    "developer": "Sega",
     "year": 1997,
     "month": 10,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Last_Bronx",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NA",
-    "url": "/wiki/North_America",
-    "developer": "Ancient",
     "year": 1996,
     "month": 7,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/North_America",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Loaded",
-    "url": "/wiki/Loaded_(video_game)",
-    "developer": "Gremlin Interactive",
     "year": 1996,
     "month": 10,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Loaded_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The Lost Vikings 2: Norse by Norsewest",
-    "url": "/wiki/The_Lost_Vikings_2",
-    "developer": "Beam Software",
     "year": 1997,
     "month": 4,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/The_Lost_Vikings_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "The Lost World: Jurassic Park",
-    "url": "/wiki/The_Lost_World:_Jurassic_Park",
-    "developer": "Appaloosa Interactive",
     "year": 1997,
     "month": 9,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/The_Lost_World:_Jurassic_Park",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Lunacy",
-    "url": "/wiki/Lunacy_(videogame)",
-    "developer": "System Sacom",
     "year": 1997,
     "month": 3,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/Lunacy_(videogame)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Madden NFL 97",
-    "url": "/wiki/Madden_NFL_97",
-    "developer": "Electronic Arts",
     "year": 1996,
     "month": 9,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Madden_NFL_97",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Madden NFL 98",
-    "url": "/wiki/Madden_NFL_98",
-    "developer": "Electronic Arts",
     "year": 1997,
     "month": 8,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/Madden_NFL_98",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Magic Carpet",
-    "url": "/wiki/Magic_Carpet_(video_game)",
-    "developer": "Krisalis Software",
     "year": 1996,
     "month": "May",
-    "day": null
+    "day": null,
+    "url": "/wiki/Magic_Carpet_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Magic Knight Rayearth",
-    "url": "/wiki/Magic_Knight_Rayearth_(video_game)",
-    "developer": "Sega",
     "year": 1998,
     "month": 11,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Magic_Knight_Rayearth_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mansion of Hidden Souls",
-    "url": "/wiki/Mansion_of_Hidden_Souls",
-    "developer": "System Sacom",
     "year": 1995,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": "/wiki/Mansion_of_Hidden_Souls",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Manx TT SuperBike",
-    "url": "/wiki/Manx_TT_SuperBike",
-    "developer": "Tantalus Interactive",
     "year": 1997,
     "month": 7,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Manx_TT_SuperBike",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Marvel Super Heroes",
-    "url": "/wiki/Marvel_Super_Heroes_(video_game)",
-    "developer": "Tsuji Jimusho",
     "year": 1997,
     "month": 10,
-    "day": 2
+    "day": 2,
+    "url": "/wiki/Marvel_Super_Heroes_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mass Destruction",
-    "url": "/wiki/Mass_Destruction_(video_game)",
-    "developer": "NMS Software",
     "year": 1997,
     "month": 11,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Mass_Destruction_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Maximum Force",
-    "url": "/wiki/Maximum_Force",
-    "developer": "Tantalus Software",
     "year": 1997,
     "month": 10,
-    "day": 13
+    "day": 13,
+    "url": "/wiki/Maximum_Force",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "MechWarrior 2: 31st Century Combat",
-    "url": "/wiki/MechWarrior_2:_31st_Century_Combat",
-    "developer": "Quantum Factory",
     "year": 1997,
     "month": 4,
-    "day": 21
+    "day": 21,
+    "url": "/wiki/MechWarrior_2:_31st_Century_Combat",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mega Man 8: Anniversary Collector's Edition",
-    "url": "/wiki/Mega_Man_8",
-    "developer": "Capcom",
     "year": 1997,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Mega_Man_8",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mega Man X4",
-    "url": "/wiki/Mega_Man_X4",
-    "developer": "Capcom",
     "year": 1997,
     "month": 10,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Mega_Man_X4",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Midway Presents Arcade's Greatest Hits: The Atari Collection 1",
-    "url": null,
-    "developer": "Digital Eclipse",
     "year": 1997,
     "month": 6,
-    "day": 11
+    "day": 11,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Minnesota Fats: Pool Legend",
-    "url": "/wiki/Minnesota_Fats:_Pool_Legend",
-    "developer": "Data East",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Minnesota_Fats:_Pool_Legend",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mortal Kombat II",
-    "url": "/wiki/Mortal_Kombat_II",
-    "developer": "Probe Entertainment",
     "year": 1996,
     "month": 3,
-    "day": 29
+    "day": 29,
+    "url": "/wiki/Mortal_Kombat_II",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mortal Kombat Trilogy",
-    "url": "/wiki/Mortal_Kombat_Trilogy",
-    "developer": "Point of View",
     "year": 1997,
     "month": 8,
-    "day": 8
+    "day": 8,
+    "url": "/wiki/Mortal_Kombat_Trilogy",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mr. Bones",
-    "url": "/wiki/Mr._Bones_(video_game)",
-    "developer": "Zono",
     "year": 1996,
     "month": 10,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Mr._Bones_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Myst",
-    "url": "/wiki/Myst",
-    "developer": "SunSoft",
     "year": 1995,
     "month": "September",
-    "day": null
+    "day": null,
+    "url": "/wiki/Myst",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Mystaria: The Realms of Lore",
-    "url": "/wiki/Mystaria:_The_Realms_of_Lore",
-    "developer": "Sega, Microcabin",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Mystaria:_The_Realms_of_Lore",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NASCAR 98",
-    "url": "/wiki/NASCAR_98",
-    "developer": "Electronic Arts",
     "year": 1997,
     "month": 11,
-    "day": 13
+    "day": 13,
+    "url": "/wiki/NASCAR_98",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Action",
-    "url": "/wiki/NBA_Action_(video_game)",
-    "developer": "Gray Matter",
     "year": 1996,
     "month": "June",
-    "day": null
+    "day": null,
+    "url": "/wiki/NBA_Action_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Action '98",
-    "url": null,
-    "developer": "Visual Concepts",
     "year": 1997,
     "month": 10,
-    "day": 28
+    "day": 28,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Jam Extreme",
-    "url": "/wiki/NBA_Jam_Extreme",
-    "developer": "Sculptured Software",
     "year": 1996,
     "month": 11,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/NBA_Jam_Extreme",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Jam T.E.",
-    "url": "/wiki/NBA_Jam_T.E.",
-    "developer": "Iguana Entertainment",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/NBA_Jam_T.E.",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Live '97",
-    "url": "/wiki/NBA_Live_series",
-    "developer": "Realtime Associates",
     "year": 1997,
     "month": 3,
-    "day": 28
+    "day": 28,
+    "url": "/wiki/NBA_Live_series",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NBA Live '98",
-    "url": "/wiki/NBA_Live_series",
-    "developer": "Realtime Associates",
     "year": 1997,
     "month": 12,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/NBA_Live_series",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NFL '97",
-    "url": "/wiki/NFL_%2797",
-    "developer": "Padded Cell Studios",
     "year": 1996,
     "month": 11,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/NFL_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NFL Quarterback Club '96",
-    "url": "/wiki/NFL_Quarterback_Club_%2796",
-    "developer": "Iguana Entertainment",
     "year": 1995,
     "month": 10,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/NFL_Quarterback_Club_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NFL Quarterback Club '97",
-    "url": "/wiki/NFL_Quarterback_Club_%2797",
-    "developer": "Iguana Entertainment",
     "year": 1996,
     "month": 8,
-    "day": 29
+    "day": 29,
+    "url": "/wiki/NFL_Quarterback_Club_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NHL '97",
-    "url": "/wiki/NHL_%2797",
-    "developer": "Visual Concepts",
     "year": 1996,
     "month": 12,
-    "day": 4
+    "day": 4,
+    "url": "/wiki/NHL_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NHL '98",
-    "url": "/wiki/NHL_%2798",
-    "developer": "Electronic Arts",
     "year": 1998,
     "month": 1,
-    "day": 15
+    "day": 15,
+    "url": "/wiki/NHL_%2798",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NHL All-Star Hockey",
-    "url": "/wiki/NHL_All-Star_Hockey",
-    "developer": "Gray Matter",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/NHL_All-Star_Hockey",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NHL All-Star Hockey '98",
-    "url": null,
-    "developer": "Radical Entertainment",
     "year": 1997,
     "month": 10,
-    "day": 21
+    "day": 21,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "NHL Powerplay '96",
-    "url": "/wiki/NHL_Powerplay_%2796",
-    "developer": "Radical Entertainment",
     "year": 1996,
     "month": 7,
-    "day": 2
+    "day": 2,
+    "url": "/wiki/NHL_Powerplay_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Night Warriors: Darkstalkers' Revenge",
-    "url": "/wiki/Night_Warriors:_Darkstalkers%27_Revenge",
-    "developer": "Capcom",
     "year": 1996,
     "month": 2,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Night_Warriors:_Darkstalkers%27_Revenge",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Nights into Dreams...",
-    "url": "/wiki/Nights_into_Dreams...",
-    "developer": "Sonic Team",
     "year": 1996,
     "month": 8,
-    "day": 23
+    "day": 23,
+    "url": "/wiki/Nights_into_Dreams...",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Off-World Interceptor Extreme",
-    "url": "/wiki/Off-World_Interceptor_Extreme",
-    "developer": "Crystal Dynamics",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Off-World_Interceptor_Extreme",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Olympic Soccer: Atlanta 1996",
-    "url": "/wiki/Olympic_Soccer:_Atlanta_1996",
-    "developer": "Silicon Dreams",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Olympic_Soccer:_Atlanta_1996",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "P.T.O.: Pacific Theater of Operations II",
-    "url": "/wiki/P.T.O._II",
-    "developer": "Koei",
     "year": 1996,
     "month": 11,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/P.T.O._II",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Pandemonium",
-    "url": "/wiki/Pandemonium_(video_game)",
-    "developer": "Toys for Bob",
     "year": 1997,
     "month": 4,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Pandemonium_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Panzer Dragoon",
-    "url": "/wiki/Panzer_Dragoon_(video_game)",
-    "developer": "Team Andromeda",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Panzer_Dragoon_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Panzer Dragoon II Zwei",
-    "url": "/wiki/Panzer_Dragoon_II_Zwei",
-    "developer": "Team Andromeda",
     "year": 1996,
     "month": 4,
-    "day": 17
+    "day": 17,
+    "url": "/wiki/Panzer_Dragoon_II_Zwei",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Panzer Dragoon Saga",
-    "url": "/wiki/Panzer_Dragoon_Saga",
-    "developer": "Team Andromeda",
     "year": 1998,
     "month": 4,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Panzer_Dragoon_Saga",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "PD Ultraman Link",
-    "url": "/wiki/Ultraman#In_video_games",
-    "developer": "SIMS",
     "year": null,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Ultraman#In_video_games",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Pebble Beach Golf Links",
-    "url": "/wiki/Pebble_Beach_Golf_Links_(video_game)",
-    "developer": "T&E Soft",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Pebble_Beach_Golf_Links_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "PGA Tour 97",
-    "url": "/wiki/PGA_Tour_97",
-    "developer": "VAC",
     "year": 1996,
     "month": 11,
-    "day": 25
+    "day": 25,
+    "url": "/wiki/PGA_Tour_97",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Powerslave",
-    "url": "/wiki/Exhumed_(video_game)",
-    "developer": "Lobotomy Software",
     "year": 1996,
     "month": 10,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Exhumed_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Primal Rage",
-    "url": "/wiki/Primal_Rage",
-    "developer": "Probe Entertainment",
     "year": 1995,
     "month": 11,
-    "day": 14
+    "day": 14,
+    "url": "/wiki/Primal_Rage",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Pro Pinball: The Web",
-    "url": "/wiki/Pro_Pinball:_The_Web",
-    "developer": "Cunning Developments",
     "year": 1996,
     "month": 10,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Pro_Pinball:_The_Web",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Quake",
-    "url": "/wiki/Quake_(video_game)",
-    "developer": "Lobotomy Software",
     "year": 1997,
     "month": 12,
-    "day": 3
+    "day": 3,
+    "url": "/wiki/Quake_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Quarterback Attack with Mike Ditka",
-    "url": "/wiki/Quarterback_Attack_with_Mike_Ditka",
-    "developer": "Digital Pictures",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Quarterback_Attack_with_Mike_Ditka",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Rampage World Tour",
-    "url": "/wiki/Rampage_World_Tour",
-    "developer": "Point of View",
     "year": 1997,
     "month": 11,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/Rampage_World_Tour",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Rayman",
-    "url": "/wiki/Rayman_(video_game)",
-    "developer": "Ubisoft Montpellier",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Rayman_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Resident Evil",
-    "url": "/wiki/Resident_Evil_(1996_video_game)",
-    "developer": "GAU Entertainment",
     "year": 1997,
     "month": 8,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Resident_Evil_(1996_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Revolution X",
-    "url": "/wiki/Revolution_X",
-    "developer": "Software Creations",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Revolution_X",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Rise 2: Resurrection",
-    "url": "/wiki/Rise_2:_Resurrection",
-    "developer": "Mirage Media",
     "year": 1996,
     "month": 12,
-    "day": 4
+    "day": 4,
+    "url": "/wiki/Rise_2:_Resurrection",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Road & Track Presents The Need for Speed",
-    "url": "/wiki/The_Need_for_Speed",
-    "developer": "Pioneer Productions",
     "year": 1996,
     "month": 6,
-    "day": 28
+    "day": 28,
+    "url": "/wiki/The_Need_for_Speed",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Road Rash",
-    "url": "/wiki/Road_Rash_(video_game)",
-    "developer": "Electronic Arts",
     "year": 1996,
     "month": "August",
-    "day": null
+    "day": null,
+    "url": "/wiki/Road_Rash_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Robo Pit",
-    "url": "/wiki/Robo_Pit",
-    "developer": "Altron",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Robo_Pit",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Robotica",
-    "url": "/wiki/Robotica_(video_game)",
-    "developer": "Genki",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Robotica_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Romance of the Three Kingdoms IV: Wall of Fire",
-    "url": "/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
-    "developer": "Koei",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Saturn Bomberman",
-    "url": "/wiki/Saturn_Bomberman",
-    "developer": "Hudson/Eleven",
     "year": 1997,
     "month": 8,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Saturn_Bomberman",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Scorcher",
-    "url": "/wiki/Scorcher_(video_game)",
-    "developer": "Zyrinx",
     "year": 1997,
     "month": 3,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Scorcher_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Scud: The Disposable Assassin",
-    "url": "/wiki/Scud:_The_Disposable_Assassin_(video_game)",
-    "developer": "Syrox Developments",
     "year": 1997,
     "month": 3,
-    "day": 19
+    "day": 19,
+    "url": "/wiki/Scud:_The_Disposable_Assassin_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sega Ages Volume 1",
-    "url": "/wiki/Sega_Ages#Saturn_version",
-    "developer": "Sega AM2, Rutubo Games",
     "year": 1997,
     "month": 11,
-    "day": 6
+    "day": 6,
+    "url": "/wiki/Sega_Ages#Saturn_version",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sega Rally Championship",
-    "url": "/wiki/Sega_Rally_Championship",
-    "developer": "Sega AM3",
     "year": 1995,
     "month": 12,
-    "day": 28
+    "day": 28,
+    "url": "/wiki/Sega_Rally_Championship",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sega Touring Car Championship",
-    "url": "/wiki/Sega_Touring_Car_Championship",
-    "developer": "Sega AM3",
     "year": 1997,
     "month": 11,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Sega_Touring_Car_Championship",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sega Worldwide Soccer '97",
-    "url": "/wiki/Sega_Worldwide_Soccer_%2797",
-    "developer": "Sega",
     "year": 1996,
     "month": 10,
-    "day": 16
+    "day": 16,
+    "url": "/wiki/Sega_Worldwide_Soccer_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sega Worldwide Soccer '98",
-    "url": "/wiki/Sega_Worldwide_Soccer_%2798",
-    "developer": "Sega",
     "year": 1997,
     "month": 11,
-    "day": 19
+    "day": 19,
+    "url": "/wiki/Sega_Worldwide_Soccer_%2798",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shanghai: Triple-Threat",
-    "url": null,
-    "developer": "Activision",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shellshock",
-    "url": "/wiki/Shellshock_(video_game)",
-    "developer": "Core Design",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Shellshock_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shining Force III",
-    "url": "/wiki/Shining_Force_III",
-    "developer": "Camelot Software Planning",
     "year": 1998,
     "month": 7,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Shining_Force_III",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shining the Holy Ark",
-    "url": "/wiki/Shining_the_Holy_Ark",
-    "developer": "Sega",
     "year": 1997,
     "month": 6,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/Shining_the_Holy_Ark",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shining Wisdom",
-    "url": "/wiki/Shining_Wisdom",
-    "developer": "Sonic! Software Planning",
     "year": 1996,
     "month": 6,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Shining_Wisdom",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shinobi Legions",
-    "url": "/wiki/Shinobi_Legions",
-    "developer": "TOSE",
     "year": 1995,
     "month": "September",
-    "day": null
+    "day": null,
+    "url": "/wiki/Shinobi_Legions",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Shockwave Assault",
-    "url": "/wiki/Shockwave_Assault",
-    "developer": "Paradox Development",
     "year": 1996,
     "month": "May",
-    "day": null
+    "day": null,
+    "url": "/wiki/Shockwave_Assault",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "SimCity 2000",
-    "url": "/wiki/SimCity_2000",
-    "developer": "Maxis",
     "year": 1995,
     "month": 10,
-    "day": 15
+    "day": 15,
+    "url": "/wiki/SimCity_2000",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Skeleton Warriors",
-    "url": "/wiki/Skeleton_Warriors_(video_game)",
-    "developer": "Neversoft Entertainment",
     "year": 1996,
     "month": 4,
-    "day": 16
+    "day": 16,
+    "url": "/wiki/Skeleton_Warriors_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sky Target",
-    "url": "/wiki/Sky_Target",
-    "developer": "Appaloosa Interactive",
     "year": 1997,
     "month": 8,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Sky_Target",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Slam 'n Jam '96 Featuring Magic & Kareem",
-    "url": null,
-    "developer": "Left Field Productions",
     "year": 1996,
     "month": 6,
-    "day": 22
+    "day": 22,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Solar Eclipse",
-    "url": "/wiki/Titan_Wars",
-    "developer": "Crystal Dynamics",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Titan_Wars",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sonic 3D Blast",
-    "url": "/wiki/Sonic_3D_Blast",
-    "developer": "Traveller's Tales",
     "year": 1996,
     "month": 11,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Sonic_3D_Blast",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sonic Jam",
-    "url": "/wiki/Sonic_Jam",
-    "developer": "Sonic Team",
     "year": 1997,
     "month": 8,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Sonic_Jam",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Sonic R",
-    "url": "/wiki/Sonic_R",
-    "developer": "Traveller's Tales",
     "year": 1997,
     "month": 11,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Sonic_R",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Soviet Strike",
-    "url": "/wiki/Soviet_Strike",
-    "developer": "Electronic Arts",
     "year": 1997,
     "month": 2,
-    "day": 17
+    "day": 17,
+    "url": "/wiki/Soviet_Strike",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Space Hulk: Vengeance of the Blood Angels",
-    "url": "/wiki/Space_Hulk:_Vengeance_of_the_Blood_Angels",
-    "developer": "Krisalis Software",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Space_Hulk:_Vengeance_of_the_Blood_Angels",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Space Jam",
-    "url": "/wiki/Space_Jam",
-    "developer": "Sculptured Software",
     "year": 1996,
     "month": 11,
-    "day": 26
+    "day": 26,
+    "url": "/wiki/Space_Jam",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Spot Goes To Hollywood",
-    "url": "/wiki/Spot_Goes_To_Hollywood",
-    "developer": "Burst Studios",
     "year": 1997,
     "month": 1,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Spot_Goes_To_Hollywood",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Star Fighter",
-    "url": "/wiki/Star_Fighter_(video_game)",
-    "developer": "Krisalis Software",
     "year": 1996,
     "month": 9,
-    "day": 3
+    "day": 3,
+    "url": "/wiki/Star_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Steep Slope Sliders",
-    "url": "/wiki/Steep_Slope_Sliders",
-    "developer": "Cave",
     "year": 1997,
     "month": 12,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Steep_Slope_Sliders",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Street Fighter Alpha: Warriors' Dreams",
-    "url": "/wiki/Street_Fighter_Alpha",
-    "developer": "Capcom",
     "year": 1996,
     "month": 6,
-    "day": 6
+    "day": 6,
+    "url": "/wiki/Street_Fighter_Alpha",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Street Fighter Alpha 2",
-    "url": "/wiki/Street_Fighter_Alpha_2",
-    "developer": "Capcom",
     "year": 1996,
     "month": 11,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Street_Fighter_Alpha_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Street Fighter Collection",
-    "url": "/wiki/Street_Fighter_Collection",
-    "developer": "Mitchell Corporation",
     "year": 1997,
     "month": 12,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Street_Fighter_Collection",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Street Fighter: The Movie",
-    "url": "/wiki/Street_Fighter:_The_Movie_(home_video_game)",
-    "developer": "Capcom",
     "year": 1995,
     "month": 8,
-    "day": 10
+    "day": 10,
+    "url": "/wiki/Street_Fighter:_The_Movie_(home_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Striker '96",
-    "url": "/wiki/Striker_%2796",
-    "developer": "Rage Software",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Striker_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Super Puzzle Fighter II Turbo",
-    "url": "/wiki/Super_Puzzle_Fighter_II_Turbo",
-    "developer": "Capcom",
     "year": 1997,
     "month": 1,
-    "day": 24
+    "day": 24,
+    "url": "/wiki/Super_Puzzle_Fighter_II_Turbo",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Tempest 2000",
-    "url": "/wiki/Tempest_2000",
-    "developer": "High Voltage Software",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Tempest_2000",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Ten Pin Alley",
-    "url": "/wiki/Ten_Pin_Alley",
-    "developer": "Adrenalin Interactive",
     "year": 1997,
     "month": 11,
-    "day": 5
+    "day": 5,
+    "url": "/wiki/Ten_Pin_Alley",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Tetris Plus",
-    "url": "/wiki/Tetris_Plus",
-    "developer": "Natsume",
     "year": 1996,
     "month": 10,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Tetris_Plus",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Three Dirty Dwarves",
-    "url": "/wiki/Three_Dirty_Dwarves",
-    "developer": "Appaloosa Interactive",
     "year": 1996,
     "month": 9,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Three_Dirty_Dwarves",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Thunderstrike 2",
-    "url": "/wiki/Firestorm:_Thunderhawk_2",
-    "developer": "Core Design",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Firestorm:_Thunderhawk_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Tomb Raider",
-    "url": "/wiki/Tomb_Raider_(1996_video_game)",
-    "developer": "Core Design",
     "year": 1996,
     "month": 11,
-    "day": 18
+    "day": 18,
+    "url": "/wiki/Tomb_Raider_(1996_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "True Pinball",
-    "url": "/wiki/True_Pinball",
-    "developer": "Digital Illusions",
     "year": 1996,
     "month": 10,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/True_Pinball",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Tunnel B1",
-    "url": "/wiki/Tunnel_B1",
-    "developer": "NEON Software, Microcabin",
     "year": 1997,
     "month": 1,
-    "day": 15
+    "day": 15,
+    "url": "/wiki/Tunnel_B1",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Ultimate Mortal Kombat 3",
-    "url": "/wiki/Ultimate_Mortal_Kombat_3",
-    "developer": "Eurocom",
     "year": 1996,
     "month": 6,
-    "day": 27
+    "day": 27,
+    "url": "/wiki/Ultimate_Mortal_Kombat_3",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Valora Valley Golf",
-    "url": null,
-    "developer": "T&E Soft",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Cop",
-    "url": "/wiki/Virtua_Cop",
-    "developer": "Sega",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/Virtua_Cop",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Cop 2",
-    "url": "/wiki/Virtua_Cop_2",
-    "developer": "Sega",
     "year": 1996,
     "month": 11,
-    "day": 22
+    "day": 22,
+    "url": "/wiki/Virtua_Cop_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Fighter",
-    "url": "/wiki/Virtua_Fighter_(video_game)",
-    "developer": "Sega AM2",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Virtua_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Fighter 2",
-    "url": "/wiki/Virtua_Fighter_2",
-    "developer": "Sega AM2",
     "year": 1995,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": "/wiki/Virtua_Fighter_2",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Fighter Kids",
-    "url": "/wiki/Virtua_Fighter_Kids",
-    "developer": "Sega AM2",
     "year": 1996,
     "month": 7,
-    "day": 31
+    "day": 31,
+    "url": "/wiki/Virtua_Fighter_Kids",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Fighter Remix",
-    "url": "/wiki/Virtua_Fighter_(video_game)",
-    "developer": "Sega AM1",
     "year": 1996,
     "month": 10,
-    "day": 2
+    "day": 2,
+    "url": "/wiki/Virtua_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtual Casino",
-    "url": null,
-    "developer": "Natsume",
     "year": 1996,
     "month": "December",
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtual Hydlide",
-    "url": "/wiki/Virtual_Hydlide",
-    "developer": "T&E Soft",
     "year": 1995,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Virtual_Hydlide",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtual On: Cyber Troopers",
-    "url": "/wiki/Virtual_On:_Cyber_Troopers",
-    "developer": "Sega AM3",
     "year": 1996,
     "month": 11,
-    "day": 8
+    "day": 8,
+    "url": "/wiki/Virtual_On:_Cyber_Troopers",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtual Open Tennis",
-    "url": "/wiki/Virtual_Open_Tennis",
-    "developer": "Arc System Works",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/Virtual_Open_Tennis",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Virtua Racing",
-    "url": "/wiki/Virtua_Racing",
-    "developer": "Time Warner Interactive",
     "year": 1995,
     "month": 6,
-    "day": 1
+    "day": 1,
+    "url": "/wiki/Virtua_Racing",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "VR Golf '97",
-    "url": "/wiki/VR_Golf_%2797",
-    "developer": "Gremlin Interactive",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/VR_Golf_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "VR Soccer",
-    "url": "/wiki/VR_Soccer",
-    "developer": "Gremlin Interactive",
     "year": 1996,
     "month": 12,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/VR_Soccer",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Warcraft II: The Dark Saga",
-    "url": "/wiki/Warcraft_II:_The_Dark_Saga",
-    "developer": "Blizzard Entertainment",
     "year": 1997,
     "month": 8,
-    "day": 20
+    "day": 20,
+    "url": "/wiki/Warcraft_II:_The_Dark_Saga",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Williams Arcade's Greatest Hits",
-    "url": "/wiki/Williams_Arcade%27s_Greatest_Hits",
-    "developer": "Digital Eclipse",
     "year": 1996,
     "month": 4,
-    "day": 10
+    "day": 10,
+    "url": "/wiki/Williams_Arcade%27s_Greatest_Hits",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Wing Arms",
-    "url": "/wiki/Wing_Arms",
-    "developer": "Sega",
     "year": 1996,
     "month": "February",
-    "day": null
+    "day": null,
+    "url": "/wiki/Wing_Arms",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Winning Post",
-    "url": null,
-    "developer": "Koei",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Winter Heat",
-    "url": null,
-    "developer": "Data East",
     "year": 1998,
     "month": 2,
-    "day": 18
+    "day": 18,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "wipEout",
-    "url": "/wiki/WipEout",
-    "developer": "Psygnosis",
     "year": 1996,
     "month": 5,
-    "day": 3
+    "day": 3,
+    "url": "/wiki/WipEout",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "World Cup Golf: Professional Edition",
-    "url": "/wiki/World_Cup_Golf:_Professional_Edition",
-    "developer": "Arc Developments",
     "year": 1996,
     "month": null,
-    "day": null
+    "day": null,
+    "url": "/wiki/World_Cup_Golf:_Professional_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "World Series Baseball",
-    "url": "/wiki/World_Series_Baseball_(video_game)",
-    "developer": "Sega",
     "year": 1995,
     "month": "November",
-    "day": null
+    "day": null,
+    "url": "/wiki/World_Series_Baseball_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "World Series Baseball 2",
-    "url": null,
-    "developer": "Sega",
     "year": 1996,
     "month": 8,
-    "day": 24
+    "day": 24,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "World Series Baseball '98",
-    "url": "/wiki/World_Series_Baseball_%2798",
-    "developer": "Sega",
     "year": 1997,
     "month": 7,
-    "day": 16
+    "day": 16,
+    "url": "/wiki/World_Series_Baseball_%2798",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Worldwide Soccer: Sega International Victory Goal Edition",
-    "url": "/wiki/Worldwide_Soccer:_Sega_International_Victory_Goal_Edition",
-    "developer": "Sega",
     "year": 1995,
     "month": 5,
-    "day": 11
+    "day": 11,
+    "url": "/wiki/Worldwide_Soccer:_Sega_International_Victory_Goal_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "Worms",
-    "url": "/wiki/Worms_(1995_video_game)",
-    "developer": "Team17",
     "year": 1996,
     "month": 8,
-    "day": 8
+    "day": 8,
+    "url": "/wiki/Worms_(1995_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "WWF In Your House",
-    "url": "/wiki/WWF_In_Your_House",
-    "developer": "Sculptured Software",
     "year": 1996,
     "month": 11,
-    "day": 23
+    "day": 23,
+    "url": "/wiki/WWF_In_Your_House",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "WWF WrestleMania: The Arcade Game",
-    "url": "/wiki/WWF_WrestleMania:_The_Arcade_Game",
-    "developer": "Sculptured Software",
     "year": 1996,
     "month": 5,
-    "day": 30
+    "day": 30,
+    "url": "/wiki/WWF_WrestleMania:_The_Arcade_Game",
+    "systems": [
+      "Sega Saturn"
+    ]
   },
   {
     "title": "X-Men: Children of the Atom",
-    "url": "/wiki/X-Men:_Children_of_the_Atom_(arcade_game)",
-    "developer": "Rutubo Games",
     "year": 1996,
     "month": 4,
-    "day": 5
+    "day": 5,
+    "url": "/wiki/X-Men:_Children_of_the_Atom_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
   }
 ]
