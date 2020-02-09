@@ -42,40 +42,39 @@ games.forEach(game => {
     totals.overwritten++;
   } else {
     const matchedGame = dataJson.find(gameObject => gameObject.title === gameName);
-    // console.log('Found a match', matchedGame);
 
     let gameWasUpdated = false;
-
     // console.log(game.systems);
-
-    game.systems.forEach(system => {
-      // console.log(matchedGame.systems);
-
-      if (!matchedGame.systems.includes(system)) {
-        // console.log('Does not exist, adding ' + system);
-
-        matchedGame.systems.push(system);
+    if (game.year === matchedGame.year &&
+      game.month === matchedGame.month &&
+      game.day === matchedGame.day) {
+      // Both releases went out on the same day. Just add the new system.
+      game.systems.forEach(system => {
         // console.log(matchedGame.systems);
-        gameWasUpdated = true;
+
+        if (!matchedGame.systems.includes(system)) {
+          // console.log('Does not exist, adding ' + system);
+
+          matchedGame.systems.push(system);
+          // console.log(matchedGame.systems);
+          gameWasUpdated = true;
+        }
+      });
+
+      if (gameWasUpdated) {
+        // Remove the old, re-add the new.
+        dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
+        dataJson.push(matchedGame);
+        fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
+
+        console.log(`${game.title}\tGame record was updated`);
+        totals.updated++;
+      } else {
+        totals.skipped++;
       }
-    });
-
-    // console.log(matchedGame);
-
-
-
-
-    if (gameWasUpdated) {
-      // Remove the old, re-add the new.
-      dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
-      dataJson.push(matchedGame);
-      fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
-
-      console.log(`${game.title}\tGame record was updated`);
-      totals.updated++;
     } else {
-      // console.log('\tGame already exists!');
-      totals.skipped++;
+      dataJson.push(game);
+      fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
     }
   }
 })
