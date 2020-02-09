@@ -38,7 +38,7 @@ export default {
           .month(this.game.month - 1)
           .format("MMM");
       } else if (this.game.month === null) {
-        return "January";
+        return "Jan";
       } else {
         return moment()
           .month(this.game.month)
