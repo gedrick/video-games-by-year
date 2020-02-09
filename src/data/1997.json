@@ -63,7 +63,7 @@
     "title": "NBA Live 98",
     "url": "/wiki/NBA_Live_98",
     "year": 1997,
-    "month": "November",
+    "month": 11,
     "day": null,
     "systems": [
       "SNES"
@@ -232,7 +232,7 @@
   {
     "title": "Daytona USA CCE NetLink Edition",
     "year": 1997,
-    "month": "October",
+    "month": 10,
     "day": null,
     "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
     "systems": [
@@ -272,7 +272,7 @@
   {
     "title": "Duke Nukem 3D",
     "year": 1997,
-    "month": "August",
+    "month": 8,
     "day": null,
     "url": "/wiki/Duke_Nukem_3D",
     "systems": [
@@ -322,7 +322,7 @@
   {
     "title": "Grand Slam",
     "year": 1997,
-    "month": "May",
+    "month": 5,
     "day": null,
     "url": "/wiki/Grand_Slam_(video_game)",
     "systems": [
@@ -342,7 +342,7 @@
   {
     "title": "High Velocity: Mountain Racing Challenge",
     "year": 1997,
-    "month": "May",
+    "month": 5,
     "day": null,
     "url": null,
     "systems": [
@@ -472,7 +472,7 @@
   {
     "title": "Mega Man 8: Anniversary Collector's Edition",
     "year": 1997,
-    "month": "February",
+    "month": 2,
     "day": null,
     "url": "/wiki/Mega_Man_8",
     "systems": [
