@@ -1,12 +1,12 @@
 [
   {
+    "title": "Frogger",
+    "url": "/wiki/Frogger",
     "year": 1998,
     "month": 10,
     "day": 6,
-    "title": "Frogger",
     "systems": [
       "SNES"
-    ],
-    "url": "/wiki/Frogger"
+    ]
   }
 ]

@@ -6420,13 +6420,13 @@
     "systemUrl": "/wiki/Nintendo_3DS"
   },
   {
+    "title": "Star Fox 2",
+    "url": "/wiki/Star_Fox_2",
     "year": 2017,
     "month": 9,
     "day": 29,
-    "title": "Star Fox 2",
     "systems": [
       "SNES"
-    ],
-    "url": "/wiki/Star_Fox_2"
+    ]
   }
 ]

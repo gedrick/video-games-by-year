@@ -65,6 +65,7 @@ export default function mapSystem(system) {
       return 'PSP';
     case 'PSN':
       return 'PSN';
+    case 'SUPER NINTENDO':
     case 'SNES':
       return 'SNES';
     case 'STEAM':
@@ -93,6 +94,8 @@ export default function mapSystem(system) {
       return 'GBA';
     case 'GCN':
       return 'Gamecube';
+    case 'SATURN':
+      return 'Sega Saturn';
     default:
       return system;
   }
