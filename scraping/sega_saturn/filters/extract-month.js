@@ -9,7 +9,8 @@ module.exports = function ($, obj) {
     monthNumeric = moment().month(month).format('M')
     return Number(monthNumeric);
   } else if (str.trim().includes(' ')) {
-    return str.split(' ')[0]
+    const monthName = str.split(' ')[0]
+    return Number(moment().month(monthName).format('M'))
   } else {
     return null;
   }

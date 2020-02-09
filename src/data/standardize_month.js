@@ -14,7 +14,6 @@ monthData = monthData.map(gameObject => {
 
   console.log('updated month:', gameObject);
 
-
   return gameObject;
 })
 

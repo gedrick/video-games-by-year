@@ -13,7 +13,7 @@ module.exports = {
     callbackFn: filters.getUrl
   },
   year: {
-    index: 4,
+    index: 3,
     callbackFn: filters.extractYear,
     failFn: ($, obj) => {
       return (
@@ -24,11 +24,16 @@ module.exports = {
     }
   },
   month: {
-    index: 4,
+    index: 3,
     callbackFn: filters.extractMonth
   },
   day: {
-    index: 4,
+    index: 3,
     callbackFn: filters.extractDay
+  },
+  systems: {
+    callbackFn: () => {
+      return ['Sega Saturn']
+    }
   }
 };

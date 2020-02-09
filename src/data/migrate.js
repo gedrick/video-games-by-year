@@ -1,4 +1,4 @@
-const games = require('./sega_saturn.json');
+const games = require('./snes.json');
 const fs = require('fs')
 
 const overwrite = false;

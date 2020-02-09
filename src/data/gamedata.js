@@ -21,6 +21,7 @@ import * as games2018 from '../data/2018.json';
 import * as games2019 from '../data/2019.json';
 import * as games2020 from '../data/2020.json';
 
+// NEED TO SORT RESULTS BY DATE!!!
 export default {
   1991: games1991,
   1992: games1992,
