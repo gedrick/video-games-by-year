@@ -1,9 +1,10 @@
-const games = require('./snes.json');
+const games = require('./sega_saturn.json');
 const fs = require('fs')
 
-const overwrite = true;
+const overwrite = false;
 let totals = {
   overwritten: 0,
+  updated: 0,
   new: 0,
   skipped: 0
 }
@@ -11,8 +12,7 @@ let totals = {
 games.forEach(game => {
   const year = game.year;
   const gameName = game.title;
-  game.systems = ['SNES']
-  console.log(`Migrating ${game.title}`);
+  // console.log(`Migrating ${game.title}`);
 
   if (!fs.existsSync(`./${year}.json`)) {
     fs.writeFileSync(`./${year}.json`, '[]')
@@ -41,8 +41,42 @@ games.forEach(game => {
     console.log('\Game entry updated.');
     totals.overwritten++;
   } else {
-    console.log('\tGame already exists!');
-    totals.skipped++;
+    const matchedGame = dataJson.find(gameObject => gameObject.title === gameName);
+    // console.log('Found a match', matchedGame);
+
+    let gameWasUpdated = false;
+
+    // console.log(game.systems);
+
+    game.systems.forEach(system => {
+      // console.log(matchedGame.systems);
+
+      if (!matchedGame.systems.includes(system)) {
+        // console.log('Does not exist, adding ' + system);
+
+        matchedGame.systems.push(system);
+        // console.log(matchedGame.systems);
+        gameWasUpdated = true;
+      }
+    });
+
+    // console.log(matchedGame);
+
+
+
+
+    if (gameWasUpdated) {
+      // Remove the old, re-add the new.
+      dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
+      dataJson.push(matchedGame);
+      fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
+
+      console.log(`${game.title}\tGame record was updated`);
+      totals.updated++;
+    } else {
+      // console.log('\tGame already exists!');
+      totals.skipped++;
+    }
   }
 })
 
@@ -53,6 +87,7 @@ console.log('------------------------------------------');
 console.log(`TOTAL GAMES:\t\t\t${games.length}`);
 console.log(`NEW GAMES:\t\t\t${totals.new}`);
 console.log(`OVERWRITTEN:\t\t\t${totals.overwritten}`);
+console.log(`UPDATED:\t\t\t${totals.updated}`);
 console.log(`SKIPPED:\t\t\t${totals.skipped}`);
 
 

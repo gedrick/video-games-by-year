@@ -6,9 +6,11 @@
         <span class="year">{{ game.year }}</span>
       </div>
       <div class="title">
-        <a v-if="game.url" target="_blank" :href="`https://en.wikipedia.org${game.url}`">
-          {{ game.title }}
-        </a>
+        <a
+          v-if="game.url"
+          target="_blank"
+          :href="`https://en.wikipedia.org${game.url}`"
+        >{{ game.title }}</a>
         <div v-if="!game.url">{{ game.title }}</div>
         <span>{{ consoles }}</span>
       </div>
@@ -17,39 +19,45 @@
 </template>
 
 <script>
-import moment from 'moment';
+import moment from "moment";
 export default {
   props: {
     game: {
       type: Object,
       default: null
-    },
+    }
   },
   computed: {
     consoles() {
       const consoleSet = new Set(this.game.systems);
-      return Array.from(consoleSet).join(', ');
+      return Array.from(consoleSet).join(", ");
     },
     month() {
       if (Number.isInteger(this.game.month)) {
-        return moment().month(this.game.month - 1).format('MMM');
+        return moment()
+          .month(this.game.month - 1)
+          .format("MMM");
+      } else if (this.game.month === null) {
+        return "January";
       } else {
-        return moment().month(this.game.month).format('MMM');
+        return moment()
+          .month(this.game.month)
+          .format("MMM");
       }
     }
   }
-}
+};
 </script>
 
 <style lang="scss" scoped>
-@import '../styles/variables.scss';
+@import "../styles/variables.scss";
 
 .game-pill {
   color: #fff;
   font-weight: bold;
   padding: em(5);
   margin: 0 em(5) em(5) 0;
-  background-color: #9A6DC3;
+  background-color: #9a6dc3;
   border-radius: em(6);
   display: flex;
   justify-content: center;

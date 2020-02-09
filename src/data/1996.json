@@ -20,31 +20,11 @@
     ]
   },
   {
-    "title": "Casper",
-    "url": "/wiki/Casper_(video_game)",
-    "year": 1996,
-    "month": 12,
-    "day": 1,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "College Football USA '97: The Road to New Orleans",
     "url": "/wiki/College_Football_USA_%2797",
     "year": 1996,
     "month": 12,
     "day": 1,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
-    "title": "College Slam",
-    "url": "/wiki/College_Slam",
-    "year": 1996,
-    "month": 1,
-    "day": 31,
     "systems": [
       "SNES"
     ]
@@ -135,16 +115,6 @@
     "year": 1996,
     "month": 8,
     "day": 31,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
-    "title": "Madden NFL 97",
-    "url": "/wiki/Madden_NFL_97",
-    "year": 1996,
-    "month": "October",
-    "day": null,
     "systems": [
       "SNES"
     ]
@@ -370,16 +340,6 @@
     ]
   },
   {
-    "title": "Street Fighter Alpha 2",
-    "url": "/wiki/Street_Fighter_Alpha_2",
-    "year": 1996,
-    "month": 11,
-    "day": 1,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "Super Mario RPG: Legend of the Seven Stars",
     "url": "/wiki/Super_Mario_RPG",
     "year": 1996,
@@ -395,16 +355,6 @@
     "year": 1996,
     "month": 8,
     "day": 4,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
-    "title": "Ultimate Mortal Kombat 3",
-    "url": "/wiki/Ultimate_Mortal_Kombat_3",
-    "year": 1996,
-    "month": 6,
-    "day": 26,
     "systems": [
       "SNES"
     ]
@@ -430,13 +380,1199 @@
     ]
   },
   {
+    "title": "3D Baseball",
+    "year": 1996,
+    "month": 12,
+    "day": 14,
+    "url": "/wiki/3D_Baseball",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Alien Trilogy",
+    "year": 1996,
+    "month": 8,
+    "day": 13,
+    "url": "/wiki/Alien_Trilogy",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Alone in the Dark: One-Eyed Jack's Revenge",
+    "year": 1996,
+    "month": "July",
+    "day": null,
+    "url": "/wiki/Alone_in_the_Dark_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Andretti Racing",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/Andretti_Racing",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Area 51",
+    "year": 1996,
+    "month": 11,
+    "day": 20,
+    "url": "/wiki/Area_51_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Baku Baku Animal",
+    "year": 1996,
+    "month": 6,
+    "day": 19,
+    "url": "/wiki/Baku_Baku_Animal",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Batman Forever: The Arcade Game",
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "url": "/wiki/Batman_Forever:_The_Arcade_Game",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Battle Arena Toshinden Remix",
+    "year": 1996,
+    "month": 3,
+    "day": 27,
+    "url": "/wiki/Battle_Arena_Toshinden",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Battle Arena Toshinden Ultimate Revenge Attack",
+    "year": 1996,
+    "month": 11,
+    "day": 14,
+    "url": "/wiki/Battle_Arena_Toshinden_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Battle Monsters",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "url": "/wiki/Battle_Monsters",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Black Dawn",
+    "year": 1996,
+    "month": 1,
+    "day": 6,
+    "url": "/wiki/Black_Dawn_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Blam! Machinehead",
+    "year": 1996,
+    "month": 11,
+    "day": 25,
+    "url": "/wiki/Blam!_Machinehead",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Blast Chamber",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/Blast_Chamber",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Blazing Dragons",
+    "year": 1996,
+    "month": 6,
+    "day": 18,
+    "url": "/wiki/Blazing_Dragons_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bottom of the 9th",
+    "year": 1996,
+    "month": 10,
+    "day": 18,
+    "url": "/wiki/Bottom_of_the_9th",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Brain Dead 13",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "url": "/wiki/Brain_Dead_13",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Break Point Tennis",
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bubble Bobble featuring Rainbow Islands",
+    "year": 1996,
+    "month": 9,
+    "day": 3,
+    "url": "/wiki/Rainbow_Islands:_The_Story_of_Bubble_Bobble_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bug Too!",
+    "year": 1996,
+    "month": 12,
+    "day": 6,
+    "url": "/wiki/Bug_Too!",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bust-a-Move 2: Arcade Edition",
+    "year": 1996,
+    "month": 9,
+    "day": 24,
+    "url": "/wiki/Puzzle_Bobble_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Christmas Nights",
+    "year": 1996,
+    "month": 12,
+    "day": 12,
+    "url": "/wiki/Nights_into_Dreams...",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Clockwork Knight 2",
+    "year": 1996,
+    "month": "February",
+    "day": null,
+    "url": "/wiki/Clockwork_Knight_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Command & Conquer",
+    "year": 1996,
+    "month": 12,
+    "day": 18,
+    "url": "/wiki/Command_%26_Conquer",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Congo The Movie: The Lost City of Zinj",
+    "year": 1996,
+    "month": "April",
+    "day": null,
+    "url": "/wiki/Congo_The_Movie:_The_Lost_City_of_Zinj",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Creature Shock: Special Edition",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Creature_Shock",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Criticom",
+    "year": 1996,
+    "month": "February",
+    "day": null,
+    "url": "/wiki/Criticom",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Crusader: No Remorse",
+    "year": 1996,
+    "month": 12,
+    "day": 24,
+    "url": "/wiki/Crusader:_No_Remorse",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Cyberia",
+    "year": 1996,
+    "month": "January",
+    "day": null,
+    "url": "/wiki/Cyberia_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "D",
+    "year": 1996,
+    "month": 3,
+    "day": 5,
+    "url": "/wiki/D_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Dark Savior",
+    "year": 1996,
+    "month": 12,
+    "day": 12,
+    "url": "/wiki/Dark_Savior",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Daytona USA: Championship Circuit Edition",
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "url": "/wiki/Daytona_USA:_Championship_Circuit_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "DecAthlete",
+    "year": 1996,
+    "month": 7,
+    "day": 17,
+    "url": "/wiki/DecAthlete_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Defcon 5",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Defcon_5_(1995_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Dragon Force",
+    "year": 1996,
+    "month": 12,
+    "day": 12,
+    "url": "/wiki/Dragon_Force",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "DragonHeart: Fire & Steel",
+    "year": 1996,
+    "month": 12,
+    "day": 26,
+    "url": "/wiki/DragonHeart:_Fire_%26_Steel",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Earthworm Jim 2",
+    "year": 1996,
+    "month": "January",
+    "day": null,
+    "url": "/wiki/Earthworm_Jim_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Fighting Vipers",
+    "year": 1996,
+    "month": 10,
+    "day": 29,
+    "url": "/wiki/Fighting_Vipers",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Frank Thomas' Big Hurt Baseball",
+    "year": 1996,
+    "month": 6,
+    "day": 7,
+    "url": "/wiki/Frank_Thomas%27_Big_Hurt_Baseball",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Galaxy Fight",
+    "year": 1996,
+    "month": 7,
+    "day": 3,
+    "url": "/wiki/Galaxy_Fight",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Golden Axe: The Duel",
+    "year": 1996,
+    "month": 6,
+    "day": 27,
+    "url": "/wiki/Golden_Axe:_The_Duel",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Grid Runner",
+    "year": 1996,
+    "month": 11,
+    "day": 20,
+    "url": "/wiki/Grid_Runner",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Guardian Heroes",
+    "year": 1996,
+    "month": 4,
+    "day": 24,
+    "url": "/wiki/Guardian_Heroes",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Gungriffon",
+    "year": 1996,
+    "month": 6,
+    "day": 19,
+    "url": "/wiki/Gungriffon",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Hardcore 4X4",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/Hardcore_4X4",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Heir of Zendor: The Legend and the Land",
+    "year": 1996,
+    "month": 12,
+    "day": 12,
+    "url": "/wiki/Gotha_II",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Herc's Adventures",
+    "year": 1996,
+    "month": 7,
+    "day": 14,
+    "url": "/wiki/Herc%27s_Adventures",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Hi-Octane",
+    "year": 1996,
+    "month": "February",
+    "day": null,
+    "url": "/wiki/Hi-Octane",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Highway 2000",
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Hyper 3-D Pinball",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Hyper_3-D_Pinball",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Impact Racing",
+    "year": 1996,
+    "month": 9,
+    "day": 3,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "In the Hunt",
+    "year": 1996,
+    "month": "March",
+    "day": null,
+    "url": "/wiki/In_the_Hunt",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Iron Man and X-O Manowar in Heavy Metal",
+    "year": 1996,
+    "month": 11,
+    "day": 14,
+    "url": "/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Iron Storm: World Advanced Strategy",
+    "year": 1996,
+    "month": 5,
+    "day": 8,
+    "url": "/wiki/Iron_Storm_(Sega_Saturn)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Johnny Bazookatone",
+    "year": 1996,
+    "month": "February",
+    "day": null,
+    "url": "/wiki/Johnny_Bazookatone",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NA",
+    "year": 1996,
+    "month": 7,
+    "day": 31,
+    "url": "/wiki/North_America",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Loaded",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "url": "/wiki/Loaded_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Magic Carpet",
+    "year": 1996,
+    "month": "May",
+    "day": null,
+    "url": "/wiki/Magic_Carpet_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Mortal Kombat II",
+    "year": 1996,
+    "month": 3,
+    "day": 29,
+    "url": "/wiki/Mortal_Kombat_II",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Mr. Bones",
+    "year": 1996,
+    "month": 10,
+    "day": 18,
+    "url": "/wiki/Mr._Bones_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NBA Action",
+    "year": 1996,
+    "month": "June",
+    "day": null,
+    "url": "/wiki/NBA_Action_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NBA Jam Extreme",
+    "year": 1996,
+    "month": 11,
+    "day": 26,
+    "url": "/wiki/NBA_Jam_Extreme",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NFL '97",
+    "year": 1996,
+    "month": 11,
+    "day": 20,
+    "url": "/wiki/NFL_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NFL Quarterback Club '97",
+    "year": 1996,
+    "month": 8,
+    "day": 29,
+    "url": "/wiki/NFL_Quarterback_Club_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NHL '97",
+    "year": 1996,
+    "month": 12,
+    "day": 4,
+    "url": "/wiki/NHL_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NHL Powerplay '96",
+    "year": 1996,
+    "month": 7,
+    "day": 2,
+    "url": "/wiki/NHL_Powerplay_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Night Warriors: Darkstalkers' Revenge",
+    "year": 1996,
+    "month": 2,
+    "day": 22,
+    "url": "/wiki/Night_Warriors:_Darkstalkers%27_Revenge",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Nights into Dreams...",
+    "year": 1996,
+    "month": 8,
+    "day": 23,
+    "url": "/wiki/Nights_into_Dreams...",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Olympic Soccer: Atlanta 1996",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Olympic_Soccer:_Atlanta_1996",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "P.T.O.: Pacific Theater of Operations II",
+    "year": 1996,
+    "month": 11,
+    "day": 20,
+    "url": "/wiki/P.T.O._II",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Panzer Dragoon II Zwei",
+    "year": 1996,
+    "month": 4,
+    "day": 17,
+    "url": "/wiki/Panzer_Dragoon_II_Zwei",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "PGA Tour 97",
+    "year": 1996,
+    "month": 11,
+    "day": 25,
+    "url": "/wiki/PGA_Tour_97",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Powerslave",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "url": "/wiki/Exhumed_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Pro Pinball: The Web",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "url": "/wiki/Pro_Pinball:_The_Web",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Rise 2: Resurrection",
+    "year": 1996,
+    "month": 12,
+    "day": 4,
+    "url": "/wiki/Rise_2:_Resurrection",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Road & Track Presents The Need for Speed",
+    "year": 1996,
+    "month": 6,
+    "day": 28,
+    "url": "/wiki/The_Need_for_Speed",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Road Rash",
+    "year": 1996,
+    "month": "August",
+    "day": null,
+    "url": "/wiki/Road_Rash_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Robo Pit",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Robo_Pit",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Sega Worldwide Soccer '97",
+    "year": 1996,
+    "month": 10,
+    "day": 16,
+    "url": "/wiki/Sega_Worldwide_Soccer_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shellshock",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Shellshock_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shining Wisdom",
+    "year": 1996,
+    "month": 6,
+    "day": 27,
+    "url": "/wiki/Shining_Wisdom",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shockwave Assault",
+    "year": 1996,
+    "month": "May",
+    "day": null,
+    "url": "/wiki/Shockwave_Assault",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Skeleton Warriors",
+    "year": 1996,
+    "month": 4,
+    "day": 16,
+    "url": "/wiki/Skeleton_Warriors_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Slam 'n Jam '96 Featuring Magic & Kareem",
+    "year": 1996,
+    "month": 6,
+    "day": 22,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Sonic 3D Blast",
+    "year": 1996,
+    "month": 11,
+    "day": 20,
+    "url": "/wiki/Sonic_3D_Blast",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Space Hulk: Vengeance of the Blood Angels",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Space_Hulk:_Vengeance_of_the_Blood_Angels",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Space Jam",
+    "year": 1996,
+    "month": 11,
+    "day": 26,
+    "url": "/wiki/Space_Jam",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Star Fighter",
+    "year": 1996,
+    "month": 9,
+    "day": 3,
+    "url": "/wiki/Star_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Street Fighter Alpha: Warriors' Dreams",
+    "year": 1996,
+    "month": 6,
+    "day": 6,
+    "url": "/wiki/Street_Fighter_Alpha",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Striker '96",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Striker_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Tempest 2000",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/Tempest_2000",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Tetris Plus",
+    "year": 1996,
+    "month": 10,
+    "day": 18,
+    "url": "/wiki/Tetris_Plus",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Three Dirty Dwarves",
+    "year": 1996,
+    "month": 9,
+    "day": 27,
+    "url": "/wiki/Three_Dirty_Dwarves",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Thunderstrike 2",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Firestorm:_Thunderhawk_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Tomb Raider",
+    "year": 1996,
+    "month": 11,
+    "day": 18,
+    "url": "/wiki/Tomb_Raider_(1996_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "True Pinball",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "url": "/wiki/True_Pinball",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Valora Valley Golf",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Cop 2",
+    "year": 1996,
+    "month": 11,
+    "day": 22,
+    "url": "/wiki/Virtua_Cop_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Fighter Kids",
+    "year": 1996,
+    "month": 7,
+    "day": 31,
+    "url": "/wiki/Virtua_Fighter_Kids",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Fighter Remix",
+    "year": 1996,
+    "month": 10,
+    "day": 2,
+    "url": "/wiki/Virtua_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtual Casino",
+    "year": 1996,
+    "month": "December",
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtual On: Cyber Troopers",
+    "year": 1996,
+    "month": 11,
+    "day": 8,
+    "url": "/wiki/Virtual_On:_Cyber_Troopers",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtual Open Tennis",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Virtual_Open_Tennis",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "VR Golf '97",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/VR_Golf_%2797",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "VR Soccer",
+    "year": 1996,
+    "month": 12,
+    "day": 20,
+    "url": "/wiki/VR_Soccer",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Wing Arms",
+    "year": 1996,
+    "month": "February",
+    "day": null,
+    "url": "/wiki/Wing_Arms",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Winning Post",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "wipEout",
+    "year": 1996,
+    "month": 5,
+    "day": 3,
+    "url": "/wiki/WipEout",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "World Cup Golf: Professional Edition",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/World_Cup_Golf:_Professional_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "World Series Baseball 2",
+    "year": 1996,
+    "month": 8,
+    "day": 24,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Worms",
+    "year": 1996,
+    "month": 8,
+    "day": 8,
+    "url": "/wiki/Worms_(1995_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "WWF In Your House",
+    "year": 1996,
+    "month": 11,
+    "day": 23,
+    "url": "/wiki/WWF_In_Your_House",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "WWF WrestleMania: The Arcade Game",
+    "year": 1996,
+    "month": 5,
+    "day": 30,
+    "url": "/wiki/WWF_WrestleMania:_The_Arcade_Game",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "X-Men: Children of the Atom",
+    "year": 1996,
+    "month": 4,
+    "day": 5,
+    "url": "/wiki/X-Men:_Children_of_the_Atom_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Casper",
+    "url": "/wiki/Casper_(video_game)",
+    "year": 1996,
+    "month": 12,
+    "day": 1,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "College Slam",
+    "url": "/wiki/College_Slam",
+    "year": 1996,
+    "month": 1,
+    "day": 31,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Madden NFL 97",
+    "url": "/wiki/Madden_NFL_97",
+    "year": 1996,
+    "month": "October",
+    "day": null,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Street Fighter Alpha 2",
+    "url": "/wiki/Street_Fighter_Alpha_2",
+    "year": 1996,
+    "month": 11,
+    "day": 1,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Ultimate Mortal Kombat 3",
+    "url": "/wiki/Ultimate_Mortal_Kombat_3",
+    "year": 1996,
+    "month": 6,
+    "day": 26,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
     "title": "Williams Arcade's Greatest Hits",
     "url": "/wiki/Williams_Arcade%27s_Greatest_Hits",
     "year": 1996,
     "month": "October",
     "day": null,
     "systems": [
-      "SNES"
+      "SNES",
+      "Sega Saturn"
     ]
   }
 ]

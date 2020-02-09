@@ -8,5 +8,75 @@
     "systems": [
       "SNES"
     ]
+  },
+  {
+    "title": "Burning Rangers",
+    "year": 1998,
+    "month": 3,
+    "day": 15,
+    "url": "/wiki/Burning_Rangers",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "The House of the Dead",
+    "year": 1998,
+    "month": 5,
+    "day": 5,
+    "url": "/wiki/The_House_of_the_Dead_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Magic Knight Rayearth",
+    "year": 1998,
+    "month": 11,
+    "day": 30,
+    "url": "/wiki/Magic_Knight_Rayearth_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NHL '98",
+    "year": 1998,
+    "month": 1,
+    "day": 15,
+    "url": "/wiki/NHL_%2798",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Panzer Dragoon Saga",
+    "year": 1998,
+    "month": 4,
+    "day": 30,
+    "url": "/wiki/Panzer_Dragoon_Saga",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shining Force III",
+    "year": 1998,
+    "month": 7,
+    "day": 31,
+    "url": "/wiki/Shining_Force_III",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Winter Heat",
+    "year": 1998,
+    "month": 2,
+    "day": 18,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
   }
 ]

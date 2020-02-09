@@ -800,16 +800,6 @@
     ]
   },
   {
-    "title": "Primal Rage",
-    "url": "/wiki/Primal_Rage",
-    "year": 1995,
-    "month": 8,
-    "day": 25,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "Rap Jam: Volume One",
     "url": "/wiki/Rap_Jam:_Volume_One",
     "year": 1995,
@@ -830,31 +820,11 @@
     ]
   },
   {
-    "title": "Revolution X",
-    "url": "/wiki/Revolution_X",
-    "year": 1995,
-    "month": "December",
-    "day": null,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "Rise of the Phoenix",
     "url": "/wiki/Rise_of_the_Phoenix",
     "year": 1995,
     "month": "February",
     "day": null,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
-    "title": "Romance of the Three Kingdoms IV: Wall of Fire",
-    "url": "/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
-    "year": 1995,
-    "month": 7,
-    "day": 1,
     "systems": [
       "SNES"
     ]
@@ -1187,6 +1157,489 @@
     "day": 15,
     "systems": [
       "SNES"
+    ]
+  },
+  {
+    "title": "Astal",
+    "year": 1995,
+    "month": 9,
+    "day": 27,
+    "url": "/wiki/Astal",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bases Loaded '96: Double Header",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "url": "/wiki/Bases_Loaded_%2796:_Double_Header",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Black Fire",
+    "year": 1995,
+    "month": 12,
+    "day": 22,
+    "url": "/wiki/Black_Fire_(game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Bug!",
+    "year": 1995,
+    "month": "August",
+    "day": null,
+    "url": "/wiki/Bug!",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Center Ring Boxing",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Clockwork Knight",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Clockwork_Knight",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Corpse Killer: Graveyard Edition",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Corpse_Killer",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Cyber Speedway",
+    "year": 1995,
+    "month": "September",
+    "day": null,
+    "url": "/wiki/Cyber_Speedway",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Darius Gaiden",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Darius_Gaiden",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Dark Legend",
+    "year": 1995,
+    "month": 10,
+    "day": 1,
+    "url": "/wiki/Outlaws_Of_The_Lost_Dynasty",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Daytona USA",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Daytona_USA_(arcade_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Digital Pinball: Last Gladiators",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Digital_Pinball:_Last_Gladiators",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Double Switch",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Double_Switch_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "F1 Challenge",
+    "year": 1995,
+    "month": 11,
+    "day": 9,
+    "url": "/wiki/F1_Challenge",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "FIFA Soccer '96",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "url": "/wiki/FIFA_Soccer_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Galactic Attack",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "url": "/wiki/RayForce",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Gex",
+    "year": 1995,
+    "month": 12,
+    "day": 18,
+    "url": "/wiki/Gex_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Ghen War",
+    "year": 1995,
+    "month": "September",
+    "day": null,
+    "url": "/wiki/Ghen_War",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Hang-On GP",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Hang-On_GP",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Mansion of Hidden Souls",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "url": "/wiki/Mansion_of_Hidden_Souls",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Minnesota Fats: Pool Legend",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Minnesota_Fats:_Pool_Legend",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Myst",
+    "year": 1995,
+    "month": "September",
+    "day": null,
+    "url": "/wiki/Myst",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Mystaria: The Realms of Lore",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Mystaria:_The_Realms_of_Lore",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NBA Jam T.E.",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/NBA_Jam_T.E.",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NFL Quarterback Club '96",
+    "year": 1995,
+    "month": 10,
+    "day": 27,
+    "url": "/wiki/NFL_Quarterback_Club_%2796",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "NHL All-Star Hockey",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/NHL_All-Star_Hockey",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Off-World Interceptor Extreme",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Off-World_Interceptor_Extreme",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Panzer Dragoon",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Panzer_Dragoon_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Pebble Beach Golf Links",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Pebble_Beach_Golf_Links_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Quarterback Attack with Mike Ditka",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Quarterback_Attack_with_Mike_Ditka",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Rayman",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Rayman_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Robotica",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Robotica_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Sega Rally Championship",
+    "year": 1995,
+    "month": 12,
+    "day": 28,
+    "url": "/wiki/Sega_Rally_Championship",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shanghai: Triple-Threat",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": null,
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Shinobi Legions",
+    "year": 1995,
+    "month": "September",
+    "day": null,
+    "url": "/wiki/Shinobi_Legions",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "SimCity 2000",
+    "year": 1995,
+    "month": 10,
+    "day": 15,
+    "url": "/wiki/SimCity_2000",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Solar Eclipse",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Titan_Wars",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Street Fighter: The Movie",
+    "year": 1995,
+    "month": 8,
+    "day": 10,
+    "url": "/wiki/Street_Fighter:_The_Movie_(home_video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Cop",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/Virtua_Cop",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Fighter",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Virtua_Fighter_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Fighter 2",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "url": "/wiki/Virtua_Fighter_2",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtual Hydlide",
+    "year": 1995,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Virtual_Hydlide",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Virtua Racing",
+    "year": 1995,
+    "month": 6,
+    "day": 1,
+    "url": "/wiki/Virtua_Racing",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "World Series Baseball",
+    "year": 1995,
+    "month": "November",
+    "day": null,
+    "url": "/wiki/World_Series_Baseball_(video_game)",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Worldwide Soccer: Sega International Victory Goal Edition",
+    "year": 1995,
+    "month": 5,
+    "day": 11,
+    "url": "/wiki/Worldwide_Soccer:_Sega_International_Victory_Goal_Edition",
+    "systems": [
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Primal Rage",
+    "url": "/wiki/Primal_Rage",
+    "year": 1995,
+    "month": 8,
+    "day": 25,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Revolution X",
+    "url": "/wiki/Revolution_X",
+    "year": 1995,
+    "month": "December",
+    "day": null,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
+    ]
+  },
+  {
+    "title": "Romance of the Three Kingdoms IV: Wall of Fire",
+    "url": "/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
+    "year": 1995,
+    "month": 7,
+    "day": 1,
+    "systems": [
+      "SNES",
+      "Sega Saturn"
     ]
   }
 ]
