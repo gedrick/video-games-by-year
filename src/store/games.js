@@ -1,5 +1,6 @@
 import gameData from '../data/gamedata.js';
 import { mapSystem } from '../helpers';
+import moment from 'moment'
 
 const state = {
   games: {},
@@ -34,11 +35,22 @@ const getters = {
           if (game.systems.includes(system) && !searchResults.includes(game)) {
             searchResults.push(game);
           }
-        })
+        });
       });
-    })
+    });
 
-    return searchResults;
+    const orderedSearchResults = searchResults.sort((a, b) => {
+      const oldDate = moment(`${a.month || 1}/${a.day || 1}/${a.year}`);
+      const newDate = moment(`${b.month || 1}/${b.day || 1}/${b.year}`);
+      if (oldDate.isAfter(newDate)) {
+        return 1;
+      } else if (oldDate.isBefore(newDate)) {
+        return -1;
+      }
+      return 0;
+    });
+
+    return orderedSearchResults;
   }
 };
 

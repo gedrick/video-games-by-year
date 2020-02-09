@@ -14,10 +14,10 @@
 </template>
 
 <script>
-import YearFilters from './year-filters.vue';
-import SystemFilters from './system-filters.vue';
-import GamePill from './game-pill.vue';
-import { mapGetters } from 'vuex';
+import YearFilters from "./year-filters.vue";
+import SystemFilters from "./system-filters.vue";
+import GamePill from "./game-pill.vue";
+import { mapGetters } from "vuex";
 
 export default {
   components: {
@@ -26,17 +26,21 @@ export default {
     GamePill
   },
   computed: {
-    ...mapGetters(['searchResults'])
+    ...mapGetters(["searchResults"])
   },
   mounted() {
-    this.$store.dispatch('initializeFilters');
-    this.$store.dispatch('fetchGames');
+    this.$store.dispatch("initializeFilters");
+    this.$store.dispatch("fetchGames");
   }
 };
 </script>
 
 <style lang="scss">
-@import '../styles/variables.scss';
+@import "../styles/variables.scss";
+
+.game-list {
+  padding-bottom: 35px;
+}
 
 .filter {
   display: flex;
