@@ -75,6 +75,7 @@ games.forEach(game => {
     } else {
       dataJson.push(game);
       fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
+      totals.new++;
     }
   }
 })
