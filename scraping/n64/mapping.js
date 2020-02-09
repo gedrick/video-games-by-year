@@ -3,19 +3,14 @@ const filters = require('./filters');
 module.exports = {
   title: {
     index: 0,
-    callbackFn: filters.getTitle
+    callbackFn: filters.getTitle,
+    failFn: ($, obj) => {
+      return $(obj).text().includes('Title');
+    }
   },
   url: {
     index: 0,
     callbackFn: filters.getUrl
-  },
-  developer: {
-    index: 1,
-    callbackFn: filters.trimText
-  },
-  publisher: {
-    index: 2,
-    callbackFn: filters.trimText
   },
   year: {
     index: 4,
