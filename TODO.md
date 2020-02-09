@@ -11,3 +11,7 @@
 - [ ] Gameboy Color
 - [ ] Game Gear
 - [ ] Dreamcast
+
+# Features
+
+- [ ] Search by typing functionality
