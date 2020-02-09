@@ -1,4 +1,4 @@
-module.exports = function($, obj) {
+module.exports = function ($, obj) {
   let title;
   let links = $(obj).find('a');
 
@@ -7,6 +7,8 @@ module.exports = function($, obj) {
   } else {
     title = $(obj).text();
   }
-
+  if (!title) {
+    return
+  }
   return title;
 };

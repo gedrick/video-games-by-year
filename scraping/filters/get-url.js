@@ -1,4 +1,4 @@
-module.exports = function($, obj) {
+module.exports = function ($, obj) {
   let href = null;
   let links = $(obj).find('a');
 

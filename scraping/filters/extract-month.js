@@ -8,6 +8,8 @@ module.exports = function ($, obj) {
     month = dayMonth.split(' ')[0];
     monthNumeric = moment().month(month).format('M')
     return Number(monthNumeric);
+  } else if (str.trim().includes(' ')) {
+    return str.split(' ')[0]
   } else {
     return null;
   }

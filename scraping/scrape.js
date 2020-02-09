@@ -10,14 +10,21 @@ const config = {
 
 const fs = require('fs');
 const filename = 'snes.json';
+const writeFile = true;
 
 scraper
   .scrape(config)
   .then(results => {
-    // console.log(JSON.stringify(results));
-    fs.unlinkSync(filename)
-    fs.writeFileSync(filename, JSON.stringify(results, null, 2));
-    console.log(`${filename} written`);
+    console.log(results);
+    // console.log(results.slice(100, 30));
+
+    if (writeFile) {
+      if (fs.existsSync(filename)) {
+        fs.unlinkSync(filename)
+      }
+      fs.writeFileSync(filename, JSON.stringify(results, null, 2));
+      console.log(`${filename} written`);
+    }
 
   })
   .catch(err => {
