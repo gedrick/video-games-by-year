@@ -1,6 +1,6 @@
 const scraper = require('wikipedia-table-scraper');
 const mapping = require('./mapping');
-const wikiPage = 'List_of_Super_Nintendo_Entertainment_System_games';
+const wikiPage = 'List_of_Nintendo_64_games';
 const tableIndexes = [0];
 const config = {
   page: wikiPage,
@@ -10,12 +10,12 @@ const config = {
 
 const fs = require('fs');
 const filename = './output/output.json';
-const writeFile = true;
+const writeFile = false;
 
 scraper
   .scrape(config)
   .then(results => {
-    console.log(results);
+    console.log(results.slice(0, 10));
 
     if (writeFile) {
       if (fs.existsSync(filename)) {

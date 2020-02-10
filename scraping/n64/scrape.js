@@ -1,11 +1,12 @@
 const scraper = require('wikipedia-table-scraper');
 const mapping = require('./mapping');
-const wikiPage = 'List_of_Nintendo_64_games';
+const wikiPage = 'Chronology_of_Nintendo_64_games';
 const tableIndexes = [0];
 const config = {
   page: wikiPage,
   mapping,
-  tableIndexes
+  tableIndexes,
+  // maxRows: 10
 };
 
 const fs = require('fs');

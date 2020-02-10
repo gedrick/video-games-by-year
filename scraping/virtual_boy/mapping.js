@@ -39,7 +39,7 @@ module.exports = {
     }
   },
   year: {
-    index: 4,
+    index: 5,
     callbackFn: ($, obj) => {
       const str = $(obj).text();
       if (str.includes(',')) {
@@ -57,12 +57,12 @@ module.exports = {
       return (
         $(obj)
           .text()
-          .trim() === 'Unreleased'
+          .trim().includes('Unreleased')
       );
     }
   },
   month: {
-    index: 4,
+    index: 5,
     callbackFn: ($, obj) => {
       const str = $(obj).text();
       let month, monthNumeric
@@ -80,7 +80,7 @@ module.exports = {
     }
   },
   day: {
-    index: 4,
+    index: 5,
     callbackFn: ($, obj) => {
       const str = $(obj).text();
       if (str.includes(',')) {
@@ -93,7 +93,7 @@ module.exports = {
   },
   systems: {
     callbackFn: () => {
-      return ['Nintendo']
+      return ['Virtual Boy']
     }
   }
 };

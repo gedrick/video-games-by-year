@@ -13,27 +13,27 @@ module.exports = {
     callbackFn: filters.getUrl
   },
   year: {
-    index: 3,
+    index: 2,
     callbackFn: filters.extractYear,
     failFn: ($, obj) => {
       return (
         $(obj)
           .text()
-          .trim() === 'Unreleased'
+          .trim() === ''
       );
     }
   },
   month: {
-    index: 3,
+    index: 2,
     callbackFn: filters.extractMonth
   },
   day: {
-    index: 3,
+    index: 2,
     callbackFn: filters.extractDay
   },
   systems: {
     callbackFn: () => {
-      return ['Sega Saturn']
+      return ['Nintendo 64']
     }
   }
 };

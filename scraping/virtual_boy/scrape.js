@@ -1,6 +1,6 @@
 const scraper = require('wikipedia-table-scraper');
 const mapping = require('./mapping');
-const wikiPage = 'List_of_Sega_Saturn_games';
+const wikiPage = 'List_of_Virtual_Boy_games';
 const tableIndexes = [0];
 const config = {
   page: wikiPage,
