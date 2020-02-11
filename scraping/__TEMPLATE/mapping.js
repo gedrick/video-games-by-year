@@ -15,7 +15,7 @@ module.exports = {
       if (!title) {
         return null;
       }
-      return title;
+      return title.trim();
     },
     failFn: ($, obj) => {
       return $(obj).text().includes('Title');

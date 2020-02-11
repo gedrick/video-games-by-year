@@ -1,7 +1,6 @@
-const games = require('./output.json');
+const games = require('./ps1-2.json');
 const fs = require('fs')
 
-const overwrite = false;
 let totals = {
   overwritten: 0,
   updated: 0,
@@ -9,6 +8,7 @@ let totals = {
   skipped: 0
 }
 
+const overwrite = false;
 const dryRun = true;
 
 function writeFile(fileName, data, force = false) {
@@ -46,7 +46,7 @@ games.forEach(game => {
     dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
     dataJson.push(game);
     writeFile(`./${year}.json`, dataJson);
-    console.log('\tGame entry updated.');
+    console.log('\tGame entry overwritten.');
     totals.overwritten++;
   } else {
     const matchedGame = dataJson.find(gameObject => gameObject.title === gameName);
@@ -74,7 +74,6 @@ games.forEach(game => {
         dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
         dataJson.push(matchedGame);
         writeFile(`./${year}.json`, dataJson);
-
         console.log(`${game.title}\tGame record was updated`);
         totals.updated++;
       } else {

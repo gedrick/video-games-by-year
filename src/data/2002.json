@@ -20,16 +20,6 @@
     ]
   },
   {
-    "title": "2002 FIFA World Cup",
-    "url": "/wiki/2002_FIFA_World_Cup_(video_game)",
-    "year": 2002,
-    "month": 4,
-    "day": 30,
-    "systems": [
-      "Gamecube"
-    ]
-  },
-  {
     "title": "4x4 EVO 2",
     "url": "/wiki/4x4_EVO_2",
     "year": 2002,
@@ -490,16 +480,6 @@
     ]
   },
   {
-    "title": "Harry Potter and the Chamber of Secrets",
-    "url": "/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)",
-    "year": 2002,
-    "month": 11,
-    "day": 14,
-    "systems": [
-      "Gamecube"
-    ]
-  },
-  {
     "title": "Home Run King",
     "url": "/wiki/Home_Run_King",
     "year": 2002,
@@ -770,16 +750,6 @@
     ]
   },
   {
-    "title": "NASCAR Thunder 2003",
-    "url": "/wiki/NASCAR_Thunder_2003",
-    "year": 2002,
-    "month": 9,
-    "day": 19,
-    "systems": [
-      "Gamecube"
-    ]
-  },
-  {
     "title": "NASCAR: Dirt to Daytona",
     "url": "/wiki/NASCAR:_Dirt_to_Daytona",
     "year": 2002,
@@ -815,16 +785,6 @@
     "year": 2002,
     "month": 1,
     "day": 13,
-    "systems": [
-      "Gamecube"
-    ]
-  },
-  {
-    "title": "NBA Live 2003",
-    "url": "/wiki/NBA_Live_2003",
-    "year": 2002,
-    "month": 10,
-    "day": 8,
     "systems": [
       "Gamecube"
     ]
@@ -1340,16 +1300,6 @@
     ]
   },
   {
-    "title": "Tony Hawk's Pro Skater 4",
-    "url": "/wiki/Tony_Hawk%27s_Pro_Skater_4",
-    "year": 2002,
-    "month": 10,
-    "day": 23,
-    "systems": [
-      "Gamecube"
-    ]
-  },
-  {
     "title": "Top Gun: Combat Zones",
     "url": "/wiki/Top_Gun:_Combat_Zones",
     "year": 2002,
@@ -1477,6 +1427,691 @@
     "day": 5,
     "systems": [
       "Gamecube"
+    ]
+  },
+  {
+    "title": "2002 FIFA World Cup",
+    "url": "/wiki/2002_FIFA_World_Cup_(video_game)",
+    "year": 2002,
+    "month": 4,
+    "day": 30,
+    "systems": [
+      "Gamecube",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Aces of the Air",
+    "url": null,
+    "year": 2002,
+    "month": 9,
+    "day": 26,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "All-Star Racing",
+    "url": null,
+    "year": 2002,
+    "month": 10,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Amazing Virtual Sea-Monkeys",
+    "url": null,
+    "year": 2002,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Arc the Lad Collection",
+    "url": "/wiki/Arc_the_Lad_Collection",
+    "year": 2002,
+    "month": 4,
+    "day": 18,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Austin Powers Pinball",
+    "url": "/wiki/Austin_Powers_Pinball",
+    "year": 2002,
+    "month": 10,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Ballerburg Castle Chaos",
+    "url": null,
+    "year": 2002,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Beyblade: Let it Rip!",
+    "url": null,
+    "year": 2002,
+    "month": 12,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Big Bass Fishing",
+    "url": null,
+    "year": 2002,
+    "month": 5,
+    "day": 2,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "C-12: Final Resistance",
+    "url": "/wiki/C-12:_Final_Resistance",
+    "year": 2002,
+    "month": 7,
+    "day": 22,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Cabela's Ultimate Deer Hunt: Open Season",
+    "url": null,
+    "year": 2002,
+    "month": 10,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Capcom VS SNK: Pro",
+    "url": "/wiki/Capcom_VS_SNK:_Pro",
+    "year": 2002,
+    "month": 8,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Creatures",
+    "url": null,
+    "year": 2002,
+    "month": 5,
+    "day": 18,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Dance Dance Revolution Konamix",
+    "url": "/wiki/Dance_Dance_Revolution_Konamix",
+    "year": 2002,
+    "month": 4,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "David Beckham Soccer",
+    "url": "/wiki/David_Beckham_Soccer",
+    "year": 2002,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Delta Force: Urban Warfare",
+    "url": "/wiki/Delta_Force:_Urban_Warfare",
+    "year": 2002,
+    "month": 7,
+    "day": 2,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Dexter's Laboratory: Mandark's Lab?",
+    "url": "/wiki/Dexter%27s_Laboratory:_Mandark%27s_Lab%3F",
+    "year": 2002,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Digimon World 3",
+    "url": "/wiki/Digimon_World_3",
+    "year": 2002,
+    "month": 6,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Disney's Lilo & Stitch",
+    "url": "/wiki/Lilo_%26_Stitch:_Trouble_in_Paradise",
+    "year": 2002,
+    "month": 6,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Disney's Peter Pan in Return to Neverland",
+    "url": null,
+    "year": 2002,
+    "month": 2,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Dracula 2: The Last Sanctuary",
+    "url": "/wiki/Dracula_2:_The_Last_Sanctuary",
+    "year": 2002,
+    "month": 5,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "E.T.: Interplanetary Mission",
+    "url": "/wiki/E.T.:_Interplanetary_Mission",
+    "year": 2002,
+    "month": 12,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Family Card Game Fun Pack",
+    "url": null,
+    "year": 2002,
+    "month": 9,
+    "day": 26,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "FIFA Football 2003",
+    "url": "/wiki/FIFA_Football_2003",
+    "year": 2002,
+    "month": 11,
+    "day": 11,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Gekioh: Shooting King",
+    "url": "/wiki/Shienryu#Gekioh_Shooting_King",
+    "year": 2002,
+    "month": 12,
+    "day": 17,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Gubble",
+    "url": "/wiki/Gubble",
+    "year": 2002,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Gundam: Battle Assault 2",
+    "url": "/wiki/Gundam:_Battle_Assault_2",
+    "year": 2002,
+    "month": 7,
+    "day": 17,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "url": "/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(video_game)",
+    "year": 2002,
+    "month": 11,
+    "day": 14,
+    "systems": [
+      "Gamecube",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Hooters Road Trip",
+    "url": "/wiki/Hooters_Road_Trip",
+    "year": 2002,
+    "month": 3,
+    "day": 26,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Italian Job",
+    "url": "/wiki/The_Italian_Job_(2001_video_game)",
+    "year": 2002,
+    "month": 5,
+    "day": 3,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Jigsaw Madness",
+    "url": null,
+    "year": 2002,
+    "month": 12,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Jim Henson's Bear in the Big Blue House",
+    "url": null,
+    "year": 2002,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Jungle Book Groove Party",
+    "url": "/wiki/The_Jungle_Book_Groove_Party",
+    "year": 2002,
+    "month": 12,
+    "day": 8,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Kickboxing",
+    "url": "/wiki/Kickboxing",
+    "year": 2002,
+    "month": 3,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Land Before Time: Big Water Adventure",
+    "url": "/wiki/The_Land_Before_Time:_Big_Water_Adventure",
+    "year": 2002,
+    "month": 11,
+    "day": 27,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Largo Winch.//Commando Sar",
+    "url": null,
+    "year": 2002,
+    "month": 2,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Madden NFL 2003",
+    "url": "/wiki/Madden_NFL_2003",
+    "year": 2002,
+    "month": 8,
+    "day": 13,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Marble Master",
+    "url": "/wiki/Marble_Master",
+    "year": 2002,
+    "month": 10,
+    "day": 11,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "MLB 2003",
+    "url": "/wiki/MLB_2003",
+    "year": 2002,
+    "month": 6,
+    "day": 17,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Mobile Armor",
+    "url": null,
+    "year": 2002,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Monster Bass",
+    "url": "/wiki/Monster_Bass",
+    "year": 2002,
+    "month": 12,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "My Disney Kitchen",
+    "url": "/wiki/My_Disney_Kitchen",
+    "year": 2002,
+    "month": 11,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NASCAR Thunder 2003",
+    "url": "/wiki/NASCAR_Thunder_2003",
+    "year": 2002,
+    "month": 9,
+    "day": 19,
+    "systems": [
+      "Gamecube",
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA Live 2003",
+    "url": "/wiki/NBA_Live_2003",
+    "year": 2002,
+    "month": 10,
+    "day": 8,
+    "systems": [
+      "Gamecube",
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA ShootOut 2003",
+    "url": null,
+    "year": 2002,
+    "month": 9,
+    "day": 29,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NFL GameDay 2003",
+    "url": "/wiki/NFL_GameDay_(video_game_series)#NFL_GameDay_2003",
+    "year": 2002,
+    "month": 8,
+    "day": 13,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Paris-Marseille Racing II",
+    "url": null,
+    "year": 2002,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Planet of the Apes",
+    "url": "/wiki/Planet_of_the_Apes_(video_game)",
+    "year": 2002,
+    "month": 7,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Power Play Sports Trivia",
+    "url": null,
+    "year": 2002,
+    "month": 5,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Rageball",
+    "url": null,
+    "year": 2002,
+    "month": 7,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Rayman Rush",
+    "url": "/wiki/Rayman_M",
+    "year": 2002,
+    "month": 3,
+    "day": 26,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "RC Helicopter",
+    "url": null,
+    "year": 2002,
+    "month": 6,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Rescue Copter",
+    "url": null,
+    "year": 2002,
+    "month": 12,
+    "day": 8,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Shrek: Treasure Hunt",
+    "url": "/wiki/Shrek:_Treasure_Hunt",
+    "year": 2002,
+    "month": 10,
+    "day": 18,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Spec Ops: Airborne Commando",
+    "url": "/wiki/Spec_Ops:_Airborne_Commando",
+    "year": 2002,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Sports Superbike 2",
+    "url": null,
+    "year": 2002,
+    "month": 10,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Stuart Little 2",
+    "url": "/wiki/Stuart_Little_2",
+    "year": 2002,
+    "month": 7,
+    "day": 17,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Super Bubble Pop",
+    "url": "/wiki/Super_Bubble_Pop",
+    "year": 2002,
+    "month": 12,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Super Shot Soccer",
+    "url": "/wiki/Super_Shot_Soccer",
+    "year": 2002,
+    "month": 6,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Superstar Dance Club: #1 Hits!!!",
+    "url": null,
+    "year": 2002,
+    "month": 12,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six: Lone Wolf",
+    "url": null,
+    "year": 2002,
+    "month": 7,
+    "day": 4,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tony Hawk's Pro Skater 4",
+    "url": "/wiki/Tony_Hawk%27s_Pro_Skater_4",
+    "year": 2002,
+    "month": 10,
+    "day": 23,
+    "systems": [
+      "Gamecube",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Treasure Planet",
+    "url": "/wiki/Treasure_Planet#Video_games",
+    "year": 2002,
+    "month": 11,
+    "day": 11,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "USA Racer",
+    "url": null,
+    "year": 2002,
+    "month": 5,
+    "day": 10,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Winnie the Pooh: Kindergarten",
+    "url": "/wiki/Winnie_the_Pooh",
+    "year": 2002,
+    "month": 11,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Winnie the Pooh: Preschool",
+    "url": "/wiki/Winnie_the_Pooh",
+    "year": 2002,
+    "month": 11,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "X-Bladez: Inline Skater",
+    "url": null,
+    "year": 2002,
+    "month": 1,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Yu-Gi-Oh! Forbidden Memories",
+    "url": "/wiki/Yu-Gi-Oh!_Forbidden_Memories",
+    "year": 2002,
+    "month": 3,
+    "day": 20,
+    "systems": [
+      "PS1"
     ]
   }
 ]

@@ -220,16 +220,6 @@
     ]
   },
   {
-    "title": "NHL 97",
-    "url": "/wiki/NHL_97",
-    "year": 1996,
-    "month": 10,
-    "day": 31,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "Olympic Summer Games",
     "url": "/wiki/Olympic_Summer_Games_(video_game)",
     "year": 1996,
@@ -650,16 +640,6 @@
     ]
   },
   {
-    "title": "Cyberia",
-    "year": 1996,
-    "month": 1,
-    "day": null,
-    "url": "/wiki/Cyberia_(video_game)",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
     "title": "D",
     "year": 1996,
     "month": 3,
@@ -875,16 +855,6 @@
     "month": 9,
     "day": 3,
     "url": null,
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
-    "title": "In the Hunt",
-    "year": 1996,
-    "month": 3,
-    "day": null,
-    "url": "/wiki/In_the_Hunt",
     "systems": [
       "Sega Saturn"
     ]
@@ -1140,16 +1110,6 @@
     ]
   },
   {
-    "title": "Robo Pit",
-    "year": 1996,
-    "month": null,
-    "day": null,
-    "url": "/wiki/Robo_Pit",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
     "title": "Sega Worldwide Soccer '97",
     "year": 1996,
     "month": 10,
@@ -1220,16 +1180,6 @@
     ]
   },
   {
-    "title": "Space Hulk: Vengeance of the Blood Angels",
-    "year": 1996,
-    "month": null,
-    "day": null,
-    "url": "/wiki/Space_Hulk:_Vengeance_of_the_Blood_Angels",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
     "title": "Space Jam",
     "year": 1996,
     "month": 11,
@@ -1260,31 +1210,11 @@
     ]
   },
   {
-    "title": "Striker '96",
-    "year": 1996,
-    "month": null,
-    "day": null,
-    "url": "/wiki/Striker_%2796",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
     "title": "Tempest 2000",
     "year": 1996,
     "month": 12,
     "day": 20,
     "url": "/wiki/Tempest_2000",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
-    "title": "Tetris Plus",
-    "year": 1996,
-    "month": 10,
-    "day": 18,
-    "url": "/wiki/Tetris_Plus",
     "systems": [
       "Sega Saturn"
     ]
@@ -1445,16 +1375,6 @@
     "month": 5,
     "day": 3,
     "url": "/wiki/WipEout",
-    "systems": [
-      "Sega Saturn"
-    ]
-  },
-  {
-    "title": "World Cup Golf: Professional Edition",
-    "year": 1996,
-    "month": null,
-    "day": null,
-    "url": "/wiki/World_Cup_Golf:_Professional_Edition",
     "systems": [
       "Sega Saturn"
     ]
@@ -1673,6 +1593,1874 @@
     "day": 3,
     "systems": [
       "Nintendo 64"
+    ]
+  },
+  {
+    "title": "16 Tales",
+    "url": "/wiki/16_Tales",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "16 Tales 2",
+    "url": "/wiki/16_Tales",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "16 Tales 3",
+    "url": "/wiki/16_Tales",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "16 Tales 4",
+    "url": "/wiki/16_Tales",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "2Xtreme",
+    "url": "/wiki/2Xtreme",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "3D Baseball",
+    "url": "/wiki/3D_Baseball",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "A-Train",
+    "url": "/wiki/A-Train#A-Train_III",
+    "year": 1996,
+    "month": 6,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Actua Golf",
+    "url": "/wiki/Actua_Golf",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Actua Soccer",
+    "url": "/wiki/Actua_Soccer",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Adidas Power Soccer",
+    "url": "/wiki/Adidas_Power_Soccer",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Adventures of Lomax",
+    "url": "/wiki/The_Adventures_of_Lomax",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Alien Trilogy",
+    "url": "/wiki/Alien_Trilogy",
+    "year": 1996,
+    "month": 2,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Allied General",
+    "url": "/wiki/Allied_General",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Alone in the Dark: One-Eyed Jack's Revenge",
+    "url": "/wiki/Alone_in_the_Dark_2_(video_game)",
+    "year": 1996,
+    "month": 8,
+    "day": 22,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Andretti Racing",
+    "url": "/wiki/Andretti_Racing",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Aquanaut's Holiday",
+    "url": "/wiki/Aquanaut%27s_Holiday",
+    "year": 1996,
+    "month": 7,
+    "day": 7,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Arcade's Greatest Hits: The Atari Collection 1",
+    "url": "/wiki/Arcade%27s_Greatest_Hits:_The_Atari_Collection_1",
+    "year": 1996,
+    "month": 12,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Area 51",
+    "url": "/wiki/Area_51_(1995_video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": 26,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Assault Rigs",
+    "url": "/wiki/Assault_Rigs",
+    "year": 1996,
+    "month": 2,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Batman Forever: The Arcade Game",
+    "url": "/wiki/Batman_Forever:_The_Arcade_Game",
+    "year": 1996,
+    "month": 12,
+    "day": 3,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Battle Arena Toshinden 2",
+    "url": "/wiki/Battle_Arena_Toshinden_2",
+    "year": 1996,
+    "month": 5,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Beyond the Beyond",
+    "url": "/wiki/Beyond_the_Beyond",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Black Dawn",
+    "url": "/wiki/Black_Dawn_(video_game)",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Blast Chamber",
+    "url": "/wiki/Blast_Chamber",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Blazing Dragons",
+    "url": "/wiki/Blazing_Dragons_(video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Blockids",
+    "url": null,
+    "year": 1996,
+    "month": 8,
+    "day": 4,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Blood Omen: Legacy of Kain",
+    "url": "/wiki/Blood_Omen:_Legacy_of_Kain",
+    "year": 1996,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Bogey Dead 6",
+    "url": "/wiki/Bogey_Dead_6",
+    "year": 1996,
+    "month": 8,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Bottom of the 9th",
+    "url": "/wiki/Bottom_of_the_9th",
+    "year": 1996,
+    "month": 4,
+    "day": 4,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Brain Dead 13",
+    "url": "/wiki/Brain_Dead_13",
+    "year": 1996,
+    "month": 3,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Bubble Bobble",
+    "url": "/wiki/Bubble_Bobble",
+    "year": 1996,
+    "month": 9,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Bubsy 3D",
+    "url": "/wiki/Bubsy_3D",
+    "year": 1996,
+    "month": 11,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Burning Road",
+    "url": "/wiki/Burning_Road",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Bust-A-Move 2: Arcade Edition",
+    "url": "/wiki/Bust-A-Move_2:_Arcade_Edition",
+    "year": 1996,
+    "month": 3,
+    "day": 29,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Casper",
+    "url": "/wiki/Casper_(video_game)",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Chessmaster 3D",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Chronicles of the Sword",
+    "url": "/wiki/Chronicles_of_the_Sword",
+    "year": 1996,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "College Slam",
+    "url": "/wiki/College_Slam",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Contra: Legacy of War",
+    "url": "/wiki/Contra:_Legacy_of_War",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Cool Boarders",
+    "url": "/wiki/Cool_Boarders",
+    "year": 1996,
+    "month": 12,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Crash Bandicoot",
+    "url": "/wiki/Crash_Bandicoot_(video_game)",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Criticom",
+    "url": "/wiki/Criticom",
+    "year": 1996,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Crusader: No Remorse",
+    "url": "/wiki/Crusader:_No_Remorse",
+    "year": 1996,
+    "month": 12,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Cyberia",
+    "year": 1996,
+    "month": 1,
+    "day": null,
+    "url": "/wiki/Cyberia_(video_game)",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "D",
+    "url": "/wiki/D_(video_game)",
+    "year": 1996,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Dare Devil Derby 3D",
+    "url": "/wiki/Dare_Devil_Derby_3D",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Darkstalkers: The Night Warriors",
+    "url": "/wiki/Darkstalkers:_The_Night_Warriors",
+    "year": 1996,
+    "month": 3,
+    "day": 28,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Descent",
+    "url": "/wiki/Descent_(1995_video_game)",
+    "year": 1996,
+    "month": 3,
+    "day": 12,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Destruction Derby 2",
+    "url": "/wiki/Destruction_Derby_2",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Die Hard Trilogy",
+    "url": "/wiki/Die_Hard_Trilogy",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Disruptor",
+    "url": "/wiki/Disruptor_(video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Divide: Enemies Within",
+    "url": "/wiki/The_Divide:_Enemies_Within",
+    "year": 1996,
+    "month": 1,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "DragonHeart: Fire & Steel",
+    "url": "/wiki/DragonHeart:_Fire_%26_Steel",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Epidemic",
+    "url": "/wiki/Epidemic_(video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Extreme Pinball",
+    "url": "/wiki/Extreme_Pinball",
+    "year": 1996,
+    "month": 3,
+    "day": 28,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Fade to Black",
+    "url": "/wiki/Fade_to_Black_(video_game)",
+    "year": 1996,
+    "month": 6,
+    "day": 28,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "FIFA 97",
+    "url": "/wiki/FIFA_97",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Final Doom",
+    "url": "/wiki/Final_Doom",
+    "year": 1996,
+    "month": 10,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Final Round",
+    "url": "/wiki/The_Final_Round",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Floating Runner",
+    "url": "/wiki/Floating_Runner",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Formula 1",
+    "url": "/wiki/Formula_1_(video_game)",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Fox Hunt",
+    "url": "/wiki/Fox_Hunt_(video_game)",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Frank Thomas Big Hurt Baseball",
+    "url": "/wiki/Frank_Thomas_Big_Hurt_Baseball",
+    "year": 1996,
+    "month": 6,
+    "day": 5,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Grid Runner",
+    "url": "/wiki/Grid_Runner",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Gunship",
+    "url": "/wiki/Gunship_2000",
+    "year": 1996,
+    "month": 7,
+    "day": 3,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "HardBall 5",
+    "url": "/wiki/HardBall_5",
+    "year": 1996,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The Hive",
+    "url": "/wiki/The_Hive_(video_game)",
+    "year": 1996,
+    "month": 7,
+    "day": 27,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Impact Racing",
+    "url": null,
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "In the Hunt",
+    "year": 1996,
+    "month": 3,
+    "day": null,
+    "url": "/wiki/In_the_Hunt",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "International Track & Field",
+    "url": "/wiki/International_Track_%26_Field",
+    "year": 1996,
+    "month": 6,
+    "day": 28,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Iron and Blood",
+    "url": "/wiki/Iron_and_Blood",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Iron Man and X-O Manowar in Heavy Metal",
+    "url": "/wiki/Iron_Man_and_X-O_Manowar_in_Heavy_Metal",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Jet Moto",
+    "url": "/wiki/Jet_Moto_(video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Johnny Bazookatone",
+    "url": "/wiki/Johnny_Bazookatone",
+    "year": 1996,
+    "month": 2,
+    "day": 22,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Jumping Flash! 2",
+    "url": "/wiki/Jumping_Flash!_2",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Killing Zone",
+    "url": "/wiki/Killing_Zone",
+    "year": 1996,
+    "month": 7,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "The King of Fighters '95",
+    "url": "/wiki/The_King_of_Fighters_%2795",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "King's Field II",
+    "url": "/wiki/King%27s_Field_II",
+    "year": 1996,
+    "month": 2,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "King's Field III",
+    "url": "/wiki/King%27s_Field_III",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Krazy Ivan",
+    "url": "/wiki/Krazy_Ivan",
+    "year": 1996,
+    "month": 2,
+    "day": 15,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: Amrita's Tree Credito and the Coyote",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: Far-Fetched Frontier Tales",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: Lety's Favorite Stories",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: Pop-Out Prose",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: The Adventures of Adelita and Bo",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Liquid Books: The Wandering Path",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Machine Head",
+    "url": "/wiki/Machine_Head_(video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Madden NFL 97",
+    "url": "/wiki/Madden_NFL_97",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Magic Carpet",
+    "url": "/wiki/Magic_Carpet_(video_game)",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "MLB Pennant Race",
+    "url": "/wiki/MLB_Pennant_Race",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Mortal Kombat Trilogy",
+    "url": "/wiki/Mortal_Kombat_Trilogy",
+    "year": 1996,
+    "month": 10,
+    "day": 10,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Motor Toon Grand Prix 2",
+    "url": "/wiki/Motor_Toon_Grand_Prix_2",
+    "year": 1996,
+    "month": 6,
+    "day": 10,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Myst",
+    "url": "/wiki/Myst",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NAMCO Museum Vol. 1",
+    "url": "/wiki/Namco_Museum_Volume_1",
+    "year": 1996,
+    "month": 7,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NAMCO Museum Vol. 2",
+    "url": "/wiki/Namco_Museum#Namco_Museum_Volume_2",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NASCAR Racing",
+    "url": "/wiki/NASCAR_Racing",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA In The Zone 2",
+    "url": "/wiki/NBA_In_The_Zone_2",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA Jam Extreme",
+    "url": "/wiki/NBA_Jam_Extreme",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA Live 96",
+    "url": "/wiki/NBA_Live_96",
+    "year": 1996,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA Live 97",
+    "url": "/wiki/NBA_Live_97",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NBA ShootOut",
+    "url": "/wiki/NBA_ShootOut_(video_game)",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NCAA Gamebreaker",
+    "url": "/wiki/NCAA_Gamebreaker",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NFL Full Contact",
+    "url": null,
+    "year": 1996,
+    "month": 8,
+    "day": 28,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NFL GameDay",
+    "url": "/wiki/NFL_GameDay_(video_game)",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NFL GameDay 97",
+    "url": "/wiki/NFL_GameDay_97",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NFL Quarterback Club 97",
+    "url": "/wiki/NFL_Quarterback_Club_97",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NHL 97",
+    "url": "/wiki/NHL_97",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "SNES",
+      "PS1"
+    ]
+  },
+  {
+    "title": "NHL FaceOff '97",
+    "url": "/wiki/NHL_FaceOff_%2797",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NHL Open Ice: 2 on 2 Challenge",
+    "url": null,
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "NHL PowerPlay '96",
+    "url": "/wiki/NHL_PowerPlay_%2796",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Olympic Soccer: Atlanta 1996",
+    "url": "/wiki/Olympic_Soccer:_Atlanta_1996",
+    "year": 1996,
+    "month": 7,
+    "day": 18,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Olympic Summer Games",
+    "url": "/wiki/Olympic_Summer_Games_(video_game)",
+    "year": 1996,
+    "month": 7,
+    "day": 23,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Pandemonium!",
+    "url": "/wiki/Pandemonium!_(video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Perfect Weapon",
+    "url": "/wiki/Perfect_Weapon_(video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Persona",
+    "url": "/wiki/Revelations:_Persona",
+    "year": 1996,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "PGA Tour 97",
+    "url": "/wiki/PGA_Tour_97",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Philosoma",
+    "url": "/wiki/Philosoma",
+    "year": 1996,
+    "month": 1,
+    "day": 18,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Pitball",
+    "url": "/wiki/Pitball",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Power Move Pro Wrestling",
+    "url": "/wiki/Power_Move_Pro_Wrestling",
+    "year": 1996,
+    "month": 11,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Power Rangers Zeo Full Tilt Battle Pinball",
+    "url": null,
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Pro Pinball: The Web",
+    "url": "/wiki/Pro_Pinball:_The_Web",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Project Horned Owl",
+    "url": "/wiki/Project_Horned_Owl",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Project Overkill",
+    "url": "/wiki/Project_Overkill",
+    "year": 1996,
+    "month": 8,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Psychic Detective",
+    "url": "/wiki/Psychic_Detective_(video_game)",
+    "year": 1996,
+    "month": 3,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "RayStorm",
+    "url": "/wiki/RayStorm",
+    "year": 1996,
+    "month": 12,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Re-Loaded",
+    "url": "/wiki/Re-Loaded",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Resident Evil",
+    "url": "/wiki/Resident_Evil_(1996_video_game)",
+    "year": 1996,
+    "month": 3,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Return Fire",
+    "url": "/wiki/Return_Fire",
+    "year": 1996,
+    "month": 4,
+    "day": 12,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Revolution X",
+    "url": "/wiki/Revolution_X",
+    "year": 1996,
+    "month": 1,
+    "day": 4,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Ridge Racer Revolution",
+    "url": "/wiki/Ridge_Racer_Revolution",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Rise 2: Resurrection",
+    "url": "/wiki/Rise_2:_Resurrection",
+    "year": 1996,
+    "month": 3,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Road & Track Presents: The Need for Speed",
+    "url": "/wiki/The_Need_for_Speed",
+    "year": 1996,
+    "month": 3,
+    "day": 20,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Robo Pit",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Robo_Pit",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Robotron X",
+    "url": "/wiki/Robotron_X",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Romance of the Three Kingdoms IV: Wall of Fire",
+    "url": "/wiki/Romance_of_the_Three_Kingdoms_IV:_Wall_of_Fire",
+    "year": 1996,
+    "month": 3,
+    "day": 10,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Samurai Shodown III: Blades of Blood",
+    "url": "/wiki/Samurai_Shodown_III:_Blades_of_Blood",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Shellshock",
+    "url": "/wiki/Shellshock_(video_game)",
+    "year": 1996,
+    "month": 6,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Silverload",
+    "url": "/wiki/Silverload",
+    "year": 1996,
+    "month": 5,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "SimCity 2000",
+    "url": "/wiki/SimCity_2000",
+    "year": 1996,
+    "month": 7,
+    "day": 6,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Skeleton Warriors",
+    "url": "/wiki/Skeleton_Warriors_(video_game)",
+    "year": 1996,
+    "month": 5,
+    "day": 22,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Slam 'n' Jam 96 featuring Magic & Kareem",
+    "url": null,
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Slamscape",
+    "url": "/wiki/Slamscape",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Soviet Strike",
+    "url": "/wiki/Soviet_Strike",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Space Hulk: Vengeance of the Blood Angels",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Space_Hulk:_Vengeance_of_the_Blood_Angels",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Space Jam",
+    "url": "/wiki/Space_Jam_(video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Spot Goes To Hollywood",
+    "url": "/wiki/Spot_Goes_To_Hollywood",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Star Fighter",
+    "url": "/wiki/Star_Fighter_(video_game)",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Star Gladiator Episode I: Final Crusade",
+    "url": "/wiki/Star_Gladiator_Episode_I:_Final_Crusade",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Star Wars: Dark Forces",
+    "url": "/wiki/Star_Wars:_Dark_Forces",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Star Wars: Rebel Assault II: The Hidden Empire",
+    "url": "/wiki/Star_Wars:_Rebel_Assault_II:_The_Hidden_Empire",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Starblade Alpha",
+    "url": "/wiki/Starblade_Alpha",
+    "year": 1996,
+    "month": 4,
+    "day": 27,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Starwinder",
+    "url": "/wiki/Starwinder",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Steel Harbinger",
+    "url": "/wiki/Steel_Harbinger",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Street Fighter Alpha: Warrior's Dreams",
+    "url": "/wiki/Street_Fighter_Alpha",
+    "year": 1996,
+    "month": 2,
+    "day": 7,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Street Fighter Alpha 2",
+    "url": "/wiki/Street_Fighter_Alpha_2",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Street Racer",
+    "url": "/wiki/Street_Racer_(1994_video_game)",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Strike Point",
+    "url": null,
+    "year": 1996,
+    "month": 9,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Striker '96",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/Striker_%2796",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Suikoden",
+    "url": "/wiki/Suikoden_(video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Super Puzzle Fighter II Turbo",
+    "url": "/wiki/Super_Puzzle_Fighter_II_Turbo",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tecmo Super Bowl",
+    "url": "/wiki/Tecmo_Super_Bowl",
+    "year": 1996,
+    "month": 8,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tecmo World Golf",
+    "url": null,
+    "year": 1996,
+    "month": 6,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tecmo's Deception: Invitation to Darkness",
+    "url": "/wiki/Tecmo%27s_Deception:_Invitation_to_Darkness",
+    "year": 1996,
+    "month": 7,
+    "day": 25,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tekken 2",
+    "url": "/wiki/Tekken_2",
+    "year": 1996,
+    "month": 10,
+    "day": 2,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tempest X3",
+    "url": "/wiki/Tempest_2000",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Ten Pin Alley",
+    "url": "/wiki/Ten_Pin_Alley",
+    "year": 1996,
+    "month": 11,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tetris Plus",
+    "year": 1996,
+    "month": 10,
+    "day": 18,
+    "url": "/wiki/Tetris_Plus",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Theme Park",
+    "url": "/wiki/Theme_Park_(video_game)",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Time Commando",
+    "url": "/wiki/Time_Commando",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "TNN Motor Sports Hardcore 4x4",
+    "url": "/wiki/TNN_Motor_Sports_Hardcore_4x4",
+    "year": 1996,
+    "month": 10,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tobal No. 1",
+    "url": "/wiki/Tobal_No._1",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tokyo Highway Battle",
+    "url": "/wiki/Tokyo_Highway_Battle",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tomb Raider",
+    "url": "/wiki/Tomb_Raider_(1996_video_game)",
+    "year": 1996,
+    "month": 11,
+    "day": 14,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Top Gun: Fire At Will",
+    "url": "/wiki/Top_Gun:_Fire_At_Will",
+    "year": 1996,
+    "month": 6,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Triple Play 97",
+    "url": "/wiki/Triple_Play_97",
+    "year": 1996,
+    "month": 7,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "True Pinball",
+    "url": "/wiki/True_Pinball",
+    "year": 1996,
+    "month": 9,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Tunnel B1",
+    "url": "/wiki/Tunnel_B1",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Twisted Metal 2",
+    "url": "/wiki/Twisted_Metal_2",
+    "year": 1996,
+    "month": 10,
+    "day": 31,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "V-Tennis",
+    "url": null,
+    "year": 1996,
+    "month": 5,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Warhammer: Shadow of the Horned Rat",
+    "url": "/wiki/Warhammer:_Shadow_of_the_Horned_Rat",
+    "year": 1996,
+    "month": 11,
+    "day": 1,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Williams Arcade's Greatest Hits",
+    "url": "/wiki/Williams_Arcade%27s_Greatest_Hits",
+    "year": 1996,
+    "month": 4,
+    "day": 10,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Wing Commander III: Heart of the Tiger",
+    "url": "/wiki/Wing_Commander_III:_Heart_of_the_Tiger",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "Wipeout XL",
+    "url": "/wiki/Wipeout_2097",
+    "year": 1996,
+    "month": 9,
+    "day": 30,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "World Cup Golf: Professional Edition",
+    "year": 1996,
+    "month": null,
+    "day": null,
+    "url": "/wiki/World_Cup_Golf:_Professional_Edition",
+    "systems": [
+      "Sega Saturn",
+      "PS1"
+    ]
+  },
+  {
+    "title": "Worms",
+    "url": "/wiki/Worms_(1995_video_game)",
+    "year": 1996,
+    "month": 8,
+    "day": 7,
+    "systems": [
+      "PS1"
+    ]
+  },
+  {
+    "title": "WWF in Your House",
+    "url": "/wiki/WWF_in_Your_House",
+    "year": 1996,
+    "month": 11,
+    "day": 21,
+    "systems": [
+      "PS1"
     ]
   }
 ]
