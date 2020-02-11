@@ -1,7 +1,7 @@
 {
   "name": "video-games-by-year",
   "description": "An archive of all video games released, filtered by year and console",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "Geddy <g3ddylee@gmail.com>",
   "license": "MIT",
   "private": true,
@@ -46,6 +46,6 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.11.5",
-    "wikipedia-table-scraper": "git+https://git@github.com/gedrick/wikipedia-table-scraper.git#0.0.2"
+    "wikipedia-table-scraper": "git+https://git@github.com/gedrick/wikipedia-table-scraper.git#0.0.4"
   }
 }
