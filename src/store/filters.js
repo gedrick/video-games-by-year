@@ -13,9 +13,9 @@ const getters = {
 };
 
 const actions = {
-  initializeFilters({commit}) {
-    const year = new Date().getUTCFullYear();
-    commit('toggleYear', year);
+  initializeFilters({ commit }) {
+    // const year = new Date().getUTCFullYear();
+    // commit('toggleYear', year);
   }
 };
 
