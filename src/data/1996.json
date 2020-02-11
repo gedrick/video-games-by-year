@@ -1594,5 +1594,85 @@
     "systems": [
       "Virtual Boy"
     ]
+  },
+  {
+    "title": "Super Mario 64",
+    "url": "/wiki/Super_Mario_64",
+    "year": 1996,
+    "month": 9,
+    "day": 29,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Pilotwings 64",
+    "url": "/wiki/Pilotwings_64",
+    "year": 1996,
+    "month": 9,
+    "day": 29,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Wave Race 64",
+    "url": "/wiki/Wave_Race_64",
+    "year": 1996,
+    "month": 11,
+    "day": 1,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Mortal Kombat Trilogy",
+    "url": "/wiki/Mortal_Kombat_Trilogy",
+    "year": 1996,
+    "month": 11,
+    "day": 11,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Wayne Gretzky's 3D Hockey",
+    "url": "/wiki/Wayne_Gretzky%27s_3D_Hockey",
+    "year": 1996,
+    "month": 11,
+    "day": 11,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Killer Instinct Gold",
+    "url": "/wiki/Killer_Instinct_Gold",
+    "year": 1996,
+    "month": 11,
+    "day": 25,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Cruis'n USA",
+    "url": "/wiki/Cruis%27n_USA",
+    "year": 1996,
+    "month": 12,
+    "day": 3,
+    "systems": [
+      "Nintendo 64"
+    ]
+  },
+  {
+    "title": "Star Wars: Shadows of the Empire",
+    "url": "/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)",
+    "year": 1996,
+    "month": 12,
+    "day": 3,
+    "systems": [
+      "Nintendo 64"
+    ]
   }
 ]
