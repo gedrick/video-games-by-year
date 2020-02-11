@@ -1574,5 +1574,25 @@
       "SNES",
       "Sega Saturn"
     ]
+  },
+  {
+    "title": "3D Tetris",
+    "url": "/wiki/3D_Tetris",
+    "year": 1996,
+    "month": 3,
+    "day": 22,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Nester's Funky Bowling",
+    "url": "/wiki/Nester%27s_Funky_Bowling",
+    "year": 1996,
+    "month": 2,
+    "day": 26,
+    "systems": [
+      "Virtual Boy"
+    ]
   }
 ]

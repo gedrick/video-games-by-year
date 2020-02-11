@@ -1641,5 +1641,125 @@
       "SNES",
       "Sega Saturn"
     ]
+  },
+  {
+    "title": "Galactic Pinball",
+    "url": "/wiki/Galactic_Pinball",
+    "year": 1995,
+    "month": 8,
+    "day": 14,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Golf",
+    "url": "/wiki/Golf_(1995_video_game)",
+    "year": 1995,
+    "month": 11,
+    "day": 1,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Jack Bros.",
+    "url": "/wiki/Jack_Bros.",
+    "year": 1995,
+    "month": 10,
+    "day": 20,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Mario Clash",
+    "url": "/wiki/Mario_Clash",
+    "year": 1995,
+    "month": 10,
+    "day": 1,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Mario's Tennis",
+    "url": "/wiki/Mario%27s_Tennis",
+    "year": 1995,
+    "month": 8,
+    "day": 14,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Panic Bomber",
+    "url": "/wiki/Bomberman:_Panic_Bomber",
+    "year": 1995,
+    "month": 12,
+    "day": 1,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Red Alarm",
+    "url": "/wiki/Red_Alarm",
+    "year": 1995,
+    "month": 8,
+    "day": 14,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Teleroboxer",
+    "url": "/wiki/Teleroboxer",
+    "year": 1995,
+    "month": 8,
+    "day": 14,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Vertical Force",
+    "url": "/wiki/Vertical_Force",
+    "year": 1995,
+    "month": 12,
+    "day": 1,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Virtual Boy Wario Land",
+    "url": "/wiki/Virtual_Boy_Wario_Land",
+    "year": 1995,
+    "month": 11,
+    "day": 27,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Virtual League Baseball",
+    "url": "/wiki/Virtual_League_Baseball",
+    "year": 1995,
+    "month": 9,
+    "day": 11,
+    "systems": [
+      "Virtual Boy"
+    ]
+  },
+  {
+    "title": "Waterworld",
+    "url": "/wiki/Waterworld_(video_game)",
+    "year": 1995,
+    "month": 12,
+    "day": 21,
+    "systems": [
+      "Virtual Boy"
+    ]
   }
 ]
