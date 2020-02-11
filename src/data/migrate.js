@@ -1,4 +1,4 @@
-const games = require('./snes.json');
+const games = require('./output.json');
 const fs = require('fs')
 
 const overwrite = false;
@@ -7,6 +7,14 @@ let totals = {
   updated: 0,
   new: 0,
   skipped: 0
+}
+
+const testMode = false;
+
+function writeFile(fileName, data, force = false) {
+  if (!testMode || force) {
+    fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
+  }
 }
 
 games.forEach(game => {
@@ -31,14 +39,14 @@ games.forEach(game => {
 
   if (!matchExists) {
     dataJson.push(game);
-    fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
-    console.log('\Game added to file.');
+    writeFile(`./${year}.json`, dataJson);
+    // console.log('\tGame added to file.');
     totals.new++;
   } else if (matchExists && overwrite) {
     dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
     dataJson.push(game);
-    fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
-    console.log('\Game entry updated.');
+    writeFile(`./${year}.json`, dataJson);
+    console.log('\tGame entry updated.');
     totals.overwritten++;
   } else {
     const matchedGame = dataJson.find(gameObject => gameObject.title === gameName);
@@ -48,9 +56,9 @@ games.forEach(game => {
     if (game.year === matchedGame.year &&
       game.month === matchedGame.month &&
       game.day === matchedGame.day) {
+
       // Both releases went out on the same day. Just add the new system.
       game.systems.forEach(system => {
-        // console.log(matchedGame.systems);
 
         if (!matchedGame.systems.includes(system)) {
           // console.log('Does not exist, adding ' + system);
@@ -65,7 +73,7 @@ games.forEach(game => {
         // Remove the old, re-add the new.
         dataJson = dataJson.filter(gameObject => gameObject.title !== gameName);
         dataJson.push(matchedGame);
-        fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
+        writeFile(`./${year}.json`, dataJson);
 
         console.log(`${game.title}\tGame record was updated`);
         totals.updated++;
@@ -74,7 +82,7 @@ games.forEach(game => {
       }
     } else {
       dataJson.push(game);
-      fs.writeFileSync(`./${year}.json`, JSON.stringify(dataJson, null, 2));
+      writeFile(`./${year}.json`, dataJson);
       totals.new++;
     }
   }

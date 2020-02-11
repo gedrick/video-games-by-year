@@ -250,16 +250,6 @@
     ]
   },
   {
-    "title": "Bram Stoker's Dracula",
-    "url": "/wiki/Bram_Stoker%27s_Dracula_(video_game)",
-    "year": 1993,
-    "month": 9,
-    "day": null,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
     "title": "Brawl Brothers",
     "url": "/wiki/Brawl_Brothers",
     "year": 1993,
@@ -704,16 +694,6 @@
     "url": "/wiki/Lamborghini_American_Challenge",
     "year": 1993,
     "month": 11,
-    "day": null,
-    "systems": [
-      "SNES"
-    ]
-  },
-  {
-    "title": "Last Action Hero",
-    "url": "/wiki/Last_Action_Hero_(video_game)",
-    "year": 1993,
-    "month": 10,
     "day": null,
     "systems": [
       "SNES"
@@ -1777,6 +1757,438 @@
     "day": 24,
     "systems": [
       "SNES"
+    ]
+  },
+  {
+    "title": "The Addams Family: Pugsley's Scavenger Hunt",
+    "url": "/wiki/The_Addams_Family:_Pugsley%27s_Scavenger_Hunt",
+    "year": 1993,
+    "month": 8,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Advanced Dungeons & Dragons: Hillsfar",
+    "url": "/wiki/Hillsfar",
+    "year": 1993,
+    "month": 2,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Alien3",
+    "url": "/wiki/Alien_3_(video_game)",
+    "year": 1993,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Bases Loaded 4",
+    "url": "/wiki/Bases_Loaded_4",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Batman Returns",
+    "url": "/wiki/Batman_Returns_(video_game)",
+    "year": 1993,
+    "month": 1,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Battleship",
+    "url": "/wiki/Battleship_(1993_video_game)",
+    "year": 1993,
+    "month": 9,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Battletoads & Double Dragon",
+    "url": "/wiki/Battletoads_%26_Double_Dragon",
+    "year": 1993,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Bomberman II",
+    "url": "/wiki/Bomberman_II",
+    "year": 1993,
+    "month": 2,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Bram Stoker's Dracula",
+    "url": "/wiki/Bram_Stoker%27s_Dracula_(video_game)",
+    "year": 1993,
+    "month": 9,
+    "day": null,
+    "systems": [
+      "SNES",
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Break Time: The National Pool Tour",
+    "url": "/wiki/Break_Time:_The_National_Pool_Tour",
+    "year": 1993,
+    "month": 1,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Bubble Bobble Part 2",
+    "url": "/wiki/Bubble_Bobble_Part_2",
+    "year": 1993,
+    "month": 8,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Casino Kid 2",
+    "url": "/wiki/Casino_Kid_2",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Championship Pool",
+    "url": "/wiki/Championship_Pool",
+    "year": 1993,
+    "month": 10,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Cliffhanger",
+    "url": "/wiki/Cliffhanger_(video_game)",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Color a Dinosaur",
+    "url": "/wiki/Color_a_Dinosaur",
+    "year": 1993,
+    "month": 7,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Cool World",
+    "url": "/wiki/Cool_World_(NES_video_game)",
+    "year": 1993,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "DuckTales 2",
+    "url": "/wiki/DuckTales_2",
+    "year": 1993,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Fire 'n Ice",
+    "url": "/wiki/Fire_%27n_Ice",
+    "year": 1993,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade",
+    "url": "/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Action_Game",
+    "year": 1993,
+    "month": 12,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Jimmy Connors Tennis",
+    "url": "/wiki/Jimmy_Connors_Tennis",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Jurassic Park",
+    "url": "/wiki/Jurassic_Park_(NES_video_game)",
+    "year": 1993,
+    "month": 6,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Kid Klown in Night Mayor World",
+    "url": "/wiki/Kid_Klown_in_Night_Mayor_World",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Kirby's Adventure",
+    "url": "/wiki/Kirby%27s_Adventure",
+    "year": 1993,
+    "month": 5,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Last Action Hero",
+    "url": "/wiki/Last_Action_Hero_(video_game)",
+    "year": 1993,
+    "month": 10,
+    "day": null,
+    "systems": [
+      "SNES",
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Lethal Weapon",
+    "url": "/wiki/Lethal_Weapon_(video_game)",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Mario Is Missing!",
+    "url": "/wiki/Mario_Is_Missing!",
+    "year": 1993,
+    "month": 7,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Mickey's Safari in Letterland",
+    "url": "/wiki/Mickey%27s_Safari_in_Letterland",
+    "year": 1993,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Mighty Final Fight",
+    "url": "/wiki/Mighty_Final_Fight",
+    "year": 1993,
+    "month": 7,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Ms. Pac-Man",
+    "url": "/wiki/Ms._Pac-Man",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Nigel Mansell's World Championship Racing",
+    "url": "/wiki/Nigel_Mansell%27s_World_Championship_Racing",
+    "year": 1993,
+    "month": 10,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Overlord",
+    "url": "/wiki/Overlord_(1990_video_game)",
+    "year": 1993,
+    "month": 1,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Pac-Man",
+    "url": "/wiki/Pac-Man",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Pro Sport Hockey",
+    "url": "/wiki/Pro_Sport_Hockey",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "The Ren & Stimpy Show: Buckaroo$!",
+    "url": "/wiki/The_Ren_%26_Stimpy_Show#Video_games",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Rollerblade Racer",
+    "url": "/wiki/Rollerblade_Racer",
+    "year": 1993,
+    "month": 2,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Star Trek: The Next Generation",
+    "url": "/wiki/Star_Trek:_The_Next_Generation_(1993_video_game)",
+    "year": 1993,
+    "month": 9,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Tetris 2",
+    "url": "/wiki/Tetris_2_(1993_video_game)",
+    "year": 1993,
+    "month": 10,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Tiny Toon Adventures 2: Trouble in Wackyland",
+    "url": "/wiki/Tiny_Toon_Adventures_2:_Trouble_in_Wackyland",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Ultima V: Warriors of Destiny",
+    "url": "/wiki/Ultima_V:_Warriors_of_Destiny",
+    "year": 1993,
+    "month": 1,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Wayne's World",
+    "url": "/wiki/Wayne%27s_World_(video_game)",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "WWF King of the Ring",
+    "url": "/wiki/WWF_King_of_the_Ring",
+    "year": 1993,
+    "month": 11,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Yoshi's Cookie",
+    "url": "/wiki/Yoshi%27s_Cookie",
+    "year": 1993,
+    "month": 4,
+    "day": null,
+    "systems": [
+      "Nintendo"
+    ]
+  },
+  {
+    "title": "Zen the Intergalactic Ninja",
+    "url": "/wiki/Zen_the_Intergalactic_Ninja",
+    "year": 1993,
+    "month": 3,
+    "day": null,
+    "systems": [
+      "Nintendo"
     ]
   }
 ]

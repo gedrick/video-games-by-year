@@ -6,13 +6,13 @@
 - [ ] Nintendo 64
   - [x] Scraped
   - [ ] Migrated
-- [ ] Nintendo Entertainment System
+- [x] Nintendo Entertainment System
   - [x] Scraped
-  - [ ] Migrated
+  - [x] Migrated
 - [ ] Neo Geo
-- [ ] Virtual Boy
+- [x] Virtual Boy
   - [x] Scraped
-  - [ ] Migrated
+  - [x] Migrated
 - [ ] Gameboy
 - [ ] Gamecube
   - [x] Scraped
@@ -20,6 +20,8 @@
 - [ ] Gameboy Color
 - [ ] Game Gear
 - [ ] Dreamcast
+- [ ] Xbox
+- [ ] Xbox 360
 
 # Features
 

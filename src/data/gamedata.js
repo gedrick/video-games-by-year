@@ -1,3 +1,9 @@
+import * as games1985 from '../data/1985.json';
+import * as games1986 from '../data/1986.json';
+import * as games1987 from '../data/1987.json';
+import * as games1988 from '../data/1988.json';
+import * as games1989 from '../data/1989.json';
+import * as games1990 from '../data/1990.json';
 import * as games1991 from '../data/1991.json';
 import * as games1992 from '../data/1992.json';
 import * as games1993 from '../data/1993.json';
@@ -22,6 +28,12 @@ import * as games2019 from '../data/2019.json';
 import * as games2020 from '../data/2020.json';
 
 export default {
+  1985: games1985,
+  1986: games1986,
+  1987: games1987,
+  1988: games1988,
+  1989: games1989,
+  1990: games1990,
   1991: games1991,
   1992: games1992,
   1993: games1993,
