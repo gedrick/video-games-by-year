@@ -9,10 +9,10 @@ let totals = {
   skipped: 0
 }
 
-const testMode = false;
+const dryRun = true;
 
 function writeFile(fileName, data, force = false) {
-  if (!testMode || force) {
+  if (!dryRun || force) {
     fs.writeFileSync(fileName, JSON.stringify(data, null, 2));
   }
 }
