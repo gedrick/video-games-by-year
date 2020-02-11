@@ -40,9 +40,11 @@ export default function mapSystem(system) {
     case 'NS':
     case 'NINTENDO SWITCH':
       return 'Switch';
+    case 'PS1':
+      return 'Playstation';
     case 'PS2':
     case 'PLAYSTATION 2':
-      return 'PS2';
+      return 'Playstation 2';
     case 'PS3':
     case 'PLAYSTATION 3':
       return 'PS3';
@@ -67,7 +69,7 @@ export default function mapSystem(system) {
       return 'PSN';
     case 'SUPER NINTENDO':
     case 'SNES':
-      return 'SNES';
+      return 'Super Nintendo';
     case 'STEAM':
     case 'WIN':
     case 'WIN 10':
