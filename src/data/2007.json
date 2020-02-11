@@ -2061,25 +2061,6 @@
   {
     "year": 2007,
     "month": 6,
-    "url": "/wiki/Ratatouille_(video_game)",
-    "day": 26,
-    "title": "Ratatouille",
-    "systems": [
-      "Wii",
-      "X360",
-      "PS2",
-      "Xbox",
-      "NDS",
-      "GCN",
-      "GBA",
-      "PSP",
-      "Win",
-      "Mac"
-    ]
-  },
-  {
-    "year": 2007,
-    "month": 6,
     "url": "/wiki/Switchball",
     "day": 26,
     "title": "Switchball",
@@ -2459,24 +2440,6 @@
     "title": "Heroes of Mana",
     "systems": [
       "NDS"
-    ]
-  },
-  {
-    "year": 2007,
-    "month": 8,
-    "url": "/wiki/Madden_NFL_08",
-    "day": 14,
-    "title": "Madden NFL 08",
-    "systems": [
-      "GCN",
-      "NDS",
-      "PS2",
-      "PS3",
-      "PSP",
-      "Wii",
-      "Xbox",
-      "X360",
-      "Win"
     ]
   },
   {
@@ -3787,16 +3750,6 @@
     "title": "Castlevania: The Dracula X Chronicles",
     "systems": [
       "PSP"
-    ]
-  },
-  {
-    "year": 2007,
-    "month": 10,
-    "url": "/wiki/Ratatouille_(video_game)",
-    "day": 23,
-    "title": "Ratatouille",
-    "systems": [
-      "PS3"
     ]
   },
   {
@@ -5332,6 +5285,75 @@
     "title": "SpongeBob SquarePants: Underpants Slam",
     "systems": [
       "XBLA"
+    ]
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "url": "/wiki/Madden_NFL_08",
+    "day": 14,
+    "title": "Madden NFL 08",
+    "systems": [
+      "GCN",
+      "NDS",
+      "PS2",
+      "PS3",
+      "PSP",
+      "Wii",
+      "Xbox",
+      "X360",
+      "Win",
+      "Gamecube"
+    ]
+  },
+  {
+    "title": "Meet the Robinsons",
+    "url": "/wiki/Meet_the_Robinsons_(video_game)",
+    "year": 2007,
+    "month": 3,
+    "day": 27,
+    "systems": [
+      "Gamecube"
+    ]
+  },
+  {
+    "year": 2007,
+    "month": 6,
+    "url": "/wiki/Ratatouille_(video_game)",
+    "day": 26,
+    "title": "Ratatouille",
+    "systems": [
+      "Wii",
+      "X360",
+      "PS2",
+      "Xbox",
+      "NDS",
+      "GCN",
+      "GBA",
+      "PSP",
+      "Win",
+      "Mac",
+      "Gamecube"
+    ]
+  },
+  {
+    "title": "Surf's Up",
+    "url": "/wiki/Surf%27s_Up_(video_game)",
+    "year": 2007,
+    "month": 6,
+    "day": 1,
+    "systems": [
+      "Gamecube"
+    ]
+  },
+  {
+    "title": "TMNT",
+    "url": "/wiki/TMNT_(video_game)",
+    "year": 2007,
+    "month": 3,
+    "day": 20,
+    "systems": [
+      "Gamecube"
     ]
   }
 ]

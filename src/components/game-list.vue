@@ -6,7 +6,7 @@
     <div class="search-results">
       <game-pill
         v-for="game in searchResults"
-        :key="`${game.year}-${game.month}-${game.day}-${game.title}`"
+        :key="`${game.year}-${game.month}-${game.day}-${game.title}-${game.systems.join('-')}`"
         :game="game"
       />
     </div>

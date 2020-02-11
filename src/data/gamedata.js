@@ -16,6 +16,10 @@ import * as games1999 from '../data/1999.json';
 import * as games2000 from '../data/2000.json';
 import * as games2001 from '../data/2001.json';
 import * as games2002 from '../data/2002.json';
+import * as games2003 from '../data/2003.json';
+import * as games2004 from '../data/2004.json';
+import * as games2005 from '../data/2005.json';
+import * as games2006 from '../data/2006.json';
 import * as games2007 from '../data/2007.json';
 import * as games2008 from '../data/2008.json';
 import * as games2009 from '../data/2009.json';
@@ -50,6 +54,10 @@ export default {
   2000: games2000,
   2001: games2001,
   2002: games2002,
+  2003: games2003,
+  2004: games2004,
+  2005: games2005,
+  2006: games2006,
   2007: games2007,
   2008: games2008,
   2009: games2009,

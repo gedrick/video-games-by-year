@@ -3,20 +3,14 @@
 - [x] Super Nintendo
 - [x] Sega Saturn
 - [ ] Gameboy Advance [no month/day available]
-- [ ] Nintendo 64
-  - [x] Scraped
-  - [ ] Migrated
+- [ ] Playstation
+- [ ] Playstation 2
+- [x] Nintendo 64
 - [x] Nintendo Entertainment System
-  - [x] Scraped
-  - [x] Migrated
 - [ ] Neo Geo
 - [x] Virtual Boy
-  - [x] Scraped
-  - [x] Migrated
 - [ ] Gameboy
-- [ ] Gamecube
-  - [x] Scraped
-  - [ ] Migrated
+- [x] Gamecube
 - [ ] Gameboy Color
 - [ ] Game Gear
 - [ ] Dreamcast
