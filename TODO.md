@@ -15,7 +15,7 @@
 - [x] Gamecube
 - [ ] Gameboy Color
 - [ ] Gameboy Advance [no month/day available]
-- [ ] Game Gear
+- [x] Game Gear
 - [ ] Dreamcast
 - [x] Xbox
 - [ ] Xbox 360
